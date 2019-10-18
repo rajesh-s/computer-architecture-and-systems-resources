@@ -23,8 +23,12 @@ A curated list of awesome Computer Architecture resources
 - [HPCA](https://www.computer.org/conferences/cfp/HPCA2020) - International Symposium on High-Performance Computer Architecture by IEEE Computer Society
 - [Hot Chips](https://www.hotchips.org/) - A Symposium on High Performance Chips
 - [PASC](https://pasc-conference.org/) - The Platform for Advanced Scientific Computing (PASC) Conference is an interdisciplinary conference in HPC that brings together domain science, applied mathematics and computer science – where computer science is focused on enabling the realization of scientific computation.
+- [ISC HIGH PERFORMANCE](https://www.isc-hpc.com/) - Evnt for HPC, Networking, Storage, AI/ML
 
 ## MOOCs
+
+- Prof. Onur Mutlu's [lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g/playlists)
+- Computer Architecture [course](https://www.coursera.org/learn/comparch) by David Wentzlaff on Coursera
 
 ## Books
 
