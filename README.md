@@ -30,7 +30,10 @@ A curated list of awesome Computer Architecture resources
 - Prof. Onur Mutlu's [lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g/playlists)
 - Computer Architecture [course](https://www.coursera.org/learn/comparch) by David Wentzlaff on Coursera
 
-## Books
+## Blogs/ Books
+
+- ZipCPU's [blog](http://zipcpu.com/) - A good starting point for Verilog/ FPGA/ Formal Verification
+- Eric LaForest's [blog](http://fpgacpu.ca/) as a resource about FPGAs, computer history, and computer architecture.
 
 ## Open Source Tools
 
