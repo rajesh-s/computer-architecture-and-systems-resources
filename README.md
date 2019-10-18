@@ -44,6 +44,7 @@ A curated list of awesome Computer Architecture resources
 - [Icarus Verilog](https://github.com/steveicarus/iverilog)
 - [SymbiFlow](https://symbiflow.github.io)
 - [gem5](http://gem5.org/Main_Page)
+- [Wavedrom](https://wavedrom.com/)
 
 ## Interesting Resources
 
