@@ -52,3 +52,7 @@ A curated list of awesome Computer Architecture resources
 - [Workshop on Open Source Design Automation (OSDA)](https://osda.gitlab.io/)
 - [A great resource on upcoming Systems conferences and venues](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
 - [Computer Latency at a Human Scale](https://www.prowesscorp.com/computer-latency-at-a-human-scale/)
+
+## Other lists related to CompArch
+
+- [Deep Learning Hardware resources](https://github.com/RaviVijay/awesome-dl-hw-resources)
