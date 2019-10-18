@@ -1,5 +1,7 @@
 # awesome-computer-architecture
 
+A curated list of awesome Computer Architecture resources
+
 ## Conferences
 
 - [ISCA](https://iscaconf.org/) - International Symposium on Computer Architecture
