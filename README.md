@@ -45,3 +45,5 @@ A curated list of awesome Computer Architecture resources
 ## Interesting Resources
 
 - [Computer Architecture Aggregated Hall-of-Fame](http://moin.ece.gatech.edu/cathof.html)
+- [Workshop on Open Source Design Automation (OSDA)](https://osda.gitlab.io/)
+- [A great resource on upcoming Systems conferences and venues](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
