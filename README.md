@@ -9,6 +9,10 @@ A curated list of awesome Computer Architecture resources
 - [MICRO](https://www.microarch.org/) - IEEE International Symposium on Microarchitecture
 - [ISCAS](https://iscas2020.org/) - IEEE International Symposium on Circuits and Systems
 
+- Search tools for conferences:
+    - [ConfSearch](http://confsearch.ethz.ch/confsearch/)
+    - [WikiCfp](http://www.wikicfp.com/cfp/)
+
 ### Open Source centric
 
 - [ORConf](https://orconf.org/) - The open source digital design conference organized by the [Free and Open Source Silicon (FOSSi) Foundation](https://fossi-foundation.org/)
