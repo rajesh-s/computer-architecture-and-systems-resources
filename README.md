@@ -1,4 +1,4 @@
-# awesome-computer-architecture
+# awesome-computer-architecture [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of awesome Computer Architecture resources
 
