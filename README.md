@@ -51,6 +51,12 @@ A curated list of awesome Computer Architecture resources
 - [gem5](http://gem5.org/Main_Page)
 - [Wavedrom](https://wavedrom.com/)
 
+## Communities
+
+- [ACM](https://www.acm.org/) Association for Computing Machinery
+- [SIGARCH](https://www.sigarch.org/) Computer professionals working on the forefront of computer design in both industry and academia.
+- [Semiconductor Research Coroportation](https://www.src.org/)
+
 ## Interesting Resources
 
 - [Computer Architecture Aggregated Hall-of-Fame](http://moin.ece.gatech.edu/cathof.html)
