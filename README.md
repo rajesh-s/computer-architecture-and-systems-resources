@@ -40,9 +40,11 @@ A curated list of awesome Computer Architecture resources
 - ZipCPU's [blog](http://zipcpu.com/) - A good starting point for Verilog/ FPGA/ Formal Verification
 - Eric LaForest's [blog](http://fpgacpu.ca/) as a resource about FPGAs, computer history, and computer architecture.
 
-## Open Source Tools
+## Tools and Utilities
 
-- [Verilator](https://www.veripool.org/projects/verilator/)
+### Open Source Tools for Digital Design
+
+- [Verilator](https://www.veripool.org/projects/verilator/) - Verilator is the fastest free Verilog HDL simulator, and outperforms most commercial simulators
 - [GTKWave](http://gtkwave.sourceforge.net/)
 - [SymbiYosys](https://symbiyosys.readthedocs.io/en/latest/quickstart.html)
 - [Yosys](http://www.clifford.at/yosys/)
@@ -50,6 +52,31 @@ A curated list of awesome Computer Architecture resources
 - [SymbiFlow](https://symbiflow.github.io)
 - [gem5](http://gem5.org/Main_Page)
 - [Wavedrom](https://wavedrom.com/)
+- [Glade](https://peardrop.co.uk/) - Fast IC layout and schematic editor capable of reading and writing common EDA formats
+
+### Simulators
+
+- [DigitalJS(https://github.com/tilk/digitaljs) - Visualize and simulate digital logic using HDL
+- [FireSim](https://fires.im) - FireSim is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs
+- [Venus](https://github.com/kvakil/venus) - Venus is a RISC-V instruction set simulator built for education.
+- [EDA Playground](https://www.edaplayground.com/) - Run HDL/HVL code in your browser
+- [Electronic Circuit Simulator](https://www.falstad.com/circuit/)
+- [CPULator](https://cpulator.01xz.net/) - CPUlator Computer System Simulator designed as a tool for learning assembly-language programming and computer organization
+- [ASMBits](https://asmbits.01xz.net/wiki/Main_Page) - Assembly Practice
+- [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) - Verilog Practice
+- [8bit Workshop](http://8bitworkshop.com/redir.html?platform=verilog) - Verilog to waves instantly
+
+
+### Emulators
+
+- [TinyEMU](https://bellard.org/tinyemu/) - TinyEMU is a system emulator for the RISC-V and x86 architectures.
+- [Unicorn ](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
+
+### Utilities
+
+- [AirHDL](https://airhdl.com) - Create register maps and headers
+- [BitBench](http://triq.net/bitbench) - Visually dissect and analyze bit strings.
+- [Emulator for Ben Eater's 8bit computer](https://fizzgig.itch.io/8-bit-breadboard-computer)
 
 ## Communities
 
