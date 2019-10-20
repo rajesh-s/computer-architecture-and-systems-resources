@@ -27,6 +27,7 @@ Table of Contents
 - [ASPLOS](https://asplos-conference.org/) - ASPLOS is the premier forum for interdisciplinary systems research, intersecting computer architecture, hardware and emerging technologies, programming languages and compilers, operating systems, and networking.
 - [MICRO](https://www.microarch.org/) - IEEE International Symposium on Microarchitecture
 - [ISCAS](https://iscas2020.org/) - IEEE International Symposium on Circuits and Systems
+- [ICONS](https://ornlcda.github.io/icons2019/) - Conference on Neuromorphic Computing
 
 - Search tools for conferences:
     - [ConfSearch](http://confsearch.ethz.ch/confsearch/)
