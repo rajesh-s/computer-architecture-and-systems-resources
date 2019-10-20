@@ -28,7 +28,7 @@ A curated list of awesome Computer Architecture resources
 - [HPCA](https://www.computer.org/conferences/cfp/HPCA2020) - International Symposium on High-Performance Computer Architecture by IEEE Computer Society
 - [Hot Chips](https://www.hotchips.org/) - A Symposium on High Performance Chips
 - [PASC](https://pasc-conference.org/) - The Platform for Advanced Scientific Computing (PASC) Conference is an interdisciplinary conference in HPC that brings together domain science, applied mathematics and computer science – where computer science is focused on enabling the realization of scientific computation.
-- [ISC HIGH PERFORMANCE](https://www.isc-hpc.com/) - Evnt for HPC, Networking, Storage, AI/ML
+- [ISC HIGH PERFORMANCE](https://www.isc-hpc.com/) - Event for HPC, Networking, Storage, AI/ML
 
 ## MOOCs
 
@@ -39,6 +39,7 @@ A curated list of awesome Computer Architecture resources
 
 - ZipCPU's [blog](http://zipcpu.com/) - A good starting point for Verilog/ FPGA/ Formal Verification
 - Eric LaForest's [blog](http://fpgacpu.ca/) as a resource about FPGAs, computer history, and computer architecture.
+- David Fong's ASIC architecture [blog](https://daffy1108.wordpress.com/)
 
 ## Tools and Utilities
 
@@ -78,6 +79,8 @@ A curated list of awesome Computer Architecture resources
 - [AirHDL](https://airhdl.com) - Create register maps and headers
 - [BitBench](http://triq.net/bitbench) - Visually dissect and analyze bit strings.
 - [Emulator for Ben Eater's 8bit computer](https://fizzgig.itch.io/8-bit-breadboard-computer)
+- [Bitfield](https://github.com/drom/bitfield) - BitField diagram Renderer
+- [Diagrammer](https://github.com/freechipsproject/diagrammer) - Provides dot visualizations of chisel/firrtl circuites
 
 ## Communities
 
@@ -96,6 +99,7 @@ A curated list of awesome Computer Architecture resources
 - [Networking conference search tool](
 http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=usenix%20asplos%20ewsn%20hotnets%20hotos%20ipsn%20isca%20micro%20mobicom%20mobihoc%20mobisys%20nsdi%20osdi%20sensys%20sigcomm%20sosp%20uist&sortMode=1&graphicView=1)
 - [Libre Silicon Project](https://libresilicon.com/) - An open source semiconductor manufacturing process standard
+- [Discussion on Lowlevel LLVM-like language as HDL middle layer](https://github.com/SymbiFlow/ideas/issues/19)
 
 ## Other specific curated lists related to CompArch
 
