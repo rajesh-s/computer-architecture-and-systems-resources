@@ -87,6 +87,7 @@ Table of Contents
 - [ngspice](http://ngspice.sourceforge.net/) - open source spice simulator
 - [The Open Road Project](https://github.com/The-OpenROAD-Project) - Includes [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA), [RePlAce](https://github.com/The-OpenROAD-Project/RePlAce), [OpenDB](https://github.com/The-OpenROAD-Project/OpenDB), [ioPlacer](https://github.com/The-OpenROAD-Project/ioPlacer), [FastRoute4](https://github.com/The-OpenROAD-Project/FastRoute4-lefdef) and other tools.
 - [Open Register Design](https://github.com/Juniper/open-register-design-tool) - Tool to generate register RTL, models, and docs using SystemRDL or JSpec input
+- [LibrePCB](https://librepcb.org/) - A powerful, innovative and intuitive EDA tool for everyone!
   
 ### Simulators
 
@@ -137,6 +138,7 @@ http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=usenix%
 - [Discussion on Lowlevel LLVM-like language as HDL middle layer](https://github.com/SymbiFlow/ideas/issues/19)
 - [Chips for Machine Intelligence in 2019](https://www.jameswhanlon.com/new-chips-for-machine-intelligence.html)
 - [Microprocessor trend data](https://github.com/karlrupp/microprocessor-trend-data)
+- [Demonstration of Hardware Effects](https://github.com/Kobzol/hardware-effects) - This repository demonstrates various hardware effects that can degrade application performance in surprising ways and that may be very hard to explain without knowledge of the low-level CPU and OS architecture. 
 
 ## Other specific curated lists related to CompArch
 
