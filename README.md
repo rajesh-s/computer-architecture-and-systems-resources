@@ -20,6 +20,7 @@ A curated list of awesome Computer Architecture resources
 ### Interconnects
 
 - [Hot Interconnects](http://www.hoti.org/) - Symposium on High-Performance Interconnects
+- [International Symposium on Networks-on-Chip (NOCS)](https://www.engr.colostate.edu/nocs2019/) is dedicated to interdisciplinary research on on-chip, package-scale, chip-to-chip, and datacenter rack-scale communication technology, architecture, design methods, applications and systems.
 
 ### High Performance Computing
 
