@@ -68,13 +68,14 @@ Table of Contents
 
 - [Verilator](https://www.veripool.org/projects/verilator/) - Verilator is the fastest free Verilog HDL simulator, and outperforms most commercial simulators
 - [Icarus Verilog](https://github.com/steveicarus/iverilog) - Icarus Verilog is not aimed at being a simulator in the traditional sense, but a compiler that generates code employed by back-end tools.
-- [SymbiFlow](https://symbiflow.github.io) - Open source FPGA tooling
+- [SymbiFlow](https://symbiflow.github.io) - Open source FPGA tooling available under [YosysHQ](https://github.com/YosysHQ)
 - [GTKWave](http://gtkwave.sourceforge.net/) - GTKWave is a fully featured GTK+ based wave viewer.
 - [Wavedrom](https://wavedrom.com/) - WaveDrom draws your Timing Diagram or Waveform from simple textual description.
 - [SymbiYosys](https://github.com/YosysHQ/SymbiYosys) - Front-end for Yosys-based formal verification flows
 - [Yosys](http://www.clifford.at/yosys/) - Yosys is a framework for Verilog RTL synthesis.
 - [Open Timer](https://github.com/OpenTimer/OpenTimer) - A High-Performance Timing Analysis Tool for VLSI Systems
 - [Glade](https://peardrop.co.uk/) - Fast IC layout and schematic editor capable of reading and writing common EDA formats
+- [OpenRAM](https://openram.soe.ucsc.edu) - An [open-source](https://github.com/VLSIDA/OpenRAM) static random access memory (SRAM) compiler.
 - [Open Circuit Design Flow](http://opencircuitdesign.com/) - A suite of tools including Qflow covering various aspects of digital design
   - [Magic](http://opencircuitdesign.com/magic/index.html) - the VLSI layout editor, extraction, and DRC tool.
   - [XCircuit](http://opencircuitdesign.com/xcircuit/index.html) - the circuit drawing and schematic capture tool.
@@ -85,6 +86,7 @@ Table of Contents
   - [PCB](http://opencircuitdesign.com/pcb/index.html) - the printed circuit board layout editor.
 - [ngspice](http://ngspice.sourceforge.net/) - open source spice simulator
 - [The Open Road Project](https://github.com/The-OpenROAD-Project) - Includes [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA), [RePlAce](https://github.com/The-OpenROAD-Project/RePlAce), [OpenDB](https://github.com/The-OpenROAD-Project/OpenDB), [ioPlacer](https://github.com/The-OpenROAD-Project/ioPlacer), [FastRoute4](https://github.com/The-OpenROAD-Project/FastRoute4-lefdef) and other tools.
+- [Open Register Design](https://github.com/Juniper/open-register-design-tool) - Tool to generate register RTL, models, and docs using SystemRDL or JSpec input
   
 ### Simulators
 
@@ -98,6 +100,8 @@ Table of Contents
 - [ASMBits](https://asmbits.01xz.net/wiki/Main_Page) - Assembly Practice
 - [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) - Verilog Practice
 - [8bit Workshop](http://8bitworkshop.com/redir.html?platform=verilog) - Verilog to waves instantly
+- [Logic Design and Circuit Simulator](https://github.com/hneemann/Digital)
+
 
 
 ### Emulators
@@ -139,3 +143,4 @@ http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=usenix%
 - [Deep Learning Hardware resources](https://github.com/RaviVijay/awesome-dl-hw-resources) A curated list of awesome hardware/chip design resources for deep learning
 - [Awesome-HDL](https://github.com/drom/awesome-hdl) A curated list of amazingly awesome hardware description language projects.
 - [Awesome-Quantum-Computing](https://github.com/desireevl/awesome-quantum-computing) - A curated list of awesome quantum computing learning and developing resources.
+- [Getting started with FPGA](https://github.com/lastweek/FPGA) - This repository is intended for folks who are new and want to learn something about FPGA. This repository is a collection of useful resources and links rather than a thorough FPGA tutorial.
