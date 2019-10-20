@@ -84,6 +84,8 @@ A curated list of awesome Computer Architecture resources
 - [ACM](https://www.acm.org/) Association for Computing Machinery
 - [SIGARCH](https://www.sigarch.org/) Computer professionals working on the forefront of computer design in both industry and academia.
 - [Semiconductor Research Coroportation](https://www.src.org/)
+- [CHIPS Alliance](https://chipsalliance.org/) - CHIPS (Common Hardware for Interfaces, Processors and Systems) Alliance harnesses the energy of open source collaboration to accelerate hardware development.
+- [OpenCAPI](https://opencapi.org/) - Open Coherent Accelerator Processor Interface
 
 ## Interesting Resources
 
@@ -95,6 +97,7 @@ A curated list of awesome Computer Architecture resources
 http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=usenix%20asplos%20ewsn%20hotnets%20hotos%20ipsn%20isca%20micro%20mobicom%20mobihoc%20mobisys%20nsdi%20osdi%20sensys%20sigcomm%20sosp%20uist&sortMode=1&graphicView=1)
 - [Libre Silicon Project](https://libresilicon.com/) - An open source semiconductor manufacturing process standard
 
-## Other lists related to CompArch
+## Other specific curated lists related to CompArch
 
-- [Deep Learning Hardware resources](https://github.com/RaviVijay/awesome-dl-hw-resources)
+- [Deep Learning Hardware resources](https://github.com/RaviVijay/awesome-dl-hw-resources) A curated list of awesome hardware/chip design resources for deep learning
+- [Awesome-HDL](https://github.com/drom/awesome-hdl) A curated list of amazingly awesome hardware description language projects.
