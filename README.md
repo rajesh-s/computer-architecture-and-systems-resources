@@ -65,6 +65,7 @@ A curated list of awesome Computer Architecture resources
 - [Computer Latency at a Human Scale](https://www.prowesscorp.com/computer-latency-at-a-human-scale/)
 - [Networking conference search tool](
 http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=usenix%20asplos%20ewsn%20hotnets%20hotos%20ipsn%20isca%20micro%20mobicom%20mobihoc%20mobisys%20nsdi%20osdi%20sensys%20sigcomm%20sosp%20uist&sortMode=1&graphicView=1)
+- [Libre Silicon Project](https://libresilicon.com/) - An open source semiconductor manufacturing process standard
 
 ## Other lists related to CompArch
 
