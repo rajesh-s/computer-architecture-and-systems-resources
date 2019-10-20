@@ -2,6 +2,25 @@
 
 A curated list of awesome Computer Architecture resources
 
+Table of Contents
+=================
+
+* [Conferences](#conferences)
+   * [Open Source centric](#open-source-centric)
+   * [Interconnects](#interconnects)
+   * [High Performance Computing](#high-performance-computing)
+* [MOOCs](#moocs)
+* [Blogs/ Books](#blogs-books)
+* [Tools and Utilities](#tools-and-utilities)
+   * [Open Source Tools for Digital Design](#open-source-tools-for-digital-design)
+   * [Simulators](#simulators)
+   * [Emulators](#emulators)
+   * [Utilities](#utilities)
+* [Communities](#communities)
+* [Interesting Resources](#interesting-resources)
+* [Other specific curated lists related to CompArch](#other-specific-curated-lists-related-to-comparch)
+
+
 ## Conferences
 
 - [ISCA](https://iscaconf.org/) - International Symposium on Computer Architecture
