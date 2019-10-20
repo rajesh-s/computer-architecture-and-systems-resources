@@ -84,6 +84,7 @@ Table of Contents
   - [Qflow](http://opencircuitdesign.com/qflow/index.html) - a complete digital synthesis design flow using open-source software and open-source standard cell libraries.
   - [PCB](http://opencircuitdesign.com/pcb/index.html) - the printed circuit board layout editor.
 - [ngspice](http://ngspice.sourceforge.net/) - open source spice simulator
+- [The Open Road Project](https://github.com/The-OpenROAD-Project) - Include [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA), [RePlAce](https://github.com/The-OpenROAD-Project/RePlAce), [OpenDB](https://github.com/The-OpenROAD-Project/OpenDB), [ioPlacer](https://github.com/The-OpenROAD-Project/ioPlacer), [FastRoute4](https://github.com/The-OpenROAD-Project/FastRoute4-lefdef) and other tools.
   
 ### Simulators
 
@@ -131,8 +132,10 @@ http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=usenix%
 - [Libre Silicon Project](https://libresilicon.com/) - An open source semiconductor manufacturing process standard
 - [Discussion on Lowlevel LLVM-like language as HDL middle layer](https://github.com/SymbiFlow/ideas/issues/19)
 - [Chips for Machine Intelligence in 2019](https://www.jameswhanlon.com/new-chips-for-machine-intelligence.html)
+- [Microprocessor trend data](https://github.com/karlrupp/microprocessor-trend-data)
 
 ## Other specific curated lists related to CompArch
 
 - [Deep Learning Hardware resources](https://github.com/RaviVijay/awesome-dl-hw-resources) A curated list of awesome hardware/chip design resources for deep learning
 - [Awesome-HDL](https://github.com/drom/awesome-hdl) A curated list of amazingly awesome hardware description language projects.
+- [Awesome-Quantum-Computing](https://github.com/desireevl/awesome-quantum-computing) - A curated list of awesome quantum computing learning and developing resources.
