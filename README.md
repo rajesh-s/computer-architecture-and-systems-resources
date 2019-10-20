@@ -45,17 +45,18 @@ A curated list of awesome Computer Architecture resources
 ### Open Source Tools for Digital Design
 
 - [Verilator](https://www.veripool.org/projects/verilator/) - Verilator is the fastest free Verilog HDL simulator, and outperforms most commercial simulators
-- [GTKWave](http://gtkwave.sourceforge.net/)
-- [SymbiYosys](https://symbiyosys.readthedocs.io/en/latest/quickstart.html)
-- [Yosys](http://www.clifford.at/yosys/)
-- [Icarus Verilog](https://github.com/steveicarus/iverilog)
-- [SymbiFlow](https://symbiflow.github.io)
-- [gem5](http://gem5.org/Main_Page)
-- [Wavedrom](https://wavedrom.com/)
+- [Icarus Verilog](https://github.com/steveicarus/iverilog) - Icarus Verilog is not aimed at being a simulator in the traditional sense, but a compiler that generates code employed by back-end tools.
+- [SymbiFlow](https://symbiflow.github.io) - Open source FPGA tooling
+- [GTKWave](http://gtkwave.sourceforge.net/) - GTKWave is a fully featured GTK+ based wave viewer.
+- [Wavedrom](https://wavedrom.com/) - WaveDrom draws your Timing Diagram or Waveform from simple textual description.
+- [SymbiYosys](https://github.com/YosysHQ/SymbiYosys) - Front-end for Yosys-based formal verification flows
+- [Yosys](http://www.clifford.at/yosys/) - Yosys is a framework for Verilog RTL synthesis.
+- [Open Timer](https://github.com/OpenTimer/OpenTimer) - A High-Performance Timing Analysis Tool for VLSI Systems
 - [Glade](https://peardrop.co.uk/) - Fast IC layout and schematic editor capable of reading and writing common EDA formats
 
 ### Simulators
 
+- [gem5](http://gem5.org/Main_Page) - The gem5 simulator is a modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.
 - [DigitalJS](https://github.com/tilk/digitaljs) - Visualize and simulate digital logic using HDL
 - [FireSim](https://fires.im) - FireSim is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs
 - [Venus](https://github.com/kvakil/venus) - Venus is a RISC-V instruction set simulator built for education.
