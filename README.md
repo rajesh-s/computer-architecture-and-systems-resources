@@ -49,7 +49,7 @@ Table of Contents
 - [HPCA](https://www.computer.org/conferences/cfp/HPCA2020) - International Symposium on High-Performance Computer Architecture by IEEE Computer Society
 - [Hot Chips](https://www.hotchips.org/) - A Symposium on High Performance Chips
 - [PASC](https://pasc-conference.org/) - The Platform for Advanced Scientific Computing (PASC) Conference is an interdisciplinary conference in HPC that brings together domain science, applied mathematics and computer science – where computer science is focused on enabling the realization of scientific computation.
-- [ISC HIGH PERFORMANCE](https://www.isc-hpc.com/) - Event for HPC, Networking, Storage, AI/ML
+- [ISC High Performance](https://www.isc-hpc.com/) - Event for HPC, Networking, Storage, AI/ML
 
 ## MOOCs
 
