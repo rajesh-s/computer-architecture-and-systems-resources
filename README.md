@@ -36,6 +36,7 @@ Table of Contents
 ### Open Source centric
 
 - [ORConf](https://orconf.org/) - The open source digital design conference organized by the [Free and Open Source Silicon (FOSSi) Foundation](https://fossi-foundation.org/)
+- [WOSH](https://fossi-foundation.org/wosh/) - Week of Open Source Hardware alongwith [The RISCV Workshop](https://tmt.knect365.com/risc-v-workshop-zurich/)
 
 ### Interconnects
 
@@ -74,7 +75,16 @@ Table of Contents
 - [Yosys](http://www.clifford.at/yosys/) - Yosys is a framework for Verilog RTL synthesis.
 - [Open Timer](https://github.com/OpenTimer/OpenTimer) - A High-Performance Timing Analysis Tool for VLSI Systems
 - [Glade](https://peardrop.co.uk/) - Fast IC layout and schematic editor capable of reading and writing common EDA formats
-
+- [Open Circuit Design Flow](http://opencircuitdesign.com/) - A suite of tools including Qflow covering various aspects of digital design
+  - [Magic](http://opencircuitdesign.com/magic/index.html) - the VLSI layout editor, extraction, and DRC tool.
+  - [XCircuit](http://opencircuitdesign.com/xcircuit/index.html) - the circuit drawing and schematic capture tool.
+  - [IRSIM](http://opencircuitdesign.com/irsim/index.html) - the switch-level digital circuit simulator.
+  - [Netgen](http://opencircuitdesign.com/netgen/index.html) - the circuit netlist comparison (LVS) and netlist conversion tool.
+  - [Qrouter](http://opencircuitdesign.com/qrouter/index.html) - the over-the-cell (sea-of-gates) detail router.
+  - [Qflow](http://opencircuitdesign.com/qflow/index.html) - a complete digital synthesis design flow using open-source software and open-source standard cell libraries.
+  - [PCB](http://opencircuitdesign.com/pcb/index.html) - the printed circuit board layout editor.
+- [ngspice](http://ngspice.sourceforge.net/) - open source spice simulator
+  
 ### Simulators
 
 - [gem5](http://gem5.org/Main_Page) - The gem5 simulator is a modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.
