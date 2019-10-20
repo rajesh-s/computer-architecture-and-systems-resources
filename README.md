@@ -56,7 +56,7 @@ A curated list of awesome Computer Architecture resources
 
 ### Simulators
 
-- [DigitalJS(https://github.com/tilk/digitaljs) - Visualize and simulate digital logic using HDL
+- [DigitalJS](https://github.com/tilk/digitaljs) - Visualize and simulate digital logic using HDL
 - [FireSim](https://fires.im) - FireSim is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs
 - [Venus](https://github.com/kvakil/venus) - Venus is a RISC-V instruction set simulator built for education.
 - [EDA Playground](https://www.edaplayground.com/) - Run HDL/HVL code in your browser
