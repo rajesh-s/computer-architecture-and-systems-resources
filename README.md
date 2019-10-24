@@ -141,6 +141,10 @@ http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=usenix%
 - [Microprocessor trend data](https://github.com/karlrupp/microprocessor-trend-data)
 - [Demonstration of Hardware Effects](https://github.com/Kobzol/hardware-effects) - This repository demonstrates various hardware effects that can degrade application performance in surprising ways and that may be very hard to explain without knowledge of the low-level CPU and OS architecture. 
 
+## Digging Deeper
+- [Interconnects](./more/interconnects.md)
+- [Processors](./more/processors.md)
+
 ## Other specific curated lists related to CompArch
 
 - [Deep Learning Hardware resources](https://github.com/RaviVijay/awesome-dl-hw-resources) A curated list of awesome hardware/chip design resources for deep learning
