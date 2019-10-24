@@ -117,6 +117,7 @@ Table of Contents
 - [Emulator for Ben Eater's 8bit computer](https://fizzgig.itch.io/8-bit-breadboard-computer)
 - [Bitfield](https://github.com/drom/bitfield) - BitField diagram Renderer
 - [Diagrammer](https://github.com/freechipsproject/diagrammer) - Provides dot visualizations of chisel/firrtl circuites
+- [VCD2Wavedro](https://github.com/Toroid-io/vcd2wavedrom) - Handy for getting from simulation to spec quickly.
 
 ## Communities
 
