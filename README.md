@@ -34,6 +34,11 @@ Table of Contents
     - [ConfSearch](http://confsearch.ethz.ch/confsearch/)
     - [WikiCfp](http://www.wikicfp.com/cfp/)
 
+- Halls of Fame:
+    - [SOSP/OSDI](https://www.cs.utexas.edu/~vijay/hall.html) - Systems Research
+    - [ISCA](http://pages.cs.wisc.edu/~arch/www/iscabibhall.html)
+    - [MICRO](http://newsletter.sigmicro.org/micro-hof.txt/view) - Microarchitecture
+    - [Computer Architecture Aggregated Hall-of-Fame](http://moin.ece.gatech.edu/cathof.html)
 ### Open Source centric
 
 - [ORConf](https://orconf.org/) - The open source digital design conference organized by the [Free and Open Source Silicon (FOSSi) Foundation](https://fossi-foundation.org/)
@@ -132,7 +137,6 @@ Table of Contents
 
 ## Interesting Resources
 
-- [Computer Architecture Aggregated Hall-of-Fame](http://moin.ece.gatech.edu/cathof.html)
 - [Workshop on Open Source Design Automation (OSDA)](https://osda.gitlab.io/)
 - [A great resource on upcoming Systems conferences and venues](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
 - [Computer Latency at a Human Scale](https://www.prowesscorp.com/computer-latency-at-a-human-scale/)
