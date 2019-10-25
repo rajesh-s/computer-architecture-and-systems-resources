@@ -18,6 +18,7 @@ Table of Contents
    * [Utilities](#utilities)
 * [Communities](#communities)
 * [Interesting Resources](#interesting-resources)
+* [Digging Deeper](#digging-deeper)
 * [Other specific curated lists related to CompArch](#other-specific-curated-lists-related-to-comparch)
 
 
