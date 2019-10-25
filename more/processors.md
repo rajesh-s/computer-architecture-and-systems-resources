@@ -5,6 +5,7 @@ Everything about processors
 ## Open-source digital design implementations of Processors
 
 - [ZipCPU](https://github.com/ZipCPU/zipcpu) - A small, light weight, RISC CPU soft core
+- [Microwatt](https://github.com/antonblanchard/microwatt/) - A tiny Open POWER ISA softcore written in VHDL for FPGAs
 
 
 ### RISCV based
