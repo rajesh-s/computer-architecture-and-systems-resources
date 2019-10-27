@@ -61,6 +61,8 @@ Table of Contents
 
 - Prof. Onur Mutlu's [lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g/playlists) and [talks](https://people.inf.ethz.ch/omutlu/talks.htm)
 - Computer Architecture [course](https://www.coursera.org/learn/comparch) by David Wentzlaff on Coursera
+- [Notes](https://github.com/aphyr/distsys-class) on an introduction to distributed systems.
+
 
 ## Blogs/ Books
 
@@ -108,8 +110,6 @@ Table of Contents
 - [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) - Verilog Practice
 - [8bit Workshop](http://8bitworkshop.com/redir.html?platform=verilog) - Verilog to waves instantly
 - [Logic Design and Circuit Simulator](https://github.com/hneemann/Digital)
-
-
 
 ### Emulators
 
