@@ -15,7 +15,6 @@ Table of Contents
    * [Open Source Tools for Digital Design](#open-source-tools-for-digital-design)
    * [Simulators](#simulators)
    * [Emulators](#emulators)
-   * [Utilities for Hardware Design](#utilities-for-hardware-design)
 * [Communities](#communities)
 * [Interesting Resources](#interesting-resources)
 * [Digging Deeper](#digging-deeper)
@@ -63,7 +62,6 @@ Table of Contents
 - Prof. Onur Mutlu's [lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g/playlists) and [talks](https://people.inf.ethz.ch/omutlu/talks.htm)
 - Computer Architecture [course](https://www.coursera.org/learn/comparch) by David Wentzlaff on Coursera
 - [Notes](https://github.com/aphyr/distsys-class) on an introduction to distributed systems.
-
 
 ## Blogs/ Books
 
@@ -116,19 +114,7 @@ Table of Contents
 
 - [TinyEMU](https://bellard.org/tinyemu/) - TinyEMU is a system emulator for the RISC-V and x86 architectures.
 - [Unicorn ](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
-
-### Utilities for Hardware Design
-
-- [AirHDL](https://airhdl.com) - Create register maps and headers
-- [BitBench](http://triq.net/bitbench) - Visually dissect and analyze bit strings.
 - [Emulator for Ben Eater's 8bit computer](https://fizzgig.itch.io/8-bit-breadboard-computer)
-- [Bitfield](https://github.com/drom/bitfield) - BitField diagram Renderer
-- [Diagrammer](https://github.com/freechipsproject/diagrammer) - Provides dot visualizations of chisel/firrtl circuites
-- [VCD2Wavedrom](https://github.com/Toroid-io/vcd2wavedrom) - Handy for getting from simulation to spec quickly.
-- [ipyxact](https://github.com/olofk/ipyxact) - Python-based IP-XACT parser
-- [sv2v](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog conversion
-- [svint](https://github.com/dalance/svlint) - System Verilog lint using rust
-- [Wavedrom to Verilog](https://github.com/wavedrom/verilog)
 
 ## Communities
 
@@ -154,6 +140,7 @@ http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=usenix%
 ## Digging Deeper
 - [Interconnects](./more/interconnects.md)
 - [Processors](./more/processors.md)
+- [Hardware Design](./more/hardware_design.md)
 
 ## Other specific curated lists related to CompArch
 
