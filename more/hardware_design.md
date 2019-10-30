@@ -33,6 +33,11 @@
 - [Blog on Physical Design](https://gogul.dev/hardware/physical-design) - Informative blog. A good starting point.
 - [UPF Commands and options](https://semiengineering.com/empowering-upf-commands-with-effective-elements-lists/)
 
+### Course & Tutorials
+- [Verilog, Formal Verification and Verilator Beginner's Tutorial](http://zipcpu.com/tutorial/#training)
+- [ASIC Verilog](http://asic-world.com/verilog/veritut.html)
+- [NANDLand Verilog](https://www.nandland.com/verilog/tutorials/tutorial-introduction-to-verilog-for-beginners.html)
+- [FPGA Tutorial](https://www.fpga4fun.com/)
 
 ### Books
 
