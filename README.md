@@ -138,9 +138,14 @@ http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=usenix%
 - [Demonstration of Hardware Effects](https://github.com/Kobzol/hardware-effects) - This repository demonstrates various hardware effects that can degrade application performance in surprising ways and that may be very hard to explain without knowledge of the low-level CPU and OS architecture. 
 
 ## Digging Deeper
-- [Interconnects](./more/interconnects.md)
-- [Processors](./more/processors.md)
+
+Computer Architecture is diverse and there's constant interplay between domains that are under it. Look under each of these to find specific information. (At the time of writing, these are the specific areas that I'm most interested in)
+
 - [Hardware Design](./more/hardware_design.md)
+- [Processors](./more/processors.md)
+- [Interconnects](./more/interconnects.md)
+- [Hardware-Software Interface](./more/hw_sw.md)
+- [High Performance Computing](./more/hpc.md)
 
 ## Other specific curated lists related to CompArch
 
