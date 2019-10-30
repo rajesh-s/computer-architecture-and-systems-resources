@@ -126,6 +126,7 @@ Table of Contents
 - [VCD2Wavedrom](https://github.com/Toroid-io/vcd2wavedrom) - Handy for getting from simulation to spec quickly.
 - [ipyxact](https://github.com/olofk/ipyxact) - Python-based IP-XACT parser
 - [sv2v](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog conversion
+- [svint](https://github.com/dalance/svlint) - System Verilog lint using rust
 - [Wavedrom to Verilog](https://github.com/wavedrom/verilog)
 
 ## Communities
