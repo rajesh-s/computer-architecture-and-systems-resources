@@ -15,7 +15,7 @@ Table of Contents
    * [Open Source Tools for Digital Design](#open-source-tools-for-digital-design)
    * [Simulators](#simulators)
    * [Emulators](#emulators)
-   * [Utilities](#utilities)
+   * [Utilities for Hardware Design](#utilities-for-hardware-design)
 * [Communities](#communities)
 * [Interesting Resources](#interesting-resources)
 * [Digging Deeper](#digging-deeper)
@@ -39,6 +39,7 @@ Table of Contents
     - [ISCA](http://pages.cs.wisc.edu/~arch/www/iscabibhall.html)
     - [MICRO](http://newsletter.sigmicro.org/micro-hof.txt/view) - Microarchitecture
     - [Computer Architecture Aggregated Hall-of-Fame](http://moin.ece.gatech.edu/cathof.html)
+
 ### Open Source centric
 
 - [ORConf](https://orconf.org/) - The open source digital design conference organized by the [Free and Open Source Silicon (FOSSi) Foundation](https://fossi-foundation.org/)
@@ -116,7 +117,7 @@ Table of Contents
 - [TinyEMU](https://bellard.org/tinyemu/) - TinyEMU is a system emulator for the RISC-V and x86 architectures.
 - [Unicorn ](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 
-### Utilities
+### Utilities for Hardware Design
 
 - [AirHDL](https://airhdl.com) - Create register maps and headers
 - [BitBench](http://triq.net/bitbench) - Visually dissect and analyze bit strings.
