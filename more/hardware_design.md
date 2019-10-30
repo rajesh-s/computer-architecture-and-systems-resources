@@ -2,11 +2,12 @@
 
 ## Chip Design (ASIC/FPGA/SoC)
 
-### Front-end
+### Projects
 
-#### Projects
+#### FPGA
+- [Blinky on every FPGA](https://github.com/fusesoc/blinky)
 
-#### Tools & Utilities
+### Tools & Utilities
 
 - [SystemVerilog Unit Test (SVUT)](https://github.com/damofthemoon/svut) - SVUT is a very simple flow to create a Verilog/SystemVerilog unit test.
 - [AirHDL](https://airhdl.com) - Create register maps and headers
@@ -19,17 +20,9 @@
 - [svint](https://github.com/dalance/svlint) - System Verilog lint using rust
 - [Wavedrom to Verilog](https://github.com/wavedrom/verilog)
 
-#### Articles & Resources
+### Articles & Resources
 
 - [SystemVerilog 2007 changelog explained](http://www.verilab.com/blog/2018/02/ieee-std1800-2017-for-systemverilog-what-changed/)
-- 
-
-### Back-end
-
-#### Projects
-#### Tools
-#### Articles & Resources
-
 - [Blog on Physical Design](https://gogul.dev/hardware/physical-design) - Informative blog. A good starting point.
 - [UPF Commands and options](https://semiengineering.com/empowering-upf-commands-with-effective-elements-lists/)
 
