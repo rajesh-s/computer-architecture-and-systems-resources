@@ -135,7 +135,7 @@ http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=usenix%
 - [Discussion on Lowlevel LLVM-like language as HDL middle layer](https://github.com/SymbiFlow/ideas/issues/19)
 - [Chips for Machine Intelligence in 2019](https://www.jameswhanlon.com/new-chips-for-machine-intelligence.html)
 - [Microprocessor trend data](https://github.com/karlrupp/microprocessor-trend-data)
-- [Demonstration of Hardware Effects](https://github.com/Kobzol/hardware-effects) - This repository demonstrates various hardware effects that can degrade application performance in surprising ways and that may be very hard to explain without knowledge of the low-level CPU and OS architecture. 
+- [Demonstration of Hardware Effects](https://github.com/Kobzol/hardware-effects) - This repository demonstrates various hardware effects that can degrade application performance in surprising ways and that may be very hard to explain without knowledge of the low-level CPU and OS architecture.
 
 ## Digging Deeper
 
@@ -144,6 +144,7 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Hardware Design](./more/hardware_design.md)
 - [Processors](./more/processors.md)
 - [Interconnects](./more/interconnects.md)
+- [Performance](./more/performance.md)
 - [Hardware-Software Interface](./more/hw_sw.md)
 - [High Performance Computing](./more/hpc.md)
 
