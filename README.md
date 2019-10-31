@@ -1,25 +1,26 @@
 # awesome-computer-architecture [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of awesome Computer Architecture resources
+A curated compendium of awesome Computer Architecture resources
 
 Table of Contents
 =================
 
-* [Conferences](#conferences)
-   * [Open Source centric](#open-source-centric)
-   * [Interconnects](#interconnects)
-   * [High Performance Computing](#high-performance-computing)
-* [MOOCs](#moocs)
-* [Blogs/ Books](#blogs-books)
-* [Tools and Utilities](#tools-and-utilities)
-   * [Open Source Tools for Digital Design](#open-source-tools-for-digital-design)
-   * [Simulators](#simulators)
-   * [Emulators](#emulators)
-* [Communities](#communities)
-* [Interesting Resources](#interesting-resources)
-* [Digging Deeper](#digging-deeper)
-* [Other specific curated lists related to CompArch](#other-specific-curated-lists-related-to-comparch)
-
+- [awesome-computer-architecture ![Awesome](https://awesome.re)](#awesome-computer-architecture-awesomehttpsawesomere)
+- [Table of Contents](#table-of-contents)
+  - [Conferences](#conferences)
+    - [Open Source centric](#open-source-centric)
+    - [Interconnects](#interconnects)
+    - [High Performance Computing](#high-performance-computing)
+  - [MOOCs](#moocs)
+  - [Blogs/ Books](#blogs-books)
+  - [Tools and Utilities](#tools-and-utilities)
+    - [Open Source Tools for Digital Design](#open-source-tools-for-digital-design)
+    - [Simulators](#simulators)
+    - [Emulators](#emulators)
+  - [Communities](#communities)
+  - [Interesting Resources](#interesting-resources)
+  - [Digging Deeper](#digging-deeper)
+  - [Other specific curated lists related to CompArch](#other-specific-curated-lists-related-to-comparch)
 
 ## Conferences
 
@@ -30,14 +31,14 @@ Table of Contents
 - [ICONS](https://ornlcda.github.io/icons2019/) - Conference on Neuromorphic Computing
 
 - Search tools for conferences:
-    - [ConfSearch](http://confsearch.ethz.ch/confsearch/)
-    - [WikiCfp](http://www.wikicfp.com/cfp/)
+  - [ConfSearch](http://confsearch.ethz.ch/confsearch/)
+  - [WikiCfp](http://www.wikicfp.com/cfp/)
 
 - Halls of Fame:
-    - [SOSP/OSDI](https://www.cs.utexas.edu/~vijay/hall.html) - Systems Research
-    - [ISCA](http://pages.cs.wisc.edu/~arch/www/iscabibhall.html)
-    - [MICRO](http://newsletter.sigmicro.org/micro-hof.txt/view) - Microarchitecture
-    - [Computer Architecture Aggregated Hall-of-Fame](http://moin.ece.gatech.edu/cathof.html)
+  - [SOSP/OSDI](https://www.cs.utexas.edu/~vijay/hall.html) - Systems Research
+  - [ISCA](http://pages.cs.wisc.edu/~arch/www/iscabibhall.html)
+  - [MICRO](http://newsletter.sigmicro.org/micro-hof.txt/view) - Microarchitecture
+  - [Computer Architecture Aggregated Hall-of-Fame](http://moin.ece.gatech.edu/cathof.html)
 
 ### Open Source centric
 
@@ -113,7 +114,7 @@ Table of Contents
 ### Emulators
 
 - [TinyEMU](https://bellard.org/tinyemu/) - TinyEMU is a system emulator for the RISC-V and x86 architectures.
-- [Unicorn ](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
+- [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 - [Emulator for Ben Eater's 8bit computer](https://fizzgig.itch.io/8-bit-breadboard-computer)
 
 ## Communities

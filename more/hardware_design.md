@@ -1,10 +1,26 @@
 # Hardware Design
 
+- [Hardware Design](#hardware-design)
+  - [Chip Design (ASIC/FPGA/SoC)](#chip-design-asicfpgasoc)
+    - [Projects](#projects)
+      - [FPGA](#fpga)
+    - [Tools & Utilities](#tools--utilities)
+    - [Articles & Resources](#articles--resources)
+    - [Course & Tutorials](#course--tutorials)
+    - [Analog Design](#analog-design)
+    - [Books](#books)
+  - [Board Level Design](#board-level-design)
+    - [Projects](#projects-1)
+    - [Tools](#tools)
+    - [Articles & Resources](#articles--resources-1)
+
 ## Chip Design (ASIC/FPGA/SoC)
 
 ### Projects
 
 #### FPGA
+
+- [FPGA Design Elements](https://github.com/laforest/FPGADesignElements) - A self-contained online book containing a library of FPGA design modules and related coding/design guides.
 - [Blinky on every FPGA](https://github.com/fusesoc/blinky)
 
 ### Tools & Utilities
@@ -23,14 +39,23 @@
 ### Articles & Resources
 
 - [SystemVerilog 2007 changelog explained](http://www.verilab.com/blog/2018/02/ieee-std1800-2017-for-systemverilog-what-changed/)
-- [Blog on Physical Design](https://gogul.dev/hardware/physical-design) - Informative blog. A good starting point.
+- Blogs on Physical Design
+  - [Informative blog. A good starting point.](https://gogul.dev/hardware/physical-design)
+  - [Good info on Clock Tree aspects](http://88physicaldesign.blogspot.com/)
+  - [All about Timing Analysis](http://www.vlsi-expert.com/p/static-timing-analysis.html?m=1)
 - [UPF Commands and options](https://semiengineering.com/empowering-upf-commands-with-effective-elements-lists/)
 
 ### Course & Tutorials
+
 - [Verilog, Formal Verification and Verilator Beginner's Tutorial](http://zipcpu.com/tutorial/#training)
 - [ASIC Verilog](http://asic-world.com/verilog/veritut.html)
 - [NANDLand Verilog](https://www.nandland.com/verilog/tutorials/tutorial-introduction-to-verilog-for-beginners.html)
 - [FPGA Tutorial](https://www.fpga4fun.com/)
+
+### Analog Design
+
+- [The Designer's Guide® Community](https://designers-guide.org/) Analog, mixed-signal and RF circuit designers come to learn about simulation, modeling and design.
+- [Using gm/Id methodology](https://eesurgeon.wordpress.com/2016/07/06/using-the-gmid-methodology-in-analog-circuit-design/)
 
 ### Books
 
@@ -39,6 +64,8 @@
 
 ## Board Level Design
 
-#### Projects
-#### Tools
-#### Articles & Resources
+### Projects
+
+### Tools
+
+### Articles & Resources

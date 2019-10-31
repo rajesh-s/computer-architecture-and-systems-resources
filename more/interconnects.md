@@ -1,15 +1,25 @@
 # Interconnects
 
 Everything about:
+
 - On-chip communication
 - Inter-chip communication
 - Computer Networks
+
+- [Interconnects](#interconnects)
+  - [Chip-level communication](#chip-level-communication)
+  - [Inter-Chip communication](#inter-chip-communication)
+  - [OpenSource Implementations](#opensource-implementations)
+    - [On-Chip](#on-chip)
+    - [Inter-chip](#inter-chip)
+  - [Resources](#resources)
 
 ## Chip-level communication
 
 - [Compute Express Link aka CXL](https://www.computeexpresslink.org/) Compute Express Link (CXL) is a new breakthrough high-speed CPU interconnect that enables a high-speed, efficient performance between the CPU and platform enhancements and workload accelerators.
 
 ## Inter-Chip communication
+
 - [Flexibly Scalable High Performance Architectures with Embedded Photonics](https://insidehpc.com/2019/07/flexibly-scalable-high-performance-architectures-with-embedded-photonics/)
 
 ## OpenSource Implementations
@@ -24,6 +34,7 @@ Everything about:
 - [Building a custom yet functional AXI-lite slave](https://zipcpu.com/blog/2019/01/12/demoaxilite.html)
 
 ### Inter-chip
+
 - [Ethernet Components](https://github.com/alexforencich/verilog-ethernet) - Collection of Ethernet-related components for gigabit, 10G, and 25G packet processing (8 bit and 64 bit datapaths).
 - [Corundum](https://github.com/ucsdsysnet/corundum) - Corundum is an open-source, high-performance FPGA-based NIC.
 
