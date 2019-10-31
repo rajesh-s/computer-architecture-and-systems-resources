@@ -5,7 +5,7 @@ A curated compendium of awesome Computer Architecture resources
 Table of Contents
 =================
 
-- [awesome-computer-architecture ![Awesome](https://awesome.re)](#awesome-computer-architecture-awesomehttpsawesomere)
+- [awesome-computer-architecture ![Awesome](https://awesome.re)](#awesome-computer-architecture)
 - [Table of Contents](#table-of-contents)
   - [Conferences](#conferences)
     - [Open Source centric](#open-source-centric)
