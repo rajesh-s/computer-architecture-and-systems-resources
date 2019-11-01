@@ -3,7 +3,7 @@
 A curated compendium of awesome Computer Architecture resources
 
 <p align="center">
-  <img width="500" height="500" src="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/MSc_Computer_Engineering/PastedGraphic-2.jpg">
+  <img src="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/MSc_Computer_Engineering/PastedGraphic-2.jpg">
 </p>
 
 Table of Contents
@@ -32,6 +32,7 @@ Table of Contents
 - [MICRO](https://www.microarch.org/) - IEEE International Symposium on Microarchitecture
 - [ISCAS](https://iscas2020.org/) - IEEE International Symposium on Circuits and Systems
 - [ICONS](https://ornlcda.github.io/icons2019/) - Conference on Neuromorphic Computing
+- [USENIX](https://www.usenix.org/conferences) - Systems Researchers
 
 - Search tools for conferences:
   - [ConfSearch](http://confsearch.ethz.ch/confsearch/)
