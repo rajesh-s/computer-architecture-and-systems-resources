@@ -1,6 +1,7 @@
 # awesome-computer-architecture [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated compendium of awesome Computer Architecture resources
+![The domain of Computer Engineering](https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/MSc_Computer_Engineering/PastedGraphic-2.jpg)
 
 Table of Contents
 =================
