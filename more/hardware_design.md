@@ -35,6 +35,7 @@
 - [sv2v](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog conversion
 - [svint](https://github.com/dalance/svlint) - System Verilog lint using rust
 - [Wavedrom to Verilog](https://github.com/wavedrom/verilog)
+- [HDL Checker](https://github.com/suoto/hdl_checker/blob/master/README.md) - HDL Checker is a language server that wraps VHDL/Verilg/SystemVerilog tools that aims to reduce the boilerplate code needed to set things up.
 
 ### Articles & Resources
 
