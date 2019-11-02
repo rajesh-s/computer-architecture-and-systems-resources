@@ -16,6 +16,7 @@ Everything about processors
 - [Microwatt](https://github.com/antonblanchard/microwatt/) - A tiny Open POWER ISA softcore written in VHDL for FPGAs
 - [Simple Microcoded CPU](https://minnie.tuhs.org/CompArch/Tutes/week04.html)
 - [OpenRISC Project](https://github.com/openrisc)
+- [OpenPiton](https://github.com/PrincetonUniversity/openpiton) - OpenPiton is an open source, general purpose, multithreaded manycore processor. It is a 64-bit architecture using SPARC v9 ISA with a distributed directory-based cache coherence protocol across on-chip networks
 
 ### RISCV based
 
