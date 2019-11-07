@@ -16,6 +16,7 @@ Everything about processors
 - [Microwatt](https://github.com/antonblanchard/microwatt/) - A tiny Open POWER ISA softcore written in VHDL for FPGAs
 - [Simple Microcoded CPU](https://minnie.tuhs.org/CompArch/Tutes/week04.html)
 - [OpenRISC Project](https://github.com/openrisc)
+- [OpenPiton](https://github.com/PrincetonUniversity/openpiton) - OpenPiton is an open source, general purpose, multithreaded manycore processor. It is a 64-bit architecture using SPARC v9 ISA with a distributed directory-based cache coherence protocol across on-chip networks
 
 ### RISCV based
 
@@ -31,6 +32,7 @@ Everything about processors
 - [SiFive Freedom](https://github.com/sifive/freedom)
 - [Ariane](https://github.com/lowRISC/ariane) - Ariane is a 6-stage, single issue, in-order CPU which implements the 64-bit RISC-V instruction set. It fully implements I, M, A and C extensions
 - [Shakti Processors](http://shakti.org.in/processor.html)
+- [Minerva](https://github.com/lambdaconcept/minerva) - Minerva is a CPU core that currently implements the RISC-V RV32IM instruction set. Its microarchitecture is described in plain Python code using the nMigen toolbox.
 
 ## Interesting resources
 

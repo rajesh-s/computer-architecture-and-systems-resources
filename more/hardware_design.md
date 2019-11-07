@@ -22,6 +22,7 @@
 
 - [FPGA Design Elements](https://github.com/laforest/FPGADesignElements) - A self-contained online book containing a library of FPGA design modules and related coding/design guides.
 - [Blinky on every FPGA](https://github.com/fusesoc/blinky)
+- [SoC Builder from LiteX](https://github.com/enjoy-digital/litex) - LiteX is a MiSoC-based SoC builder using Migen as Python DSL that can be used to create SoCs and full FPGA designs.
 
 ### Tools & Utilities
 
