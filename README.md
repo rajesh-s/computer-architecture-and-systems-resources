@@ -9,6 +9,7 @@ A curated compendium of awesome Computer Architecture resources
 Table of Contents
 =================
 
+- [awesome-computer-architecture ![Awesome](https://awesome.re)](#awesome-computer-architecture-awesomehttpsawesomere)
 - [Table of Contents](#table-of-contents)
   - [Conferences](#conferences)
     - [Open Source centric](#open-source-centric)
@@ -114,6 +115,7 @@ Table of Contents
 - [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) - Verilog Practice
 - [8bit Workshop](http://8bitworkshop.com/redir.html?platform=verilog) - Verilog to waves instantly
 - [Logic Design and Circuit Simulator](https://github.com/hneemann/Digital)
+- [LogicEmu](https://lodev.org/logicemu/) - Logic simulator in your browser
 
 ### Emulators
 
