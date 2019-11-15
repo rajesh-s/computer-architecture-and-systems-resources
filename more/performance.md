@@ -27,3 +27,4 @@
 ### Resources
 
 - [Understanding Complexities](https://www.bigocheatsheet.com/)
+- [Performance Analysis of Multi-threaded applications for beginners](https://easyperf.net/blog/2019/10/05/Performance-Analysis-Of-MT-apps)

@@ -32,6 +32,8 @@ Everything about:
 - [AXI Components](https://github.com/alexforencich/verilog-axi) - Verilog AXI components for FPGA implementation
 - [AXI4](https://github.com/pulp-platform/axi) - AXI4 and AXI4-Lite interface definitions and testbench utilities
 - [Building a custom yet functional AXI-lite slave](https://zipcpu.com/blog/2019/01/12/demoaxilite.html)
+- [Network on Chip Implementation written in SytemVerilog](https://github.com/taichi-ishitani/tnoc)
+- [AMBA AXI VIP](https://github.com/taichi-ishitani/tvip-axi) - TVIP-AXI is an UVM package of AMBA AXI4 VIP
 
 ### Inter-chip
 

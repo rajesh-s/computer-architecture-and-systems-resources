@@ -37,6 +37,12 @@
 - [svint](https://github.com/dalance/svlint) - System Verilog lint using rust
 - [Wavedrom to Verilog](https://github.com/wavedrom/verilog)
 - [HDL Checker](https://github.com/suoto/hdl_checker/blob/master/README.md) - HDL Checker is a language server that wraps VHDL/Verilg/SystemVerilog tools that aims to reduce the boilerplate code needed to set things up.
+- [Wavedrom to ASCII converter](https://github.com/Wren6991/asciiwave) - README embeddable waveforms!
+- [Rggen](https://github.com/rggen/rggen) - RgGen is a code generation tool for ASIC/IP/FPGA/RTL engineers. It will automatically generate soruce code related to configuration and status registers (CSR)
+
+### Open Source Implementations
+
+- [Basic Common SV Modules](https://github.com/taichi-ishitani/tbcm) - FIFO, onehot, round robin Arbiter etc.
 
 ### Articles & Resources
 
@@ -46,6 +52,7 @@
   - [Good info on Clock Tree aspects](http://88physicaldesign.blogspot.com/)
   - [All about Timing Analysis](http://www.vlsi-expert.com/p/static-timing-analysis.html?m=1)
 - [UPF Commands and options](https://semiengineering.com/empowering-upf-commands-with-effective-elements-lists/)
+- [System Verilog.io](https://www.systemverilog.io/) - Covers concepts, formal verification and language
 
 ### Course & Tutorials
 

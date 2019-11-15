@@ -29,7 +29,9 @@ Table of Contents
 - [MICRO](https://www.microarch.org/) - IEEE International Symposium on Microarchitecture
 - [ISCAS](https://iscas2020.org/) - IEEE International Symposium on Circuits and Systems
 - [ICONS](https://ornlcda.github.io/icons2019/) - Conference on Neuromorphic Computing
-- [USENIX](https://www.usenix.org/conferences) - Systems Researchers
+- [USENIX](https://www.usenix.org/conferences) - Systems Researchers Conf
+- [SOSP](https://sosp19.rcs.uwaterloo.ca/program.html) - Operating Systems Principles
+- [VLSI Symposia](https://vlsisymposium.org/) - Conference on semiconductor technology and circuits
 
 - Search tools for conferences:
   - [ConfSearch](http://confsearch.ethz.ch/confsearch/)
