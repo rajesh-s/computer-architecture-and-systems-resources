@@ -1,4 +1,4 @@
-# awesome-computer-architecture [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# awesome-computer-architecture [![Awesome](https://awesome.re/badge-flat2.svg)](http://rajesh-s.gitbook.io/comparch)
 
 A curated compendium of awesome Computer Architecture resources
 
