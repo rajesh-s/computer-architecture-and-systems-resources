@@ -13,6 +13,7 @@
 - [GTKWave](http://gtkwave.sourceforge.net/) - GTKWave is a fully featured GTK+ based wave viewer.
 - [Wavedrom](https://wavedrom.com/) - WaveDrom draws your Timing Diagram or Waveform from simple textual description.
 - [SymbiYosys](https://github.com/YosysHQ/SymbiYosys) - Front-end for Yosys-based formal verification flows
+- [Upscale Project](http://upscale.stanford.edu/) - Formal tools for OSH
 - [Yosys](http://www.clifford.at/yosys/) - Yosys is a framework for Verilog RTL synthesis.
 - [Open Timer](https://github.com/OpenTimer/OpenTimer) - A High-Performance Timing Analysis Tool for VLSI Systems
 - [Glade](https://peardrop.co.uk/) - Fast IC layout and schematic editor capable of reading and writing common EDA formats
@@ -29,7 +30,12 @@
 - [The Open Road Project](https://github.com/The-OpenROAD-Project) - Includes [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA), [RePlAce](https://github.com/The-OpenROAD-Project/RePlAce), [OpenDB](https://github.com/The-OpenROAD-Project/OpenDB), [ioPlacer](https://github.com/The-OpenROAD-Project/ioPlacer), [FastRoute4](https://github.com/The-OpenROAD-Project/FastRoute4-lefdef) and other tools.
 - [Open Register Design](https://github.com/Juniper/open-register-design-tool) - Tool to generate register RTL, models, and docs using SystemRDL or JSpec input
 - [LibrePCB](https://librepcb.org/) - A powerful, innovative and intuitive EDA tool for everyone!
-  
+- [ACT Tools Suite](http://avlsi.csl.yale.edu/act/doku.php) - Asynchronous Circuit Design Toolkit
+- [PyMTL](https://github.com/cornell-brg/pymtl) - PyMTL is an open-source, Python-based framework for multi-level hardware modeling.
+- [OpenFPGA](https://github.com/LNIS-Projects/OpenFPGA) - FPGA IP generator supporting highly-customizable homogeneous FPGA architectures
+- [LibSystemCTLM](https://github.com/Xilinx/libsystemctlm-soc/blob/master/README.md) - This library contains various SystemC/TLM-2.0 modules that enable co-simulation of Xilinx QEMU, SystemC/TLM-2.0 models and RTL.
+- [Fully autonomous SoC Synthesis](https://github.com/idea-fasoc/fasoc) - focused on developing a complete system-on-chip (SoC) synthesis tool from user specification to GDSII.
+
 ## Simulators
 
 - [gem5](http://gem5.org/Main_Page) - The gem5 simulator is a modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.
@@ -45,6 +51,7 @@
 - [Logic Design and Circuit Simulator](https://github.com/hneemann/Digital)
 - [LogicEmu](https://lodev.org/logicemu/) - Logic simulator in your browser
 - [Transistor level 6502 Hardware Simulation in Javascript](https://github.com/trebonian/visual6502) - [Visual6502](https://floooh.github.io/visual6502remix/)
+- [Xyce](https://xyce.sandia.gov/) - open source, SPICE-compatible, high-performance analog circuit simulator, capable of solving extremely large circuit problems by supporting large-scale parallel computing platforms.
 
 ## Emulators
 
@@ -52,3 +59,6 @@
 - [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 - [Emulator for Ben Eater's 8bit computer](https://fizzgig.itch.io/8-bit-breadboard-computer)
 - [8bit Chip Emulator](https://github.com/floooh/chips) - A toolbox of 8-bit chip-emulators, helper code and complete embeddable system emulators
+
+## Utilities
+- [Data sheet scrubber](https://github.com/idea-fasoc/datasheet-scrubber) - The FASoC Datasheet Scrubber is a utility that scrubs through large sets of PDF datasheets/documents in order to extract key circuit information.
