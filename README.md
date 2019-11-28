@@ -115,3 +115,4 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Awesome-Quantum-Computing](https://github.com/desireevl/awesome-quantum-computing) - A curated list of awesome quantum computing learning and developing resources.
 - [Getting started with FPGA](https://github.com/lastweek/FPGA) - This repository is intended for folks who are new and want to learn something about FPGA. This repository is a collection of useful resources and links rather than a thorough FPGA tutorial.
 - [Awesome Thesis](https://github.com/ocean1/awesome-thesis) - Resources for thesis/research writing
+- [EDA-Wiki](https://github.com/daitoto/EDA-wiki)

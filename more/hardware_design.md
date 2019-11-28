@@ -1,18 +1,19 @@
 # Hardware Design
 
-- [Hardware Design](#hardware-design)
-  - [Chip Design (ASIC/FPGA/SoC)](#chip-design-asicfpgasoc)
-    - [Projects](#projects)
-      - [FPGA](#fpga)
-    - [Tools & Utilities](#tools--utilities)
-    - [Articles & Resources](#articles--resources)
-    - [Course & Tutorials](#course--tutorials)
-    - [Analog Design](#analog-design)
-    - [Books](#books)
-  - [Board Level Design](#board-level-design)
-    - [Projects](#projects-1)
-    - [Tools](#tools)
-    - [Articles & Resources](#articles--resources-1)
+- [Chip Design (ASIC/FPGA/SoC)](#chip-design-asicfpgasoc)
+  - [Projects](#projects)
+    - [FPGA](#fpga)
+  - [Tools & Utilities](#tools--utilities)
+  - [Open Source Implementations](#open-source-implementations)
+  - [Articles & Resources](#articles--resources)
+  - [Course & Tutorials](#course--tutorials)
+  - [Analog Design](#analog-design)
+  - [Books](#books)
+- [Board Level Design](#board-level-design)
+  - [Projects](#projects-1)
+  - [Tools](#tools)
+  - [Articles & Resources](#articles--resources-1)
+    - [Workshops and Conference Sessions on Open Source EDA](#workshops-and-conference-sessions-on-open-source-eda)
 
 ## Chip Design (ASIC/FPGA/SoC)
 
@@ -39,6 +40,8 @@
 - [HDL Checker](https://github.com/suoto/hdl_checker/blob/master/README.md) - HDL Checker is a language server that wraps VHDL/Verilg/SystemVerilog tools that aims to reduce the boilerplate code needed to set things up.
 - [Wavedrom to ASCII converter](https://github.com/Wren6991/asciiwave) - README embeddable waveforms!
 - [Rggen](https://github.com/rggen/rggen) - RgGen is a code generation tool for ASIC/IP/FPGA/RTL engineers. It will automatically generate soruce code related to configuration and status registers (CSR)
+- [System RDL Compiler](https://github.com/SystemRDL/systemrdl-compiler) - The systemrdl-compiler module implements a generic compiler front-end for Accellera's SystemRDL 2.0 register description language.
+- [Verismith](https://github.com/ymherklotz/verismith) - Verilog Fuzzer to test the major simulators and sythesisers by generating random, valid Verilog.
 
 ### Open Source Implementations
 
@@ -60,6 +63,12 @@
 - [ASIC Verilog](http://asic-world.com/verilog/veritut.html)
 - [NANDLand Verilog](https://www.nandland.com/verilog/tutorials/tutorial-introduction-to-verilog-for-beginners.html)
 - [FPGA Tutorial](https://www.fpga4fun.com/)
+- Rob A. Rutenbar, [VLSI CAD Part I: Logic](https://www.coursera.org/learn/vlsi-cad-logic) and [VLSI CAD Part II:Layout](https://www.coursera.org/learn/vlsi-cad-layout)
+- Sung Kyu Lim, [ECE6133: Physical Design Automation of VLSI Systems](http://limsk.ece.gatech.edu/course/ece6133/)
+- David Z. Pan, [EE 382V: VLSI Physical Design Automation](http://users.ece.utexas.edu/~dpan/EE382V_PDA/)
+- Sanjit A. Seshia, [EECS 219C: Formal Methods: Specification, Verification, and Synthesis](https:/people.eecs.berkeley.edu/~sseshia/219c/)
+- Chung-Kuan Cheng, [CSE245: Computer Aided Circuit Simulation and Verification](https://cseweb.ucsd.edu/classes/wi15cse245-a/)
+- Gogul Ilango's notes [ASIC Design](https://gogul09.github.io/asic-design)
 
 ### Analog Design
 
@@ -78,3 +87,15 @@
 ### Tools
 
 ### Articles & Resources
+
+####  Workshops and Conference Sessions on Open Source EDA
+
+- WOSET: Workshop on Open-Source EDA Technology
+  - [WOSET 2018](https://woset-workshop.github.io/), co-located with ICCAD, Nov 8, 2018; San Diego, CA, USA.
+- OSDA: Workshop on Open Source Design Automation
+  - [OSDA 2019](https://osda.gitlab.io/), co-located with DATE, March 29, 2019; Florence, Italy.
+- [ORConf: The open source digital design conferece](https://orconf.org/)
+  - ORConfs: [2018](https://orconf.org/2018/) | [2017](https://orconf.org/2017/) | [2016](https://orconf.org/2016/) | [2015](https://orconf.org/2015/) | [2014](https://orconf.org/2014/) | [2013](https://orconf.org/2013/) | [2012](https://orconf.org/2012/)
+- DAC Birds of a Feather: Open Source Academic EDA Software
+  - [DAC 2019 BOF](https://github.com/The-OpenROAD-Project/Birds-of-a-Feather-Open-Source-Academic-EDA-Software/wiki/DAC-2019-Birds-of-a-Feather:-Open-Source-Academic-EDA-Software), June 5, 2019; Las Vegas, NV, USA.
+- [DAC 2019 Session 37, Unleashing Open Source EDA](http://www2.dac.com/events/eventdetails.aspx?id=267-37), June 4, 2019; Las Vegas, NV, USA.
