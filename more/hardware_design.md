@@ -35,11 +35,11 @@
 - [VCD2Wavedrom](https://github.com/Toroid-io/vcd2wavedrom) - Handy for getting from simulation to spec quickly.
 - [ipyxact](https://github.com/olofk/ipyxact) - Python-based IP-XACT parser
 - [sv2v](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog conversion
-- [svint](https://github.com/dalance/svlint) - System Verilog lint using rust
+- [svlint](https://github.com/dalance/svlint) - System Verilog lint using rust
 - [Wavedrom to Verilog](https://github.com/wavedrom/verilog)
 - [HDL Checker](https://github.com/suoto/hdl_checker/blob/master/README.md) - HDL Checker is a language server that wraps VHDL/Verilg/SystemVerilog tools that aims to reduce the boilerplate code needed to set things up.
 - [Wavedrom to ASCII converter](https://github.com/Wren6991/asciiwave) - README embeddable waveforms!
-- [Rggen](https://github.com/rggen/rggen) - RgGen is a code generation tool for ASIC/IP/FPGA/RTL engineers. It will automatically generate soruce code related to configuration and status registers (CSR)
+- [RgGen](https://github.com/rggen/rggen) - RgGen is a code generation tool for ASIC/IP/FPGA/RTL engineers. It will automatically generate soruce code related to configuration and status registers (CSR)
 - [System RDL Compiler](https://github.com/SystemRDL/systemrdl-compiler) - The systemrdl-compiler module implements a generic compiler front-end for Accellera's SystemRDL 2.0 register description language.
 - [Verismith](https://github.com/ymherklotz/verismith) - Verilog Fuzzer to test the major simulators and sythesisers by generating random, valid Verilog.
 
