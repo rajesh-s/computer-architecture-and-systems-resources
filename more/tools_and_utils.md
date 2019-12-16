@@ -39,6 +39,7 @@
 ## Simulators
 
 - [gem5](http://gem5.org/Main_Page) - The gem5 simulator is a modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.
+    - [Lapidary](https://github.com/efeslab/lapidary) - Tool to enable more efficient gem5 simulations
 - [DigitalJS](https://github.com/tilk/digitaljs) - Visualize and simulate digital logic using HDL
 - [FireSim](https://fires.im) - FireSim is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs
 - [Venus](https://github.com/kvakil/venus) - Venus is a RISC-V instruction set simulator built for education.
