@@ -33,6 +33,7 @@ Everything about processors
 - [Ariane](https://github.com/lowRISC/ariane) - Ariane is a 6-stage, single issue, in-order CPU which implements the 64-bit RISC-V instruction set. It fully implements I, M, A and C extensions
 - [Shakti Processors](http://shakti.org.in/processor.html)
 - [Minerva](https://github.com/lambdaconcept/minerva) - Minerva is a CPU core that currently implements the RISC-V RV32IM instruction set. Its microarchitecture is described in plain Python code using the nMigen toolbox.
+- [BlackParrot](https://github.com/black-parrot/pre-alpha-release) - BlackParrot aims to be the default Linux-capable, cache-coherent, RV64GC multicore used by the world.
 
 ## Interesting resources
 

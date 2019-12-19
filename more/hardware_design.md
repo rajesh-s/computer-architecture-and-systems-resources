@@ -46,6 +46,8 @@
 ### Open Source Implementations
 
 - [Basic Common SV Modules](https://github.com/taichi-ishitani/tbcm) - FIFO, onehot, round robin Arbiter etc.
+- [Ethernet 1G/100M/10M Core](https://github.com/lewiz-support/LMAC_CORE1) - Open source Ethernet Core 1
+- 
 
 ### Articles & Resources
 

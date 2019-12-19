@@ -32,6 +32,7 @@ Table of Contents
 - [USENIX](https://www.usenix.org/conferences) - Systems Researchers Conf
 - [SOSP](https://sosp19.rcs.uwaterloo.ca/program.html) - Operating Systems Principles
 - [VLSI Symposia](https://vlsisymposium.org/) - Conference on semiconductor technology and circuits
+- [MCSoC](http://mcsoc-forum.org/m2019/ieee-mcsoc-2019-presentation-slides/) - Multicore SoC's
 
 - Search tools for conferences:
   - [ConfSearch](http://confsearch.ethz.ch/confsearch/)
@@ -96,6 +97,11 @@ Table of Contents
 - [Chips for Machine Intelligence in 2019](https://www.jameswhanlon.com/new-chips-for-machine-intelligence.html)
 - [Microprocessor trend data](https://github.com/karlrupp/microprocessor-trend-data)
 - [Demonstration of Hardware Effects](https://github.com/Kobzol/hardware-effects) - This repository demonstrates various hardware effects that can degrade application performance in surprising ways and that may be very hard to explain without knowledge of the low-level CPU and OS architecture.
+- [Die shots of chips](https://github.com/misdake/ChipAnnotationViewer)
+
+## Articles
+- [Myths CPU programmers believe about caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
+- [Using SDRAM in FPGA Designs](https://www.joshbassett.info/sdram-controller/)
 
 ## Digging Deeper
 
