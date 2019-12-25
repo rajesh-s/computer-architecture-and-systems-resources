@@ -119,6 +119,7 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Deep Learning Hardware resources](https://github.com/RaviVijay/awesome-dl-hw-resources) A curated list of awesome hardware/chip design resources for deep learning
 - [Awesome-HDL](https://github.com/drom/awesome-hdl) A curated list of amazingly awesome hardware description language projects.
 - [Awesome-Quantum-Computing](https://github.com/desireevl/awesome-quantum-computing) - A curated list of awesome quantum computing learning and developing resources.
+- [Awesome RISCV](https://github.com/xmpf/awesome-risc-v/blob/master/README.md) - A curated list of RISCV resources
 - [Getting started with FPGA](https://github.com/lastweek/FPGA) - This repository is intended for folks who are new and want to learn something about FPGA. This repository is a collection of useful resources and links rather than a thorough FPGA tutorial.
 - [Awesome Thesis](https://github.com/ocean1/awesome-thesis) - Resources for thesis/research writing
 - [EDA-Wiki](https://github.com/daitoto/EDA-wiki)
