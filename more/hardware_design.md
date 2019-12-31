@@ -47,7 +47,8 @@
 
 - [Basic Common SV Modules](https://github.com/taichi-ishitani/tbcm) - FIFO, onehot, round robin Arbiter etc.
 - [Ethernet 1G/100M/10M Core](https://github.com/lewiz-support/LMAC_CORE1) - Open source Ethernet Core 1
-- 
+- [Asynchronous FIFO](https://github.com/damofthemoon/async_fifo) - A dual clock asynchronous FIFO written in verilog, tested with Icarus Verilog
+- [CDC Modules](https://github.com/damofthemoon/cdc) - This repository gathers several basic modules to handle CDC in a design
 
 ### Articles & Resources
 
