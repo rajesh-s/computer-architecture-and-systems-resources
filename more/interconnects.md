@@ -1,12 +1,6 @@
 # Interconnects
 
-Everything about:
-
-- On-chip communication
-- Inter-chip communication
-- Computer Networks
-
-## TOC 
+Everything about on-chip and inter-chip communication
 
 - [Interconnects](#interconnects)
   - [Chip-level communication](#chip-level-communication)
