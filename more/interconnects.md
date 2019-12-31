@@ -6,6 +6,8 @@ Everything about:
 - Inter-chip communication
 - Computer Networks
 
+## TOC 
+
 - [Interconnects](#interconnects)
   - [Chip-level communication](#chip-level-communication)
   - [Inter-Chip communication](#inter-chip-communication)
@@ -34,6 +36,7 @@ Everything about:
 - [Building a custom yet functional AXI-lite slave](https://zipcpu.com/blog/2019/01/12/demoaxilite.html)
 - [TNoC](https://github.com/taichi-ishitani/tnoc) - Network on Chip implementation written in SystemVerilog
 - [AMBA AXI VIP](https://github.com/taichi-ishitani/tvip-axi) - TVIP-AXI is an UVM package of AMBA AXI4 VIP
+- [OpenSoCFabric](https://github.com/LBL-CoDEx/OpenSoCFabric) - A Network-On-Chip Generator
 
 ### Inter-chip
 
