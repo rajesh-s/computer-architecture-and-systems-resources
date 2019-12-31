@@ -1,6 +1,6 @@
-# awesome-computer-architecture [![Awesome](https://awesome.re/badge-flat2.svg)](http://rajesh-s.gitbook.io/comparch)
+# awesome-computer-engineering [![Awesome](https://awesome.re/badge-flat2.svg)](http://rajesh-s.gitbook.io/compengg)
 
-A curated compendium of awesome Computer Architecture resources
+A curated compendium of awesome Computer Engineering and Computer Architecture resources
 
 <p align="center">
   <img width="400" height="400" src="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/MSc_Computer_Engineering/PastedGraphic-2.jpg">
@@ -20,7 +20,7 @@ Table of Contents
   - [Communities](#communities)
   - [Interesting Resources](#interesting-resources)
   - [Digging Deeper](#digging-deeper)
-  - [Other specific curated lists related to CompArch](#other-specific-curated-lists-related-to-comparch)
+  - [Other specific curated lists related to CompEngg](#other-specific-curated-lists-related-to-compengg)
 
 ## Conferences
 
@@ -114,7 +114,7 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Hardware-Software Interface](./more/hw_sw.md)
 - [High Performance Computing](./more/hpc.md)
 
-## Other specific curated lists related to CompArch
+## Other specific curated lists related to CompEngg
 
 - [Deep Learning Hardware resources](https://github.com/RaviVijay/awesome-dl-hw-resources) A curated list of awesome hardware/chip design resources for deep learning
 - [Awesome-HDL](https://github.com/drom/awesome-hdl) A curated list of amazingly awesome hardware description language projects.
