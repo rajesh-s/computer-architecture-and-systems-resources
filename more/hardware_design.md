@@ -83,15 +83,7 @@
 * Constraining Designs for Synthesis and Timing Analysis \| A Practical Guide to Synopsys Design Constraints \(SDC\) - Gangadharan, Sridhar, Churiwala, Sanjay.
 * Static Timing Analysis for Nanometer Designs: A Practical Approach - Jayaram Bhasker and Rakesh Chadha.
 
-## Board Level Design
-
-### Projects
-
-### Tools
-
-### Articles & Resources
-
-#### Workshops and Conference Sessions on Open Source EDA
+### Workshops and Conference Sessions on Open Source EDA
 
 * WOSET: Workshop on Open-Source EDA Technology
   * [WOSET 2018](https://woset-workshop.github.io/), co-located with ICCAD, Nov 8, 2018; San Diego, CA, USA.
@@ -104,3 +96,10 @@
 * [DAC 2019 Session 37, Unleashing Open Source EDA](http://www2.dac.com/events/eventdetails.aspx?id=267-37), June 4, 2019; Las Vegas, NV, USA.
 * [Workshop on Open Source Design Automation \(OSDA\)](https://osda.gitlab.io/)
 
+## Board Level Design
+
+### Projects
+
+### Tools
+
+### Articles & Resources
