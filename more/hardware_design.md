@@ -96,9 +96,10 @@
 - [LibreCores](https://www.librecores.org/) - A "LibreCore" is such an IP core that is created and distributed in the open source spirit. 
 
 ### Others
-	- [FuseSoC](https://github.com/olofk/fusesoc) - FuseSoC is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code. Its main purpose is to increase reuse of IP (Intellectual Property) cores and be an aid for creating, building and simulating SoC solutions.
-	- [EDAlize](https://github.com/olofk/edalize) - An abstraction library for interfacing EDA tools
-	- [Renode](https://renode.io/) - Open source software development framework with commercial support from Antmicro that lets you develop, debug and test multi-node device systems reliably, scalably and effectively.
+
+- [FuseSoC](https://github.com/olofk/fusesoc) - FuseSoC is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code. Its main purpose is to increase reuse of IP (Intellectual Property) cores and be an aid for creating, building and simulating SoC solutions.
+- [EDAlize](https://github.com/olofk/edalize) - An abstraction library for interfacing EDA tools
+- [Renode](https://renode.io/) - Open source software development framework with commercial support from Antmicro that lets you develop, debug and test multi-node device systems reliably, scalably and effectively.
 
 ### Workshops and Conference Sessions on Open Source EDA
 
