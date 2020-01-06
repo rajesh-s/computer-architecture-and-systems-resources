@@ -9,11 +9,8 @@
   * [Course & Tutorials](hardware_design.md#course--tutorials)
   * [Analog Design](hardware_design.md#analog-design)
   * [Books](hardware_design.md#books)
-* [Board Level Design](hardware_design.md#board-level-design)
-  * [Projects](hardware_design.md#projects-1)
-  * [Tools](hardware_design.md#tools)
-  * [Articles & Resources](hardware_design.md#articles--resources-1)
-    * [Workshops and Conference Sessions on Open Source EDA](hardware_design.md#workshops-and-conference-sessions-on-open-source-eda)
+* [Open Source Hardware](hardware_design.md#open-source-hardware)
+  * [Workshops and Conference Sessions on Open Source EDA](hardware_design.md#workshops-and-conference-sessions-on-open-source-eda)
 
 ## Chip Design \(ASIC/FPGA/SoC\)
 
@@ -83,6 +80,26 @@
 * Constraining Designs for Synthesis and Timing Analysis \| A Practical Guide to Synopsys Design Constraints \(SDC\) - Gangadharan, Sridhar, Churiwala, Sanjay.
 * Static Timing Analysis for Nanometer Designs: A Practical Approach - Jayaram Bhasker and Rakesh Chadha.
 
+## Open Source Hardware
+
+### Community Organization
+
+- [FOSSi Foundation](https://fossi-foundation.org/) - Free and Open Source Silicon (FOSSi) are components and systems that are inside silicon devices (‘chips’). It is our core belief that building blocks that form such digital devices can be made free and open
+
+### Industry Organization
+- [OpenHW Group](https://www.openhwgroup.org/) - Proven Processor IP
+- [CHIPS Alliance](https://chipsalliance.org/) - Common Hardware for Interfaces, Processors and Systems harnesses the energy of open source collaboration to accelerate hardware development.
+- [RISC-V](https://riscv.org/) - RISC-V is a free and open ISA enabling a new era of processor innovation through open standard collaboration.
+
+### Core Collections
+- [OpenCores](https://opencores.org/) - OpenCores is the most prominent online community for the development of gateware IP (Intellectual Properties) Cores.
+- [LibreCores](https://www.librecores.org/) - A "LibreCore" is such an IP core that is created and distributed in the open source spirit. 
+
+### Others
+	- [FuseSoC](https://github.com/olofk/fusesoc) - FuseSoC is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code. Its main purpose is to increase reuse of IP (Intellectual Property) cores and be an aid for creating, building and simulating SoC solutions.
+	- [EDAlize](https://github.com/olofk/edalize) - An abstraction library for interfacing EDA tools
+	- [Renode](https://renode.io/) - Open source software development framework with commercial support from Antmicro that lets you develop, debug and test multi-node device systems reliably, scalably and effectively.
+
 ### Workshops and Conference Sessions on Open Source EDA
 
 * WOSET: Workshop on Open-Source EDA Technology
@@ -95,11 +112,3 @@
   * [DAC 2019 BOF](https://github.com/The-OpenROAD-Project/Birds-of-a-Feather-Open-Source-Academic-EDA-Software/wiki/DAC-2019-Birds-of-a-Feather:-Open-Source-Academic-EDA-Software), June 5, 2019; Las Vegas, NV, USA.
 * [DAC 2019 Session 37, Unleashing Open Source EDA](http://www2.dac.com/events/eventdetails.aspx?id=267-37), June 4, 2019; Las Vegas, NV, USA.
 * [Workshop on Open Source Design Automation \(OSDA\)](https://osda.gitlab.io/)
-
-## Board Level Design
-
-### Projects
-
-### Tools
-
-### Articles & Resources
