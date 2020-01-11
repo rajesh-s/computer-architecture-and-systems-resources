@@ -1,6 +1,6 @@
 # Computer Engineering Resources [![Awesome](https://awesome.re/badge-flat2.svg)](http://rajesh-s.gitbook.io/compengg) [![GitHub contributors](https://img.shields.io/github/contributors/rajesh-s/awesome-computer-engineering)](https://github.com/rajesh-s/awesome-computer-engineering/graphs/contributors/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-A curated compendium of Computer Engineering and Computer Architecture resources
+A curated list of Computer Engineering and Computer Architecture resources
 
 <p align="center">
   <img width="50%" height="50%" src="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/MSc_Computer_Engineering/PastedGraphic-2.jpg">
