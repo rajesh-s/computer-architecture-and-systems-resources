@@ -1,4 +1,4 @@
-# awesome-computer-engineering [![Awesome](https://awesome.re/badge-flat2.svg)](http://rajesh-s.gitbook.io/compengg) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub contributors](https://img.shields.io/github/contributors/rajesh-s/awesome-computer-engineering)](https://github.com/rajesh-s/awesome-computer-engineering/graphs/contributors/)
+# Computer Engineering Resources [![Awesome](https://awesome.re/badge-flat2.svg)](http://rajesh-s.gitbook.io/compengg) [![GitHub contributors](https://img.shields.io/github/contributors/rajesh-s/awesome-computer-engineering)](https://github.com/rajesh-s/awesome-computer-engineering/graphs/contributors/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 A curated compendium of Computer Engineering and Computer Architecture resources
 
