@@ -24,6 +24,7 @@ Table of Contents
 
 ## Conferences
 
+### Computer Architecture
 - [ISCA](https://iscaconf.org/) - International Symposium on Computer Architecture
 - [ASPLOS](https://asplos-conference.org/) - ASPLOS is the premier forum for interdisciplinary systems research, intersecting computer architecture, hardware and emerging technologies, programming languages and compilers, operating systems, and networking.
 - [MICRO](https://www.microarch.org/) - IEEE International Symposium on Microarchitecture
@@ -34,11 +35,11 @@ Table of Contents
 - [VLSI Symposia](https://vlsisymposium.org/) - Conference on semiconductor technology and circuits
 - [MCSoC](http://mcsoc-forum.org/m2019/ieee-mcsoc-2019-presentation-slides/) - Multicore SoC's
 
-- Search tools for conferences:
+### Search tools for conferences:
   - [ConfSearch](http://confsearch.ethz.ch/confsearch/)
   - [WikiCfp](http://www.wikicfp.com/cfp/)
 
-- Halls of Fame:
+### Halls of Fame:
   - [SOSP/OSDI](https://www.cs.utexas.edu/~vijay/hall.html) - Systems Research
   - [ISCA](http://pages.cs.wisc.edu/~arch/www/iscabibhall.html)
   - [MICRO](http://newsletter.sigmicro.org/micro-hof.txt/view) - Microarchitecture
