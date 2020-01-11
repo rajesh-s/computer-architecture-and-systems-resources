@@ -2,6 +2,9 @@
 
 Interesting companies in the space of Computer Architecture (both hardware and software domains).
 
+- [Hardware](#hardware)
+- [Software](#software)
+
 ## Hardware
 
 - [Vast.ai](https://vast.ai/) - GPU Sharing Economy model

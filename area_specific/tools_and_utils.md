@@ -1,11 +1,18 @@
 # Tools and Utilities
 
-- [Tools and Utilities](#tools-and-utilities)
+- [Tools](#tools)
   - [Open Source Tools for Digital Design](#open-source-tools-for-digital-design)
   - [Simulators](#simulators)
+    - [Architectural](#architectural)
+    - [Digital Logic](#digital-logic)
+    - [Analog](#analog)
   - [Emulators](#emulators)
+- [Utilities](#utilities)
+  - [Hardware Design](#hardware-design)
 
-## Open Source Tools for Digital Design
+## Tools
+
+### Open Source Tools for Digital Design
 
 - [Verilator](https://www.veripool.org/projects/verilator/) - Verilator is the fastest free Verilog HDL simulator, and outperforms most commercial simulators
 - [Icarus Verilog](https://github.com/steveicarus/iverilog) - Icarus Verilog is not aimed at being a simulator in the traditional sense, but a compiler that generates code employed by back-end tools.
@@ -37,25 +44,33 @@
 - [Fully autonomous SoC Synthesis](https://github.com/idea-fasoc/fasoc) - focused on developing a complete system-on-chip (SoC) synthesis tool from user specification to GDSII.
 - [EDALIZE](https://github.com/olofk/edalize) - Edalize is a Python Library for interacting with EDA tools.
 
-## Simulators
+### Simulators
+
+#### Architectural
 
 - [gem5](http://gem5.org/Main_Page) - The gem5 simulator is a modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.
-    - [Lapidary](https://github.com/efeslab/lapidary) - Tool to enable more efficient gem5 simulations
-- [DigitalJS](https://github.com/tilk/digitaljs) - Visualize and simulate digital logic using HDL
-- [FireSim](https://fires.im) - FireSim is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs
+  - [Lapidary](https://github.com/efeslab/lapidary) - Tool to enable more efficient gem5 simulations
 - [Venus](https://github.com/kvakil/venus) - Venus is a RISC-V instruction set simulator built for education.
+- [FireSim](https://fires.im) - FireSim is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs
+- [CPULator](https://cpulator.01xz.net/) - CPUlator Computer System Simulator designed as a tool for learning assembly-language programming and computer organization
+
+#### Digital Logic
+
+- [DigitalJS](https://github.com/tilk/digitaljs) - Visualize and simulate digital logic using HDL
 - [EDA Playground](https://www.edaplayground.com/) - Run HDL/HVL code in your browser
 - [Electronic Circuit Simulator](https://www.falstad.com/circuit/)
-- [CPULator](https://cpulator.01xz.net/) - CPUlator Computer System Simulator designed as a tool for learning assembly-language programming and computer organization
 - [ASMBits](https://asmbits.01xz.net/wiki/Main_Page) - Assembly Practice
 - [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) - Verilog Practice
 - [8bit Workshop](http://8bitworkshop.com/redir.html?platform=verilog) - Verilog to waves instantly
 - [Logic Design and Circuit Simulator](https://github.com/hneemann/Digital)
 - [LogicEmu](https://lodev.org/logicemu/) - Logic simulator in your browser
 - [Transistor level 6502 Hardware Simulation in Javascript](https://github.com/trebonian/visual6502) - [Visual6502](https://floooh.github.io/visual6502remix/)
+
+#### Analog
+
 - [Xyce](https://xyce.sandia.gov/) - open source, SPICE-compatible, high-performance analog circuit simulator, capable of solving extremely large circuit problems by supporting large-scale parallel computing platforms.
 
-## Emulators
+### Emulators
 
 - [TinyEMU](https://bellard.org/tinyemu/) - TinyEMU is a system emulator for the RISC-V and x86 architectures.
 - [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
@@ -63,4 +78,22 @@
 - [8bit Chip Emulator](https://github.com/floooh/chips) - A toolbox of 8-bit chip-emulators, helper code and complete embeddable system emulators
 
 ## Utilities
+
+### Hardware Design
+
 - [Data sheet scrubber](https://github.com/idea-fasoc/datasheet-scrubber) - The FASoC Datasheet Scrubber is a utility that scrubs through large sets of PDF datasheets/documents in order to extract key circuit information.
+- [SystemVerilog Unit Test \(SVUT\)](https://github.com/damofthemoon/svut) - SVUT is a very simple flow to create a Verilog/SystemVerilog unit test.
+- [AirHDL](https://airhdl.com) - Create register maps and headers
+- [BitBench](http://triq.net/bitbench) - Visually dissect and analyze bit strings.
+- [Bitfield](https://github.com/drom/bitfield) - BitField diagram Renderer
+- [Diagrammer](https://github.com/freechipsproject/diagrammer) - Provides dot visualizations of chisel/firrtl circuites
+- [VCD2Wavedrom](https://github.com/Toroid-io/vcd2wavedrom) - Handy for getting from simulation to spec quickly.
+- [ipyxact](https://github.com/olofk/ipyxact) - Python-based IP-XACT parser
+- [sv2v](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog conversion
+- [svlint](https://github.com/dalance/svlint) - System Verilog lint using rust
+- [Wavedrom to Verilog](https://github.com/wavedrom/verilog)
+- [HDL Checker](https://github.com/suoto/hdl_checker/blob/master/README.md) - HDL Checker is a language server that wraps VHDL/Verilg/SystemVerilog tools that aims to reduce the boilerplate code needed to set things up.
+- [Wavedrom to ASCII converter](https://github.com/Wren6991/asciiwave) - README embeddable waveforms!
+- [RgGen](https://github.com/rggen/rggen) - RgGen is a code generation tool for ASIC/IP/FPGA/RTL engineers. It will automatically generate soruce code related to configuration and status registers \(CSR\)
+- [System RDL Compiler](https://github.com/SystemRDL/systemrdl-compiler) - The systemrdl-compiler module implements a generic compiler front-end for Accellera's SystemRDL 2.0 register description language.
+- [Verismith](https://github.com/ymherklotz/verismith) - Verilog Fuzzer to test the major simulators and sythesisers by generating random, valid Verilog.

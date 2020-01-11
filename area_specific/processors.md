@@ -1,12 +1,11 @@
 # Processors
 
-- [Processors](#processors)
-  - [Open-source digital design implementations of Processors](#open-source-digital-design-implementations-of-processors)
-    - [RISCV based](#riscv-based)
-  - [Interesting resources](#interesting-resources)
-    - [Must Reads](#must-reads)
-  - [GPU](#gpu)
-    - [Learning Resources](#learning-resources)
+- [Open-source digital design implementations of Processors](#open-source-digital-design-implementations-of-processors)
+  - [RISCV based](#riscv-based)
+- [Interesting resources](#interesting-resources)
+  - [Must Reads](#must-reads)
+- [GPU](#gpu)
+  - [Learning Resources](#learning-resources)
 
 Everything about processors
 

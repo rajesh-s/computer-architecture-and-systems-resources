@@ -9,22 +9,27 @@ A curated compendium of awesome Computer Engineering and Computer Architecture r
 Table of Contents
 =================
 
-- [Table of Contents](#table-of-contents)
-  - [Conferences](#conferences)
-    - [Open Source centric](#open-source-centric)
-    - [Interconnects](#interconnects)
-    - [High Performance Computing](#high-performance-computing)
-  - [MOOCs](#moocs)
-  - [Blogs/ Books](#blogs-books)
-  - [Tools and Utilities](#tools-and-utilities)
-  - [Communities](#communities)
-  - [Interesting Resources](#interesting-resources)
-  - [Digging Deeper](#digging-deeper)
-  - [Other specific curated lists related to CompEngg](#other-specific-curated-lists-related-to-compengg)
+- [Conferences](#conferences)
+  - [Computer Architecture](#computer-architecture)
+  - [Search tools for conferences](#search-tools-for-conferences)
+  - [Halls of Fame](#halls-of-fame)
+  - [Open Source centric](#open-source-centric)
+  - [Interconnects](#interconnects)
+  - [High Performance Computing](#high-performance-computing)
+  - [Workshops and Conference Sessions on Open Source EDA](#workshops-and-conference-sessions-on-open-source-eda)
+- [Communities](#communities)
+  - [Open Source Hardware](#open-source-hardware)
+    - [Community Organization](#community-organization)
+    - [Industry Organization](#industry-organization)
+- [Interesting Resources](#interesting-resources)
+- [MOOCs](#moocs)
+- [Digging Deeper](#digging-deeper)
+- [Other specific curated lists related to CompEngg](#other-specific-curated-lists-related-to-compengg)
 
 ## Conferences
 
 ### Computer Architecture
+
 - [ISCA](https://iscaconf.org/) - International Symposium on Computer Architecture
 - [ASPLOS](https://asplos-conference.org/) - ASPLOS is the premier forum for interdisciplinary systems research, intersecting computer architecture, hardware and emerging technologies, programming languages and compilers, operating systems, and networking.
 - [MICRO](https://www.microarch.org/) - IEEE International Symposium on Microarchitecture
@@ -35,15 +40,17 @@ Table of Contents
 - [VLSI Symposia](https://vlsisymposium.org/) - Conference on semiconductor technology and circuits
 - [MCSoC](http://mcsoc-forum.org/m2019/ieee-mcsoc-2019-presentation-slides/) - Multicore SoC's
 
-### Search tools for conferences:
-  - [ConfSearch](http://confsearch.ethz.ch/confsearch/)
-  - [WikiCfp](http://www.wikicfp.com/cfp/)
+### Search tools for conferences
 
-### Halls of Fame:
-  - [SOSP/OSDI](https://www.cs.utexas.edu/~vijay/hall.html) - Systems Research
-  - [ISCA](http://pages.cs.wisc.edu/~arch/www/iscabibhall.html)
-  - [MICRO](http://newsletter.sigmicro.org/micro-hof.txt/view) - Microarchitecture
-  - [Computer Architecture Aggregated Hall-of-Fame](http://moin.ece.gatech.edu/cathof.html)
+- [ConfSearch](http://confsearch.ethz.ch/confsearch/)
+- [WikiCfp](http://www.wikicfp.com/cfp/)
+
+### Halls of Fame
+
+- [SOSP/OSDI](https://www.cs.utexas.edu/~vijay/hall.html) - Systems Research
+- [ISCA](http://pages.cs.wisc.edu/~arch/www/iscabibhall.html)
+- [MICRO](http://newsletter.sigmicro.org/micro-hof.txt/view) - Microarchitecture
+- [Computer Architecture Aggregated Hall-of-Fame](http://moin.ece.gatech.edu/cathof.html)
 
 ### Open Source centric
 
@@ -63,29 +70,37 @@ Table of Contents
 - [PASC](https://pasc-conference.org/) - The Platform for Advanced Scientific Computing (PASC) Conference is an interdisciplinary conference in HPC that brings together domain science, applied mathematics and computer science – where computer science is focused on enabling the realization of scientific computation.
 - [ISC High Performance](https://www.isc-hpc.com/) - Event for HPC, Networking, Storage, AI/ML
 
-## MOOCs
+### Workshops and Conference Sessions on Open Source EDA
 
-- Prof. Onur Mutlu's [lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g/playlists) and [talks](https://people.inf.ethz.ch/omutlu/talks.htm)
-- Computer Architecture [course](https://www.coursera.org/learn/comparch) by David Wentzlaff on Coursera
-- [Notes](https://github.com/aphyr/distsys-class) on an introduction to distributed systems.
-
-## Blogs/ Books
-
-- ZipCPU's [blog](http://zipcpu.com/) - A good starting point for Verilog/ FPGA/ Formal Verification
-- Eric LaForest's [blog](http://fpgacpu.ca/) as a resource about FPGAs, computer history, and computer architecture.
-- David Fong's ASIC architecture [blog](https://daffy1108.wordpress.com/)
-
-## Tools and Utilities
-
-[Tools, Utilities, Simulators, Emulators and more](./more/tools_and_utils.md)
+- WOSET: Workshop on Open-Source EDA Technology
+  - [WOSET 2018](https://woset-workshop.github.io/), co-located with ICCAD, Nov 8, 2018; San Diego, CA, USA.
+- OSDA: Workshop on Open Source Design Automation
+  - [OSDA 2019](https://osda.gitlab.io/), co-located with DATE, March 29, 2019; Florence, Italy.
+- [ORConf: The open source digital design conferece](https://orconf.org/)
+  - ORConfs: [2018](https://orconf.org/2018/) \| [2017](https://orconf.org/2017/) \| [2016](https://orconf.org/2016/) \| [2015](https://orconf.org/2015/) \| [2014](https://orconf.org/2014/) \| [2013](https://orconf.org/2013/) \| [2012](https://orconf.org/2012/)
+- DAC Birds of a Feather: Open Source Academic EDA Software
+  - [DAC 2019 BOF](https://github.com/The-OpenROAD-Project/Birds-of-a-Feather-Open-Source-Academic-EDA-Software/wiki/DAC-2019-Birds-of-a-Feather:-Open-Source-Academic-EDA-Software), June 5, 2019; Las Vegas, NV, USA.
+- [DAC 2019 Session 37, Unleashing Open Source EDA](http://www2.dac.com/events/eventdetails.aspx?id=267-37), June 4, 2019; Las Vegas, NV, USA.
+- [Workshop on Open Source Design Automation \(OSDA\)](https://osda.gitlab.io/)
 
 ## Communities
 
 - [ACM](https://www.acm.org/) Association for Computing Machinery
 - [SIGARCH](https://www.sigarch.org/) Computer professionals working on the forefront of computer design in both industry and academia.
 - [Semiconductor Research Coroportation](https://www.src.org/)
-- [CHIPS Alliance](https://chipsalliance.org/) - CHIPS (Common Hardware for Interfaces, Processors and Systems) Alliance harnesses the energy of open source collaboration to accelerate hardware development.
 - [OpenCAPI](https://opencapi.org/) - Open Coherent Accelerator Processor Interface
+
+### Open Source Hardware
+
+#### Community Organization
+
+- [FOSSi Foundation](https://fossi-foundation.org/) - Free and Open Source Silicon (FOSSi) are components and systems that are inside silicon devices (‘chips’). It is our core belief that building blocks that form such digital devices can be made free and open
+
+#### Industry Organization
+
+- [OpenHW Group](https://www.openhwgroup.org/) - Proven Processor IP
+- [CHIPS Alliance](https://chipsalliance.org/) - Common Hardware for Interfaces, Processors and Systems harnesses the energy of open source collaboration to accelerate hardware development.
+- [RISC-V](https://riscv.org/) - RISC-V is a free and open ISA enabling a new era of processor innovation through open standard collaboration.
 
 ## Interesting Resources
 
@@ -99,20 +114,25 @@ Table of Contents
 - [Demonstration of Hardware Effects](https://github.com/Kobzol/hardware-effects) - This repository demonstrates various hardware effects that can degrade application performance in surprising ways and that may be very hard to explain without knowledge of the low-level CPU and OS architecture.
 - [Die shots of chips](https://github.com/misdake/ChipAnnotationViewer)
 
-## Articles
-- [Myths CPU programmers believe about caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
-- [Using SDRAM in FPGA Designs](https://www.joshbassett.info/sdram-controller/)
+## MOOCs
+
+- Prof. Onur Mutlu's [lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g/playlists) and [talks](https://people.inf.ethz.ch/omutlu/talks.htm)
+- Computer Architecture [course](https://www.coursera.org/learn/comparch) by David Wentzlaff on Coursera
+- [Notes](https://github.com/aphyr/distsys-class) on an introduction to distributed systems.
 
 ## Digging Deeper
 
 Computer Architecture is diverse and there's constant interplay between domains that are under it. Look under each of these to find specific information. (At the time of writing, these are the specific areas that I'm most interested in)
 
-- [Hardware Design](./more/hardware_design.md)
-- [Processors](./more/processors.md)
-- [Interconnects](./more/interconnects.md)
-- [Performance](./more/performance.md)
-- [Hardware-Software Interface](./more/hw_sw.md)
-- [High Performance Computing](./more/hpc.md)
+- [Hardware Design](./deep_dive/hardware_design.md)
+- [Processors](./deep_dive/processors.md)
+- [Interconnects](./deep_dive/interconnects.md)
+- [Performance](./deep_dive/performance.md)
+- [Hardware-Software Interface](./deep_dive/hw_sw.md)
+- [High Performance Computing](./deep_dive/hpc.md)
+- [Interesting Companies](./deep_dive/interesting_companies.md)
+- [Computer Networks](./deep_dive/networks.md)
+- [Tools, Utilities, Simulators, Emulators and deep_dive](./deep_dive/tools_and_utils.md)
 
 ## Other specific curated lists related to CompEngg
 
