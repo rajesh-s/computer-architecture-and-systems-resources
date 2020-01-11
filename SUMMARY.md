@@ -13,3 +13,4 @@
   * [Computer Networks](./area_specific/networks.md)
   * [Computer Networks](./area_specific/security.md)
   * [Tools, Utilities, Simulators, Emulators and area_specific](./area_specific/tools_and_utils.md)
+ * [Contribute to this list on Github](https://github.com/rajesh-s/awesome-computer-engineering)
