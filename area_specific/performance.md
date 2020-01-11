@@ -31,6 +31,7 @@
 - [Every 7.8μs your computer’s memory has a hiccup](https://blog.cloudflare.com/every-7-8us-your-computers-memory-has-a-hiccup/)
 - [Computer Latency at a Human Scale](https://www.prowesscorp.com/computer-latency-at-a-human-scale/)
 - [Latency numbers every programmer should know](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
+- [Performance variations in 2386 identical processors](http://shape-of-code.coding-guidelines.com/2020/01/05/performance-variation-in-2386-identical-processors/)
 
 ## Programming & Optimization
 

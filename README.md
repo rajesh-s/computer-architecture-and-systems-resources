@@ -1,9 +1,9 @@
-# awesome-computer-engineering [![Awesome](https://awesome.re/badge-flat2.svg)](http://rajesh-s.gitbook.io/compengg)
+# awesome-computer-engineering [![Awesome](https://awesome.re/badge-flat2.svg)](http://rajesh-s.gitbook.io/compengg) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub contributors](https://img.shields.io/github/contributors/rajesh-s/awesome-computer-engineering)](https://github.com/rajesh-s/awesome-computer-engineering/graphs/contributors/)
 
-A curated compendium of awesome Computer Engineering and Computer Architecture resources
+A curated compendium of Computer Engineering and Computer Architecture resources
 
 <p align="center">
-  <img width="400" height="400" src="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/MSc_Computer_Engineering/PastedGraphic-2.jpg">
+  <img width="50%" height="50%" src="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/MSc_Computer_Engineering/PastedGraphic-2.jpg">
 </p>
 
 Table of Contents
@@ -113,6 +113,11 @@ Table of Contents
 - [Microprocessor trend data](https://github.com/karlrupp/microprocessor-trend-data)
 - [Demonstration of Hardware Effects](https://github.com/Kobzol/hardware-effects) - This repository demonstrates various hardware effects that can degrade application performance in surprising ways and that may be very hard to explain without knowledge of the low-level CPU and OS architecture.
 - [Die shots of chips](https://github.com/misdake/ChipAnnotationViewer)
+- [Bottom Up Computer Science](http://www.bottomupcs.com/)
+- [Computing and Internet History Posters](http://tcm.computerhistory.org/marketing.html)
+- [Selected Historical Computer Designs](https://people.cs.clemson.edu/~mark/hist.html)
+- [Who are Computer Architects?](https://people.cs.clemson.edu/~mark/architects.html)
+- [Which machines do Computer Architects admire?](https://people.cs.clemson.edu/~mark/admired_designs.html)
 
 ## MOOCs
 
@@ -126,12 +131,14 @@ Computer Architecture is diverse and there's constant interplay between domains 
 
 - [Hardware Design](./deep_dive/hardware_design.md)
 - [Processors](./deep_dive/processors.md)
+- [Parallel Computing](./deep_dive/parallel.md)
 - [Interconnects](./deep_dive/interconnects.md)
 - [Performance](./deep_dive/performance.md)
 - [Hardware-Software Interface](./deep_dive/hw_sw.md)
 - [High Performance Computing](./deep_dive/hpc.md)
 - [Interesting Companies](./deep_dive/interesting_companies.md)
 - [Computer Networks](./deep_dive/networks.md)
+- [Computer Security](./deep_dive/security.md)
 - [Tools, Utilities, Simulators, Emulators and deep_dive](./deep_dive/tools_and_utils.md)
 
 ## Other specific curated lists related to CompEngg
@@ -143,3 +150,4 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Getting started with FPGA](https://github.com/lastweek/FPGA) - This repository is intended for folks who are new and want to learn something about FPGA. This repository is a collection of useful resources and links rather than a thorough FPGA tutorial.
 - [Awesome Thesis](https://github.com/ocean1/awesome-thesis) - Resources for thesis/research writing
 - [EDA-Wiki](https://github.com/daitoto/EDA-wiki)
+- [Computer Architecture Resources](https://github.com/the-akira/Computer-Science-Resources/blob/master/db/computer_architecture.md)

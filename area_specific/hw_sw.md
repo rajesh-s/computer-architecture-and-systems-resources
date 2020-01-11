@@ -10,6 +10,7 @@
 
 - [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 - [Writing a bare metal USB driver](http://kevincuzner.com/2014/12/12/teensy-3-1-bare-metal-writing-a-usb-driver/)
+- [Compiler writing journey](https://github.com/DoctorWkt/acwj)
 
 ### Books
 

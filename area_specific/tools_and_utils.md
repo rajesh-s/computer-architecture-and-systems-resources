@@ -4,8 +4,7 @@
   - [Open Source Tools for Digital Design](#open-source-tools-for-digital-design)
   - [Simulators](#simulators)
     - [Architectural](#architectural)
-    - [Digital Logic](#digital-logic)
-    - [Analog](#analog)
+    - [Digital/Analog Simulators](#digitalanalog-simulators)
   - [Emulators](#emulators)
 - [Utilities](#utilities)
   - [Hardware Design](#hardware-design)
@@ -54,9 +53,10 @@
 - [FireSim](https://fires.im) - FireSim is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs
 - [CPULator](https://cpulator.01xz.net/) - CPUlator Computer System Simulator designed as a tool for learning assembly-language programming and computer organization
 
-#### Digital Logic
+#### Digital/Analog Simulators
 
 - [DigitalJS](https://github.com/tilk/digitaljs) - Visualize and simulate digital logic using HDL
+- [Digital](https://github.com/hneemann/Digital) - Digital is a easy-to-use digital logic designer and circuit simulator designed for educational purposes.
 - [EDA Playground](https://www.edaplayground.com/) - Run HDL/HVL code in your browser
 - [Electronic Circuit Simulator](https://www.falstad.com/circuit/)
 - [ASMBits](https://asmbits.01xz.net/wiki/Main_Page) - Assembly Practice
@@ -65,10 +65,8 @@
 - [Logic Design and Circuit Simulator](https://github.com/hneemann/Digital)
 - [LogicEmu](https://lodev.org/logicemu/) - Logic simulator in your browser
 - [Transistor level 6502 Hardware Simulation in Javascript](https://github.com/trebonian/visual6502) - [Visual6502](https://floooh.github.io/visual6502remix/)
-
-#### Analog
-
 - [Xyce](https://xyce.sandia.gov/) - open source, SPICE-compatible, high-performance analog circuit simulator, capable of solving extremely large circuit problems by supporting large-scale parallel computing platforms.
+- [Micro Cap 12](http://www.spectrum-soft.com/download/download.shtm) - Micro-Cap 12 is an integrated schematic editor and mixed analog/digital simulator that provides an interactive sketch and simulate environment for electronics engineers. Now Open Source.
 
 ### Emulators
 
