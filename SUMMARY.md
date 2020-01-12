@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Computer Engineering Compendium](README.md)
+* [Computer Engineering Resources](README.md)
 * [Resources organized by area](area_specific/README.md)
   * [Hardware Design](./area_specific/hardware_design.md)
   * [Processors](./area_specific/processors.md)
   * [Parallel Computing](./deep_dive/parallel.md)
   * [Interconnects](./area_specific/interconnects.md)
   * [Performance](./area_specific/performance.md)
-  * [Hardware*Software Interface](./area_specific/hw_sw.md)
+  * [Hardware-Software Interface](./area_specific/hw_sw.md)
   * [High Performance Computing](./area_specific/hpc.md)
   * [Interesting Companies](./area_specific/interesting_companies.md)
   * [Computer Networks](./area_specific/networks.md)

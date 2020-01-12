@@ -1,6 +1,6 @@
 # Computer Engineering Resources [![Awesome](https://awesome.re/badge-flat2.svg)](http://rajesh-s.gitbook.io/compengg) [![GitHub contributors](https://img.shields.io/github/contributors/rajesh-s/awesome-computer-engineering)](https://github.com/rajesh-s/awesome-computer-engineering/graphs/contributors/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-A curated list of Computer Engineering and Computer Architecture resources
+A curated catalogue of Computer Engineering and Computer Architecture resources
 
 <p align="center">
   <img width="50%" height="50%" src="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/MSc_Computer_Engineering/PastedGraphic-2.jpg">
@@ -129,17 +129,17 @@ Table of Contents
 
 Computer Architecture is diverse and there's constant interplay between domains that are under it. Look under each of these to find specific information. (At the time of writing, these are the specific areas that I'm most interested in)
 
-- [Hardware Design](./deep_dive/hardware_design.md)
-- [Processors](./deep_dive/processors.md)
-- [Parallel Computing](./deep_dive/parallel.md)
-- [Interconnects](./deep_dive/interconnects.md)
-- [Performance](./deep_dive/performance.md)
-- [Hardware-Software Interface](./deep_dive/hw_sw.md)
-- [High Performance Computing](./deep_dive/hpc.md)
-- [Interesting Companies](./deep_dive/interesting_companies.md)
-- [Computer Networks](./deep_dive/networks.md)
-- [Computer Security](./deep_dive/security.md)
-- [Tools, Utilities, Simulators, Emulators and deep_dive](./deep_dive/tools_and_utils.md)
+- [Hardware Design](./area_specific/hardware_design.md)
+- [Processors](./area_specific/processors.md)
+- [Parallel Computing](./area_specific/parallel.md)
+- [Interconnects](./area_specific/interconnects.md)
+- [Performance](./area_specific/performance.md)
+- [Hardware-Software Interface](./area_specific/hw_sw.md)
+- [High Performance Computing](./area_specific/hpc.md)
+- [Interesting Companies](./area_specific/interesting_companies.md)
+- [Computer Networks](./area_specific/networks.md)
+- [Computer Security](./area_specific/security.md)
+- [Tools, Utilities, Simulators, Emulators and area_specific](./area_specific/tools_and_utils.md)
 
 ## Other specific curated lists related to CompEngg
 

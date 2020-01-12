@@ -41,6 +41,7 @@ Everything about processors
 - [Skylake MicroArch](https://en.wikichip.org/wiki/intel/microarchitectures/skylake_(server))
 - [Programmed Introduction to MIPS Assembly Language](https://chortle.ccsu.edu/AssemblyTutorial/index.html)
 - [Myths Programmer's believe about CPU Cache](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
+- [Great Microprocessors of the past and present](http://www.cpushack.com/CPU/cpu.html#tableofcontents)
 
 ### Must Reads
 
