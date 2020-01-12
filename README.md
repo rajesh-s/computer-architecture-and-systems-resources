@@ -139,7 +139,7 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Interesting Companies](./area_specific/interesting_companies.md)
 - [Computer Networks](./area_specific/networks.md)
 - [Computer Security](./area_specific/security.md)
-- [Tools, Utilities, Simulators, Emulators and area_specific](./area_specific/tools_and_utils.md)
+- [Tools, Utilities, Simulators, Emulators and more](./area_specific/tools_and_utils.md)
 
 ## Other specific curated lists related to CompEngg
 
