@@ -1,17 +1,19 @@
 # Hardware Software Interface
 
 - [Resources](#resources)
-  - [Learning resources](#learning-resources)
+  - [Learning resourcess](#learning-resourcess)
   - [Books](#books)
 
 ## Resources
 
-### Learning resources
+### Learning resourcess
 
 - [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 - [Writing a bare metal USB driver](http://kevincuzner.com/2014/12/12/teensy-3-1-bare-metal-writing-a-usb-driver/)
 - [Compiler writing journey](https://github.com/DoctorWkt/acwj)
 - [Apache TVM](https://tvm.apache.org/) - End to End Deep Learning Compiler Stack for CPUs, GPUs and specialized accelerators
+- [Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
+- 
 
 ### Books
 
