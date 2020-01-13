@@ -89,6 +89,8 @@ Table of Contents
 - [SIGARCH](https://www.sigarch.org/) Computer professionals working on the forefront of computer design in both industry and academia.
 - [Semiconductor Research Coroportation](https://www.src.org/)
 - [OpenCAPI](https://opencapi.org/) - Open Coherent Accelerator Processor Interface
+- [Open Computer Project](https://www.opencompute.org/) - Global community of technology leaders working together to break open the black box of proprietary IT infrastructure to achieve greater choice, customization, and cost savings.
+- [ITRS](http://www.itrs2.net/) - International Technology Roadmap for semiconductors
 
 ### Open Source Hardware
 

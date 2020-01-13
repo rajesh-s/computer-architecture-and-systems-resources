@@ -13,7 +13,9 @@
 - [Compiler writing journey](https://github.com/DoctorWkt/acwj)
 - [Apache TVM](https://tvm.apache.org/) - End to End Deep Learning Compiler Stack for CPUs, GPUs and specialized accelerators
 - [Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
-- 
+- [Floating point tutorial](https://wordsandbuttons.online/yet_another_floating_point_tutorial.html)
+- [AVX-512: when and how to use these new instructions](https://lemire.me/blog/2018/09/07/avx-512-when-and-how-to-use-these-new-instructions/)
+- [SIMD Parallelism](https://cvw.cac.cornell.edu/vector/overview_simd)
 
 ### Books
 

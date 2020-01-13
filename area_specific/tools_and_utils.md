@@ -36,12 +36,14 @@
 - [The Open Road Project](https://github.com/The-OpenROAD-Project) - Includes [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA), [RePlAce](https://github.com/The-OpenROAD-Project/RePlAce), [OpenDB](https://github.com/The-OpenROAD-Project/OpenDB), [ioPlacer](https://github.com/The-OpenROAD-Project/ioPlacer), [FastRoute4](https://github.com/The-OpenROAD-Project/FastRoute4-lefdef) and other tools.
 - [Open Register Design](https://github.com/Juniper/open-register-design-tool) - Tool to generate register RTL, models, and docs using SystemRDL or JSpec input
 - [LibrePCB](https://librepcb.org/) - A powerful, innovative and intuitive EDA tool for everyone!
-- [ACT Tools Suite](http://avlsi.csl.yale.edu/act/doku.php) - Asynchronous Circuit Design Toolkit
+- [ACT Tools Suite](http://avlsi.csl.yale.edu/act/doku.php) - Asynchronous Circuit Design Toolkit to support the design and implementation of asynchronous logic
 - [PyMTL](https://github.com/cornell-brg/pymtl) - PyMTL is an open-source, Python-based framework for multi-level hardware modeling.
 - [OpenFPGA](https://github.com/LNIS-Projects/OpenFPGA) - FPGA IP generator supporting highly-customizable homogeneous FPGA architectures
 - [LibSystemCTLM](https://github.com/Xilinx/libsystemctlm-soc/blob/master/README.md) - This library contains various SystemC/TLM-2.0 modules that enable co-simulation of Xilinx QEMU, SystemC/TLM-2.0 models and RTL.
 - [Fully autonomous SoC Synthesis](https://github.com/idea-fasoc/fasoc) - focused on developing a complete system-on-chip (SoC) synthesis tool from user specification to GDSII.
 - [EDALIZE](https://github.com/olofk/edalize) - Edalize is a Python Library for interacting with EDA tools.
+- [Open Source (FOSS) FPGA (EDA) Tooling Interchange Formats + Toolchain parts](https://j.mp/openfpga-diagram)
+- [nMigen](https://github.com/m-labs/nmigen) - A refreshed Python toolbox for building complex digital hardware
 
 ### Simulators
 
@@ -67,6 +69,7 @@
 - [Transistor level 6502 Hardware Simulation in Javascript](https://github.com/trebonian/visual6502) - [Visual6502](https://floooh.github.io/visual6502remix/)
 - [Xyce](https://xyce.sandia.gov/) - open source, SPICE-compatible, high-performance analog circuit simulator, capable of solving extremely large circuit problems by supporting large-scale parallel computing platforms.
 - [Micro Cap 12](http://www.spectrum-soft.com/download/download.shtm) - Micro-Cap 12 is an integrated schematic editor and mixed analog/digital simulator that provides an interactive sketch and simulate environment for electronics engineers. Now Open Source.
+- [Logisim](http://www.cburch.com/logisim/) - Logisim is an educational tool for designing and simulating digital logic circuits.
 
 ### Emulators
 

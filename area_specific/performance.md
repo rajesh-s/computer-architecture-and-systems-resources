@@ -6,8 +6,9 @@
 - [System-level](#system-level)
   - [Resources](#resources-1)
     - [Articles](#articles-1)
-- [Programming &amp; Optimization](#programming-amp-optimization)
-  - [Tools](#tools)
+    - [Tools](#tools)
+- [Programming & Optimization](#programming--optimization)
+  - [Tools](#tools-1)
   - [Resources](#resources-2)
 
 ## Chip-level
@@ -32,6 +33,10 @@
 - [Computer Latency at a Human Scale](https://www.prowesscorp.com/computer-latency-at-a-human-scale/)
 - [Latency numbers every programmer should know](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - [Performance variations in 2386 identical processors](http://shape-of-code.coding-guidelines.com/2020/01/05/performance-variation-in-2386-identical-processors/)
+
+#### Tools
+
+- [nanoBench](http://www.uops.info) - A tool for running small microbenchmarks on recent Intel and AMD x86 CPUs using hardware performance coutners. [Github](https://github.com/andreas-abel/nanoBench)
 
 ## Programming & Optimization
 

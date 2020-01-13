@@ -1,6 +1,6 @@
 # Hardware Design
 
-- [Chip Design (ASIC/FPGA/SoC)](#chip-design-asicfpgasoc)
+- [Chip Design \(ASIC/FPGA/SoC\)](#chip-design-asicfpgasoc)
   - [FPGA](#fpga)
   - [Analog Design](#analog-design)
   - [Digital Design](#digital-design)
@@ -9,7 +9,7 @@
     - [Elements](#elements)
 - [Resources](#resources)
   - [Articles](#articles)
-  - [Courses &amp; Tutorials](#courses-amp-tutorials)
+  - [Courses & Tutorials](#courses--tutorials)
   - [Books](#books)
   - [Others](#others)
 
@@ -82,3 +82,5 @@
 - [FuseSoC](https://github.com/olofk/fusesoc) - FuseSoC is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code. Its main purpose is to increase reuse of IP (Intellectual Property) cores and be an aid for creating, building and simulating SoC solutions.
 - [EDAlize](https://github.com/olofk/edalize) - An abstraction library for interfacing EDA tools
 - [Renode](https://renode.io/) - Open source software development framework with commercial support from Antmicro that lets you develop, debug and test multi-node device systems reliably, scalably and effectively.
+- [Open Road](https://vlsicad.ucsd.edu/~abk/BDC-Kahng-200102-OpenROAD-v4a.pptx) and [EDA Frontiers](https://vlsicad.ucsd.edu/~abk/BDC-Kahng-200103-FrontiersEDA-v2.pptx) presentation by Andrew Kahng
+- [DARPA EDA POSH](https://www.darpa.mil/attachments/eri_design_proposers_day.pdf) presentation by Andreas Olofsson
