@@ -5,6 +5,9 @@
   - [Books](#books)
   - [Article](#article)
 
+## Frameworks/Tools
+- [Spatial](spatial-lang.org) - A high level langauge for programming accelerators developed at Stanford
+
 ## Resources
 
 ### Learning resourcess
