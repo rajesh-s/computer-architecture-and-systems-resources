@@ -33,6 +33,8 @@ Everything about processors
 - [Shakti Processors](http://shakti.org.in/processor.html)
 - [Minerva](https://github.com/lambdaconcept/minerva) - Minerva is a CPU core that currently implements the RISC-V RV32IM instruction set. Its microarchitecture is described in plain Python code using the nMigen toolbox.
 - [BlackParrot](https://github.com/black-parrot/pre-alpha-release) - BlackParrot aims to be the default Linux-capable, cache-coherent, RV64GC multicore used by the world.
+- [Sodor](https://github.com/ucb-bar/riscv-sodor) - Educational microarchitectures collection for risc-v isa
+- [BOOM](https://github.com/riscv-boom/riscv-boom) - The Berkeley Out-of-Order RISC-V Processor.
 
 ## Interesting resources
 

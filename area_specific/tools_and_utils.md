@@ -44,6 +44,8 @@
 - [EDALIZE](https://github.com/olofk/edalize) - Edalize is a Python Library for interacting with EDA tools.
 - [Open Source (FOSS) FPGA (EDA) Tooling Interchange Formats + Toolchain parts](https://j.mp/openfpga-diagram)
 - [nMigen](https://github.com/m-labs/nmigen) - A refreshed Python toolbox for building complex digital hardware
+- [Cascade](https://github.com/vmware/cascade) - Just-in-time compiler for Verilog
+- [PyRTL](http://ucsbarchlab.github.io/PyRTL/) - A collection of classes for pythonic register-transfer level design, simulation, tracing, and testing suitable for teaching and research.
 
 ### Simulators
 

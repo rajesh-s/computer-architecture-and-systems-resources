@@ -153,3 +153,4 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Awesome Thesis](https://github.com/ocean1/awesome-thesis) - Resources for thesis/research writing
 - [EDA-Wiki](https://github.com/daitoto/EDA-wiki)
 - [Computer Architecture Resources](https://github.com/the-akira/Computer-Science-Resources/blob/master/db/computer_architecture.md)
+- [Awesome IoT](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.

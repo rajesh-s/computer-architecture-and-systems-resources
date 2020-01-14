@@ -3,6 +3,7 @@
 - [Resources](#resources)
   - [Learning resourcess](#learning-resourcess)
   - [Books](#books)
+  - [Article](#article)
 
 ## Resources
 
@@ -16,8 +17,14 @@
 - [Floating point tutorial](https://wordsandbuttons.online/yet_another_floating_point_tutorial.html)
 - [AVX-512: when and how to use these new instructions](https://lemire.me/blog/2018/09/07/avx-512-when-and-how-to-use-these-new-instructions/)
 - [SIMD Parallelism](https://cvw.cac.cornell.edu/vector/overview_simd)
+- [Memory Allocators 101](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory) - Write a simple memory allocator
+- **[Project Oberon](http://www.projectoberon.com/)** - Design of an Operating System, a Compiler, and a Computer from scratch
 
 ### Books
 
 - [The Embedded Rust Book](https://rust-embedded.github.io/book/intro/index.html) - An introductory book about using the Rust Programming Language on "Bare Metal" embedded systems, such as Microcontrollers.
 - [Myths CPU programmers believe about caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
+
+### Article
+
+- [Towards Fearless SIMD](https://raphlinus.github.io/rust/simd/2018/10/19/fearless-simd.html)
