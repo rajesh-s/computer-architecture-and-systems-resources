@@ -35,6 +35,7 @@ Everything about processors
 - [BlackParrot](https://github.com/black-parrot/pre-alpha-release) - BlackParrot aims to be the default Linux-capable, cache-coherent, RV64GC multicore used by the world.
 - [Sodor](https://github.com/ucb-bar/riscv-sodor) - Educational microarchitectures collection for risc-v isa
 - [BOOM](https://github.com/riscv-boom/riscv-boom) - The Berkeley Out-of-Order RISC-V Processor.
+- [RSD](https://github.com/rsd-devel/rsd) - RISC-V Out-of-Order Superscalar Processor
 
 ## Interesting resources
 

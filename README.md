@@ -103,6 +103,7 @@ Table of Contents
 - [OpenHW Group](https://www.openhwgroup.org/) - Proven Processor IP
 - [CHIPS Alliance](https://chipsalliance.org/) - Common Hardware for Interfaces, Processors and Systems harnesses the energy of open source collaboration to accelerate hardware development.
 - [RISC-V](https://riscv.org/) - RISC-V is a free and open ISA enabling a new era of processor innovation through open standard collaboration.
+- [MultiCore Association](https://www.multicore-association.org/index.php) -  Define and promote open specifications to enable multicore product development.
 
 ## Interesting Resources
 
@@ -154,3 +155,5 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [EDA-Wiki](https://github.com/daitoto/EDA-wiki)
 - [Computer Architecture Resources](https://github.com/the-akira/Computer-Science-Resources/blob/master/db/computer_architecture.md)
 - [Awesome IoT](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
+- [Awesome C](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources
+- [Professional Programming](https://github.com/charlax/professional-programming/blob/master/README.md#must-read-books) - A collection of full-stack resources for programmers.

@@ -2,6 +2,8 @@
 
 - [Chip Design \(ASIC/FPGA/SoC\)](#chip-design-asicfpgasoc)
   - [FPGA](#fpga)
+    - [Getting Started](#getting-started)
+    - [Frameworks/](#frameworks)
   - [Analog Design](#analog-design)
   - [Digital Design](#digital-design)
   - [Open Source Implementations](#open-source-implementations)
@@ -17,9 +19,19 @@
 
 ### FPGA
 
+#### Getting Started
+
+- [Nandland: FPGA 101](https://www.nandland.com/articles/fpga-101-fpgas-for-beginners.html) - FPGA for beginners
+- [Hackaday: FPGA Bootcamp](https://hackaday.io/project/159720-fpga-bootcamp-0) - Refresher on digital logic
+- [FPGA Glossary](https://blog.digilentinc.com/fpga-for-beginners-glossary-and-setup/)
 - [FPGA Design Elements](https://github.com/laforest/FPGADesignElements) - A self-contained online book containing a library of FPGA design modules and related coding/design guides.
 - [Blinky on every FPGA](https://github.com/fusesoc/blinky)
+- [FPGA Project ideas](https://github.com/lastweek/FPGA-Readings) - Recipe for FPGA cooking
+
+#### Frameworks/
+
 - [SoC Builder from LiteX](https://github.com/enjoy-digital/litex) - LiteX is a MiSoC-based SoC builder using Migen as Python DSL that can be used to create SoCs and full FPGA designs.
+- [Scalable Network Stack for FPGA](https://github.com/fpgasystems/fpga-network-stack) - Scalable Network Stack supporting TCP/IP, RoCEv2, UDP/IP at 10-100Gbit/s
 
 ### Analog Design
 

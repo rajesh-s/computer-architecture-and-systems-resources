@@ -46,6 +46,8 @@
 - [nMigen](https://github.com/m-labs/nmigen) - A refreshed Python toolbox for building complex digital hardware
 - [Cascade](https://github.com/vmware/cascade) - Just-in-time compiler for Verilog
 - [PyRTL](http://ucsbarchlab.github.io/PyRTL/) - A collection of classes for pythonic register-transfer level design, simulation, tracing, and testing suitable for teaching and research.
+- [myHDL](http://www.myhdl.org/) - MyHDL turns Python into a hardware description and verification language
+- [LLHD](http://www.llhd.io/) - is an intermediate representation for digital circuit descriptions, together with an accompanying simulator and SystemVerilog/VHDL compiler.
 
 ### Simulators
 

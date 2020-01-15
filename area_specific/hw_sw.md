@@ -1,11 +1,13 @@
 # Hardware Software Interface
 
+- [Frameworks/Tools](#frameworkstools)
 - [Resources](#resources)
   - [Learning resourcess](#learning-resourcess)
   - [Books](#books)
-  - [Article](#article)
+  - [Articles](#articles)
 
 ## Frameworks/Tools
+
 - [Spatial](spatial-lang.org) - A high level langauge for programming accelerators developed at Stanford
 
 ## Resources
@@ -22,12 +24,13 @@
 - [SIMD Parallelism](https://cvw.cac.cornell.edu/vector/overview_simd)
 - [Memory Allocators 101](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory) - Write a simple memory allocator
 - **[Project Oberon](http://www.projectoberon.com/)** - Design of an Operating System, a Compiler, and a Computer from scratch
+- [x86 bare metal examples](https://github.com/cirosantilli/x86-bare-metal-examples) - Dozens of minimal operating systems to learn x86 system programming.
 
 ### Books
 
 - [The Embedded Rust Book](https://rust-embedded.github.io/book/intro/index.html) - An introductory book about using the Rust Programming Language on "Bare Metal" embedded systems, such as Microcontrollers.
 - [Myths CPU programmers believe about caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 
-### Article
+### Articles
 
 - [Towards Fearless SIMD](https://raphlinus.github.io/rust/simd/2018/10/19/fearless-simd.html)
