@@ -10,6 +10,7 @@
 ## Algorithms
 
 - [Algorithms Illuminated](http://www.algorithmsilluminated.org/)
+- [Algorithm Archive](https://www.algorithm-archive.org/) - The Arcane Algorithm Archive is a collaborative effort to create a guide for all important algorithms in all languages.
 
 ## Data Structures
 

@@ -25,12 +25,14 @@
 - [Memory Allocators 101](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory) - Write a simple memory allocator
 - **[Project Oberon](http://www.projectoberon.com/)** - Design of an Operating System, a Compiler, and a Computer from scratch
 - [x86 bare metal examples](https://github.com/cirosantilli/x86-bare-metal-examples) - Dozens of minimal operating systems to learn x86 system programming.
+- [Writing an OS in Rust](https://os.phil-opp.com/)
 
 ### Books
 
 - [The Embedded Rust Book](https://rust-embedded.github.io/book/intro/index.html) - An introductory book about using the Rust Programming Language on "Bare Metal" embedded systems, such as Microcontrollers.
-- [Myths CPU programmers believe about caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
+- [Introduction to Computer Organization with x86-64 Assembly Language & GNU/Linux](http://bob.cs.sonoma.edu/index.html)
 
 ### Articles
 
 - [Towards Fearless SIMD](https://raphlinus.github.io/rust/simd/2018/10/19/fearless-simd.html)
+- [Myths CPU programmers believe about caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)

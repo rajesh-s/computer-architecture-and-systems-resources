@@ -15,4 +15,3 @@
 ## Software Security
 
 - [Interactive Guide to Buffer Overflow Exploitation](https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation)
-- [TLS Illustrated](https://github.com/syncsynchalt/illustrated-tls13)

@@ -58,6 +58,7 @@
 - [Venus](https://github.com/kvakil/venus) - Venus is a RISC-V instruction set simulator built for education.
 - [FireSim](https://fires.im) - FireSim is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs
 - [CPULator](https://cpulator.01xz.net/) - CPUlator Computer System Simulator designed as a tool for learning assembly-language programming and computer organization
+- [ESESC](https://github.com/masc-ucsc/esesc) - A fast multiprocessor simulator with detailed power, thermal, and performance models for modern out-of-order multicores.
 
 #### Digital/Analog Simulators
 

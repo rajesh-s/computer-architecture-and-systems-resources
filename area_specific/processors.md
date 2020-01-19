@@ -55,3 +55,6 @@ Everything about processors
 ### Learning Resources
 
 - [Graphics Processing Units (GPUs): Architecture and Programming](https://cs.nyu.edu/courses/fall15/CSCI-GA.3033-004/)
+- [Floating Point visually explained](http://fabiensanglard.net/floating_point_visually_explained/index.php)
+- [Why Floating Point?](https://engineering.fb.com/ai-research/floating-point-math/)
+- [Bug free RISC core without simulation?](https://tomverbeure.github.io/risc-v/2018/11/19/A-Bug-Free-RISC-V-Core-without-Simulation.html)
