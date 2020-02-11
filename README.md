@@ -6,6 +6,10 @@ A curated catalogue of Computer Engineering and Computer Architecture resources
   <img width="50%" height="50%" src="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/MSc_Computer_Engineering/PastedGraphic-2.jpg">
 </p>
 
+```txt
+The special charm of Computer Engineering is there's a relatively good understanding of abstraction layers. - Jim Keller
+```
+
 Table of Contents
 =================
 
