@@ -6,6 +6,10 @@ A curated catalogue of Computer Engineering and Computer Architecture resources
   <img width="50%" height="50%" src="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/MSc_Computer_Engineering/PastedGraphic-2.jpg">
 </p>
 
+```txt
+The special charm of Computer Engineering is there's a relatively good understanding of abstraction layers. - Jim Keller
+```
+
 Table of Contents
 =================
 
@@ -168,4 +172,7 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Awesome IoT](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
 - [Awesome C](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources
 - [Professional Programming](https://github.com/charlax/professional-programming/blob/master/README.md#must-read-books) - A collection of full-stack resources for programmers.
+<<<<<<< HEAD
 - [Digital Design Resources](https://github.com/digital-design-hq/Digital-Resources)
+=======
+>>>>>>> ff92be15efc634810e94694fde32a47374f3b86f
