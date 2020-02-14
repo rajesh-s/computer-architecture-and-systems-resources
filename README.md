@@ -23,6 +23,7 @@ Table of Contents
     - [Industry Organization](#industry-organization)
 - [Interesting Resources](#interesting-resources)
 - [MOOCs](#moocs)
+- [Blogs](#blogs)
 - [Digging Deeper](#digging-deeper)
 - [Other specific curated lists related to CompEngg](#other-specific-curated-lists-related-to-compengg)
 
@@ -104,10 +105,13 @@ Table of Contents
 - [CHIPS Alliance](https://chipsalliance.org/) - Common Hardware for Interfaces, Processors and Systems harnesses the energy of open source collaboration to accelerate hardware development.
 - [RISC-V](https://riscv.org/) - RISC-V is a free and open ISA enabling a new era of processor innovation through open standard collaboration.
 - [MultiCore Association](https://www.multicore-association.org/index.php) -  Define and promote open specifications to enable multicore product development.
+- [Storage Networking Industry Association](https://www.snia.org/) - A non-profit global organization dedicated to developing standards and education programs to advance storage and information technology.
+- [OpenFabrics Alliance](https://www.openfabrics.org/#) - The Alliance’s mission is to develop and promote software that enables maximum application efficiency by delivering wire-speed messaging, ultra-low latencies and maximum bandwidth directly to applications with minimal CPU overhead.
 
 ## Interesting Resources
 
 - [A great resource on upcoming Systems conferences and venues](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
+- [Computer Architecture Zotero Research library](https://www.zotero.org/groups/2426044/coffeebeforearch/items/)
 - [Computer Latency at a Human Scale](https://www.prowesscorp.com/computer-latency-at-a-human-scale/)
 - [Networking conference search tool](http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=usenix%20asplos%20ewsn%20hotnets%20hotos%20ipsn%20isca%20micro%20mobicom%20mobihoc%20mobisys%20nsdi%20osdi%20sensys%20sigcomm%20sosp%20uist&sortMode=1&graphicView=1)
 - [Libre Silicon Project](https://libresilicon.com/) - An open source semiconductor manufacturing process standard
@@ -121,12 +125,19 @@ Table of Contents
 - [Selected Historical Computer Designs](https://people.cs.clemson.edu/~mark/hist.html)
 - [Who are Computer Architects?](https://people.cs.clemson.edu/~mark/architects.html)
 - [Which machines do Computer Architects admire?](https://people.cs.clemson.edu/~mark/admired_designs.html)
+- [Moore's law till date](http://www.transistorcount.com/) - Counting transistors
 
 ## MOOCs
 
 - Prof. Onur Mutlu's [lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g/playlists) and [talks](https://people.inf.ethz.ch/omutlu/talks.htm)
 - Computer Architecture [course](https://www.coursera.org/learn/comparch) by David Wentzlaff on Coursera
 - [Notes](https://github.com/aphyr/distsys-class) on an introduction to distributed systems.
+
+## Blogs
+
+- [WikiChip](https://en.wikichip.org/wiki/WikiChip)
+- [SemiEngineering](http://semiengineering.com/)
+- [HPCWire](https://www.hpcwire.com/)
 
 ## Digging Deeper
 
@@ -157,3 +168,4 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Awesome IoT](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
 - [Awesome C](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources
 - [Professional Programming](https://github.com/charlax/professional-programming/blob/master/README.md#must-read-books) - A collection of full-stack resources for programmers.
+- [Digital Design Resources](https://github.com/digital-design-hq/Digital-Resources)

@@ -8,6 +8,7 @@
   - [Emulators](#emulators)
 - [Utilities](#utilities)
   - [Hardware Design](#hardware-design)
+- [Misc](#misc)
 
 ## Tools
 
@@ -33,7 +34,7 @@
   - [Qflow](http://opencircuitdesign.com/qflow/index.html) - a complete digital synthesis design flow using open-source software and open-source standard cell libraries.
   - [PCB](http://opencircuitdesign.com/pcb/index.html) - the printed circuit board layout editor.
 - [ngspice](http://ngspice.sourceforge.net/) - open source spice simulator
-- [The Open Road Project](https://github.com/The-OpenROAD-Project) - Includes [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA), [RePlAce](https://github.com/The-OpenROAD-Project/RePlAce), [OpenDB](https://github.com/The-OpenROAD-Project/OpenDB), [ioPlacer](https://github.com/The-OpenROAD-Project/ioPlacer), [FastRoute4](https://github.com/The-OpenROAD-Project/FastRoute4-lefdef) and other tools.
+- [The Open Road Project](https://github.com/The-OpenROAD-Project) - Includes [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA), [RePlAce](https://github.com/The-OpenROAD-Project/RePlAce), [OpenDB](https://github.com/The-OpenROAD-Project/OpenDB), [ioPlacer](https://github.com/The-OpenROAD-Project/ioPlacer), [FastRoute4](https://github.com/The-OpenROAD-Project/FastRoute4-lefdef) and other tools. [Start here](https://github.com/The-OpenROAD-Project/OPENROAD_USERS_READ_ME_FIRST)
 - [Open Register Design](https://github.com/Juniper/open-register-design-tool) - Tool to generate register RTL, models, and docs using SystemRDL or JSpec input
 - [LibrePCB](https://librepcb.org/) - A powerful, innovative and intuitive EDA tool for everyone!
 - [ACT Tools Suite](http://avlsi.csl.yale.edu/act/doku.php) - Asynchronous Circuit Design Toolkit to support the design and implementation of asynchronous logic
@@ -103,3 +104,8 @@
 - [RgGen](https://github.com/rggen/rggen) - RgGen is a code generation tool for ASIC/IP/FPGA/RTL engineers. It will automatically generate soruce code related to configuration and status registers \(CSR\)
 - [System RDL Compiler](https://github.com/SystemRDL/systemrdl-compiler) - The systemrdl-compiler module implements a generic compiler front-end for Accellera's SystemRDL 2.0 register description language.
 - [Verismith](https://github.com/ymherklotz/verismith) - Verilog Fuzzer to test the major simulators and sythesisers by generating random, valid Verilog.
+- [Jeff's ASIC tools](http://www.kwcpa.com/tools/) - Useful tools for working with HDL
+
+## Misc
+
+- [Online ARM Assember](https://azm.azerialabs.com/)

@@ -3,7 +3,7 @@
 - [Chip Design \(ASIC/FPGA/SoC\)](#chip-design-asicfpgasoc)
   - [FPGA](#fpga)
     - [Getting Started](#getting-started)
-    - [Frameworks/](#frameworks)
+    - [Frameworks](#frameworks)
   - [Analog Design](#analog-design)
   - [Digital Design](#digital-design)
   - [Open Source Implementations](#open-source-implementations)
@@ -28,7 +28,7 @@
 - [Blinky on every FPGA](https://github.com/fusesoc/blinky)
 - [FPGA Project ideas](https://github.com/lastweek/FPGA-Readings) - Recipe for FPGA cooking
 
-#### Frameworks/
+#### Frameworks
 
 - [SoC Builder from LiteX](https://github.com/enjoy-digital/litex) - LiteX is a MiSoC-based SoC builder using Migen as Python DSL that can be used to create SoCs and full FPGA designs.
 - [Scalable Network Stack for FPGA](https://github.com/fpgasystems/fpga-network-stack) - Scalable Network Stack supporting TCP/IP, RoCEv2, UDP/IP at 10-100Gbit/s
@@ -54,6 +54,7 @@
 - [Ethernet 1G/100M/10M Core](https://github.com/lewiz-support/LMAC_CORE1) - Open source Ethernet Core 1
 - [Asynchronous FIFO](https://github.com/damofthemoon/async_fifo) - A dual clock asynchronous FIFO written in verilog, tested with Icarus Verilog
 - [CDC Modules](https://github.com/damofthemoon/cdc) - This repository gathers several basic modules to handle CDC in a design
+- [One-Hot Mux](https://andy-knowles.github.io/one-hot-mux/) - Understanding synthesis of the one-hot mux
 
 ## Resources
 
@@ -68,6 +69,7 @@
 - [System Verilog.io](https://www.systemverilog.io/) - Covers concepts, formal verification and language
 - David Fong's ASIC architecture [blog](https://daffy1108.wordpress.com/)
 - [Using SDRAM in FPGA Designs](https://www.joshbassett.info/sdram-controller/)
+- [Lessons in Hardware Reuse](https://zipcpu.com/blog/2020/01/13/reuse.html)
 
 ### Courses & Tutorials
 
@@ -83,6 +85,7 @@
 - Gogul Ilango's notes [ASIC Design](https://gogul09.github.io/asic-design)
 - ZipCPU's [blog](http://zipcpu.com/) - A good starting point for Verilog/ FPGA/ Formal Verification
 - Eric LaForest's [blog](http://fpgacpu.ca/) as a resource about FPGAs, computer history, and computer architecture.
+- [VLSI STA](http://www.vlsi-expert.com/p/static-timing-analysis.html) - Concepts and conventions explained
 
 ### Books
 
@@ -96,3 +99,4 @@
 - [Renode](https://renode.io/) - Open source software development framework with commercial support from Antmicro that lets you develop, debug and test multi-node device systems reliably, scalably and effectively.
 - [Open Road](https://vlsicad.ucsd.edu/~abk/BDC-Kahng-200102-OpenROAD-v4a.pptx) and [EDA Frontiers](https://vlsicad.ucsd.edu/~abk/BDC-Kahng-200103-FrontiersEDA-v2.pptx) presentation by Andrew Kahng
 - [DARPA EDA POSH](https://www.darpa.mil/attachments/eri_design_proposers_day.pdf) presentation by Andreas Olofsson
+- [Letters from EDA users](http://www.deepchip.com/) - Insights from EDA users over the years

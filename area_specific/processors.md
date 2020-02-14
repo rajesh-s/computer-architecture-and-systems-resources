@@ -36,6 +36,7 @@ Everything about processors
 - [Sodor](https://github.com/ucb-bar/riscv-sodor) - Educational microarchitectures collection for risc-v isa
 - [BOOM](https://github.com/riscv-boom/riscv-boom) - The Berkeley Out-of-Order RISC-V Processor.
 - [RSD](https://github.com/rsd-devel/rsd) - RISC-V Out-of-Order Superscalar Processor
+- [BRISC-V Explorer](https://ascslab.org/research/briscv/explorer/explorer.html) - Generate RISC V Cores for different configurations
 
 ## Interesting resources
 

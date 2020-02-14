@@ -32,9 +32,12 @@ Everything about on-chip and inter-chip communication
 ## Resources
 
 - [AXI3/4 Cheatsheet](https://github.com/rajesh-s/axi_chestsheet) - Handy quick reference for ARM on-chip protocol standards
+- [Designing a Skid Buffer](http://fpgacpu.ca/fpga/skid_buffer.html) - Implementing a fundamental element in on-chip interconnects
 
 ### Articles
 
 - [Flexibly Scalable High Performance Architectures with Embedded Photonics](https://insidehpc.com/2019/07/flexibly-scalable-high-performance-architectures-with-embedded-photonics/)
+- [Interconnect Prominence In Fail-Operational Architectures](https://semiengineering.com/interconnect-prominence-in-fail-operational-architectures/)
+- [AXI verification](http://zipcpu.com/formal/2019/09/06/axi-story.html)
 
 ### Books

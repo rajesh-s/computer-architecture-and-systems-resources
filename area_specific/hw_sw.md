@@ -26,6 +26,7 @@
 - **[Project Oberon](http://www.projectoberon.com/)** - Design of an Operating System, a Compiler, and a Computer from scratch
 - [x86 bare metal examples](https://github.com/cirosantilli/x86-bare-metal-examples) - Dozens of minimal operating systems to learn x86 system programming.
 - [Writing an OS in Rust](https://os.phil-opp.com/)
+- [Asymmetric multiprocessing on microcontrollers](https://blog.japaric.io/microamp/)
 
 ### Books
 

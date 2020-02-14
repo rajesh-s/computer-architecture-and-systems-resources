@@ -19,6 +19,8 @@
 ## Compilers
 
 - [Compiler Explorer](https://godbolt.org/) - Compiler Explorer is an interactive tool that lets you type code in one window and see the results of its compilation in another window.
+- [MLIR Primer](https://research.google/pubs/pub48035/) - A Compiler Infrastructure for the End of Moore’s Law
+- [HN advice to new grads on compilers](https://news.ycombinator.com/item?id=20914046)
 
 ## Systems
 
