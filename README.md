@@ -111,6 +111,7 @@ Table of Contents
 - [MultiCore Association](https://www.multicore-association.org/index.php) -  Define and promote open specifications to enable multicore product development.
 - [Storage Networking Industry Association](https://www.snia.org/) - A non-profit global organization dedicated to developing standards and education programs to advance storage and information technology.
 - [OpenFabrics Alliance](https://www.openfabrics.org/#) - The Alliance’s mission is to develop and promote software that enables maximum application efficiency by delivering wire-speed messaging, ultra-low latencies and maximum bandwidth directly to applications with minimal CPU overhead.
+- [Open Compute Project](https://www.opencompute.org/) - Focus on reimagining hardware, making it more efficient, flexible, and scalable.
 
 ## Interesting Resources
 
