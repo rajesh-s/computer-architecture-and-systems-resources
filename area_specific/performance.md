@@ -38,6 +38,7 @@
 #### Tools
 
 - [nanoBench](http://www.uops.info) - A tool for running small microbenchmarks on recent Intel and AMD x86 CPUs using hardware performance coutners. [Github](https://github.com/andreas-abel/nanoBench)
+- [CPU Benchmark results](https://www.anandtech.com/bench/CPU-2019/2605)
 
 ## Programming & Optimization
 

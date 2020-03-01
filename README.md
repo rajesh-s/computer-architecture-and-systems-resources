@@ -132,6 +132,7 @@ Table of Contents
 - [Who are Computer Architects?](https://people.cs.clemson.edu/~mark/architects.html)
 - [Which machines do Computer Architects admire?](https://people.cs.clemson.edu/~mark/admired_designs.html)
 - [Moore's law till date](http://www.transistorcount.com/) - Counting transistors
+- [AI Chip Landscape in 2020](https://github.com/basicmi/AI-Chip) - A list of ICs and IPs for AI, Machine Learning and Deep Learning.
 
 ## MOOCs
 

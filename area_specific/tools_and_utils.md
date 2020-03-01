@@ -49,6 +49,7 @@
 - [PyRTL](http://ucsbarchlab.github.io/PyRTL/) - A collection of classes for pythonic register-transfer level design, simulation, tracing, and testing suitable for teaching and research.
 - [myHDL](http://www.myhdl.org/) - MyHDL turns Python into a hardware description and verification language
 - [LLHD](http://www.llhd.io/) - is an intermediate representation for digital circuit descriptions, together with an accompanying simulator and SystemVerilog/VHDL compiler.
+- [TerosHDL](https://github.com/TerosTechnology/terosHDL) - It is a  open source IDE to make FPGA development easier
 
 ### Simulators
 
