@@ -44,6 +44,7 @@ Table of Contents
 - [USENIX](https://www.usenix.org/conferences) - Systems Researchers Conf
 - [SOSP](https://sosp19.rcs.uwaterloo.ca/program.html) - Operating Systems Principles
 - [VLSI Symposia](https://vlsisymposium.org/) - Conference on semiconductor technology and circuits
+- [ISSCC](http://isscc.org/) -  International Solid-State Circuits Conference is the foremost global forum for presentation of advances in solid-state circuits and systems-on-a-chip
 - [MCSoC](http://mcsoc-forum.org/m2019/ieee-mcsoc-2019-presentation-slides/) - Multicore SoC's
 
 ### Search tools for conferences
@@ -93,6 +94,8 @@ Table of Contents
 
 - [ACM](https://www.acm.org/) Association for Computing Machinery
 - [SIGARCH](https://www.sigarch.org/) Computer professionals working on the forefront of computer design in both industry and academia.
+- [SIGHPC](http://www.sigcas.org/) - Special interest groupt for HPC
+- [SIGMICRO](http://www.sigmicro.org/) - The ACM Special Interest Group on Microarchitecture
 - [Semiconductor Research Coroportation](https://www.src.org/)
 - [OpenCAPI](https://opencapi.org/) - Open Coherent Accelerator Processor Interface
 - [Open Computer Project](https://www.opencompute.org/) - Global community of technology leaders working together to break open the black box of proprietary IT infrastructure to achieve greater choice, customization, and cost savings.
