@@ -67,7 +67,7 @@
 - [DigitalJS](https://github.com/tilk/digitaljs) - Visualize and simulate digital logic using HDL
 - [Digital](https://github.com/hneemann/Digital) - Digital is a easy-to-use digital logic designer and circuit simulator designed for educational purposes.
 - [EDA Playground](https://www.edaplayground.com/) - Run HDL/HVL code in your browser
-- [Electronic Circuit Simulator](https://www.falstad.com/circuit/)
+- [Electronic Circuit Simulator](https://www.falstad.com/circuit/) - Falstad circuit simulator
 - [ASMBits](https://asmbits.01xz.net/wiki/Main_Page) - Assembly Practice
 - [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) - Verilog Practice
 - [8bit Workshop](http://8bitworkshop.com/redir.html?platform=verilog) - Verilog to waves instantly
@@ -77,6 +77,8 @@
 - [Xyce](https://xyce.sandia.gov/) - open source, SPICE-compatible, high-performance analog circuit simulator, capable of solving extremely large circuit problems by supporting large-scale parallel computing platforms.
 - [Micro Cap 12](http://www.spectrum-soft.com/download/download.shtm) - Micro-Cap 12 is an integrated schematic editor and mixed analog/digital simulator that provides an interactive sketch and simulate environment for electronics engineers. Now Open Source.
 - [Logisim](http://www.cburch.com/logisim/) - Logisim is an educational tool for designing and simulating digital logic circuits.
+- [LogisimITA](http://www.logisim.altervista.org/) - An independently developed fork of logisim that's preferred by many
+- [Logisim-Evolution](https://github.com/reds-heig/logisim-evolution/) - Another flavour of Logisim after the development of original version was stopped
 
 ### Emulators
 

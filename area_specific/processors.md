@@ -46,6 +46,8 @@ Everything about processors
 - [Programmed Introduction to MIPS Assembly Language](https://chortle.ccsu.edu/AssemblyTutorial/index.html)
 - [Myths Programmer's believe about CPU Cache](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 - [Great Microprocessors of the past and present](http://www.cpushack.com/CPU/cpu.html#tableofcontents)
+- [Microarchitecture Block Diagrams of Intel, ARM and AMD processors](https://drive.google.com/drive/folders/1W4CIRKtNML74BKjSbXerRsIzAUk3ppSG)
+- [Microarchitecture, Cache Organization and other details of Intel Processors](https://www.uops.info/cache.html)
 
 ### Must Reads
 
