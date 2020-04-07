@@ -108,6 +108,7 @@
 - [System RDL Compiler](https://github.com/SystemRDL/systemrdl-compiler) - The systemrdl-compiler module implements a generic compiler front-end for Accellera's SystemRDL 2.0 register description language.
 - [Verismith](https://github.com/ymherklotz/verismith) - Verilog Fuzzer to test the major simulators and sythesisers by generating random, valid Verilog.
 - [Jeff's ASIC tools](http://www.kwcpa.com/tools/) - Useful tools for working with HDL
+- [Static Timing Analysis Diagram Renderer](https://github.com/drom/sta) - Altera Quartus/ Icestorm report parser
 
 ## Misc
 

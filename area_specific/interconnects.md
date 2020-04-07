@@ -41,3 +41,6 @@ Everything about on-chip and inter-chip communication
 - [AXI verification](http://zipcpu.com/formal/2019/09/06/axi-story.html)
 
 ### Books
+
+- [On-chip Networks](https://www.morganclaypool.com/doi/abs/10.2200/S00772ED1V01Y201704CAC040) - Synthesis Lectures on Computer Architecture
+- [A Primer on Memory Consistency and Cache Coherence](https://www.morganclaypool.com/doi/abs/10.2200/S00962ED2V01Y201910CAC049)
