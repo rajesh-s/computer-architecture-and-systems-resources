@@ -167,10 +167,10 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Computer Networks](./area_specific/networks.md)
 - [Computer Security](./area_specific/security.md)
 - [Tools, Utilities, Simulators, Emulators and more](./area_specific/tools_and_utils.md)
-- [Computer Programming(Compilers,OS and more)](area_specific/programming.md)
-- [Electronics](area_specific/electronics.md)
-- [Software Defined Radio](area_specific/sdr.md)
-- [Accelerators](area_specific/accelerators.md)
+- [Computer Programming(Compilers,OS and more)](./area_specific/programming.md)
+- [Electronics](./area_specific/electronics.md)
+- [Software Defined Radio](./area_specific/sdr.md)
+- [Accelerators](./area_specific/accelerators.md)
 
 ## Other specific curated lists related to CompEngg
 
