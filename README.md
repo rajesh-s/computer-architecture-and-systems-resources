@@ -46,6 +46,8 @@ Table of Contents
 - [VLSI Symposia](https://vlsisymposium.org/) - Conference on semiconductor technology and circuits
 - [ISSCC](http://isscc.org/) -  International Solid-State Circuits Conference is the foremost global forum for presentation of advances in solid-state circuits and systems-on-a-chip
 - [MCSoC](http://mcsoc-forum.org/m2019/ieee-mcsoc-2019-presentation-slides/) - Multicore SoC's
+- [PACT](https://pact20.cc.gatech.edu/) - Conference on Parallel Architectures and Compilation Techniques
+- [ICCD](https://www.iccd-conf.com/Home.html) - Conference on Computer Design 
 
 ### Search tools for conferences
 
@@ -98,8 +100,8 @@ Table of Contents
 - [SIGMICRO](http://www.sigmicro.org/) - The ACM Special Interest Group on Microarchitecture
 - [Semiconductor Research Coroportation](https://www.src.org/)
 - [OpenCAPI](https://opencapi.org/) - Open Coherent Accelerator Processor Interface
-- [Open Computer Project](https://www.opencompute.org/) - Global community of technology leaders working together to break open the black box of proprietary IT infrastructure to achieve greater choice, customization, and cost savings.
 - [ITRS](http://www.itrs2.net/) - International Technology Roadmap for semiconductors
+- [Eurolab4HPC](https://www.eurolab4hpc.eu/) - To strengthen academic research excellence and innovation in HPC in Europe
 
 ### Open Source Hardware
 
@@ -148,6 +150,7 @@ Table of Contents
 - [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 - [SemiEngineering](http://semiengineering.com/)
 - [HPCWire](https://www.hpcwire.com/)
+- [FPGA CPU News](http://fpga.org/) - Exploring Parallel Computer Architecture with FPGAs
 
 ## Digging Deeper
 
@@ -164,6 +167,10 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Computer Networks](./area_specific/networks.md)
 - [Computer Security](./area_specific/security.md)
 - [Tools, Utilities, Simulators, Emulators and more](./area_specific/tools_and_utils.md)
+- [Computer Programming(Compilers,OS and more)](area_specific/programming.md)
+- [Electronics](area_specific/electronics.md)
+- [Software Defined Radio](area_specific/sdr.md)
+- [Accelerators](area_specific/accelerators.md)
 
 ## Other specific curated lists related to CompEngg
 
@@ -171,6 +178,8 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Awesome-HDL](https://github.com/drom/awesome-hdl) A curated list of amazingly awesome hardware description language projects.
 - [Awesome-Quantum-Computing](https://github.com/desireevl/awesome-quantum-computing) - A curated list of awesome quantum computing learning and developing resources.
 - [Awesome RISCV](https://github.com/xmpf/awesome-risc-v/blob/master/README.md) - A curated list of RISCV resources
+- [Awesome RISCV](https://github.com/drom/awesome-riscv) - A curated list of awesome RISC-V implementations
+- [Awesome-DV](https://github.com/troyguo/awesome-dv) - Awesome ASIC design verification
 - [Getting started with FPGA](https://github.com/lastweek/FPGA) - This repository is intended for folks who are new and want to learn something about FPGA. This repository is a collection of useful resources and links rather than a thorough FPGA tutorial.
 - [Awesome Thesis](https://github.com/ocean1/awesome-thesis) - Resources for thesis/research writing
 - [EDA-Wiki](https://github.com/daitoto/EDA-wiki)

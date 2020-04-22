@@ -61,6 +61,11 @@
 - [FireSim](https://fires.im) - FireSim is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs
 - [CPULator](https://cpulator.01xz.net/) - CPUlator Computer System Simulator designed as a tool for learning assembly-language programming and computer organization
 - [ESESC](https://github.com/masc-ucsc/esesc) - A fast multiprocessor simulator with detailed power, thermal, and performance models for modern out-of-order multicores.
+- [Cache simulator](https://github.com/CoffeeBeforeArch/cache_simulator) - A simple trace-based cache simulator
+- [Multi2Sim](http://www.multi2sim.org/) - Multi2Sim is a heterogeneous system simulator of CPUs and GPUs, used to test and validate new hardware designs before they are physically manufactured.
+- [SniperSim](https://snipersim.org//w/The_Sniper_Multi-Core_Simulator) - A multi-core, parallel, high-speed and accurate x86 simulator.
+- [DRAMSim2](https://github.com/umd-memsys/DRAMSim2) - A cycle accurate DRAM simulator
+- [MacSim](https://github.com/gthparch/macsim) - A heterogeneous architecture timing model simulator.
 
 #### Digital/Analog Simulators
 
@@ -113,3 +118,4 @@
 ## Misc
 
 - [Online ARM Assember](https://azm.azerialabs.com/)
+- [Hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
