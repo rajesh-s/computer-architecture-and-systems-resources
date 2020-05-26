@@ -4,6 +4,7 @@
   - [Learning](#learning)
   - [Articles](#articles)
   - [Books](#books)
+  - [Training](#training)
 
 ## Resources
 
@@ -25,3 +26,8 @@
 ### Books
 
 - [Introduction to High-Performance Scientific Computing](http://pages.tacc.utexas.edu/~eijkhout/istc/html/index.html)
+
+### Training
+
+- [PRACE](https://prace-ri.eu/training-support/training/)
+- [PSC](http://psc.edu/resources-for-users/training/)

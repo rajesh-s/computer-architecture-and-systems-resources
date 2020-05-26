@@ -48,11 +48,13 @@ Table of Contents
 - [MCSoC](http://mcsoc-forum.org/m2019/ieee-mcsoc-2019-presentation-slides/) - Multicore SoC's
 - [PACT](https://pact20.cc.gatech.edu/) - Conference on Parallel Architectures and Compilation Techniques
 - [ICCD](https://www.iccd-conf.com/Home.html) - Conference on Computer Design 
+- [NAS](http://www.nas-conference.org/NAS-2020/) - Conference on Networking, Architecture, and Storage
 
 ### Search tools for conferences
 
 - [ConfSearch](http://confsearch.ethz.ch/confsearch/)
 - [WikiCfp](http://www.wikicfp.com/cfp/)
+- [HGPU](https://hgpu.org/)
 
 ### Halls of Fame
 
@@ -78,7 +80,8 @@ Table of Contents
 - [Hot Chips](https://www.hotchips.org/) - A Symposium on High Performance Chips
 - [PASC](https://pasc-conference.org/) - The Platform for Advanced Scientific Computing (PASC) Conference is an interdisciplinary conference in HPC that brings together domain science, applied mathematics and computer science – where computer science is focused on enabling the realization of scientific computation.
 - [ISC High Performance](https://www.isc-hpc.com/) - Event for HPC, Networking, Storage, AI/ML
-
+- [HiPEAC](https://www.hipeac.net/events/#/) - Events on High-Performance and Embedded Architectures and Compilers
+  - [MULTIPROG](https://sites.google.com/view/multiprog/) - Workshop on Programmability and Architectures for Heterogeneous Multicores 
 ### Workshops and Conference Sessions on Open Source EDA
 
 - WOSET: Workshop on Open-Source EDA Technology
@@ -102,6 +105,7 @@ Table of Contents
 - [OpenCAPI](https://opencapi.org/) - Open Coherent Accelerator Processor Interface
 - [ITRS](http://www.itrs2.net/) - International Technology Roadmap for semiconductors
 - [Eurolab4HPC](https://www.eurolab4hpc.eu/) - To strengthen academic research excellence and innovation in HPC in Europe
+- [PRACE](https://prace-ri.eu/) - Partnership for Advanced computing in Europe
 
 ### Open Source Hardware
 
@@ -150,7 +154,10 @@ Table of Contents
 - [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 - [SemiEngineering](http://semiengineering.com/)
 - [HPCWire](https://www.hpcwire.com/)
+- [The Next Platform](https://www.nextplatform.com/)
+- [Inside HPC](https://insidehpc.com/)
 - [FPGA CPU News](http://fpga.org/) - Exploring Parallel Computer Architecture with FPGAs
+- [Real world technology](https://www.realworldtech.com/) - Everything from cloud, chips, processors and software. Some interesting articles such as [Power delivery in a CPU]()
 
 ## Digging Deeper
 
@@ -175,6 +182,7 @@ Computer Architecture is diverse and there's constant interplay between domains 
 ## Other specific curated lists related to CompEngg
 
 - [Deep Learning Hardware resources](https://github.com/RaviVijay/awesome-dl-hw-resources) A curated list of awesome hardware/chip design resources for deep learning
+- [HGPU](https://hgpu.org/) - Resources for HPC on graphics processing units
 - [Awesome-HDL](https://github.com/drom/awesome-hdl) A curated list of amazingly awesome hardware description language projects.
 - [Awesome-Quantum-Computing](https://github.com/desireevl/awesome-quantum-computing) - A curated list of awesome quantum computing learning and developing resources.
 - [Awesome RISCV](https://github.com/xmpf/awesome-risc-v/blob/master/README.md) - A curated list of RISCV resources

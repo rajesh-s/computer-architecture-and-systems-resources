@@ -4,12 +4,14 @@
   - [FPGA](#fpga)
     - [Getting Started](#getting-started)
     - [Frameworks](#frameworks)
+    - [Resources](#resources)
+    - [Open Source Implementations](#open-source-implementations)
   - [Analog Design](#analog-design)
   - [Digital Design](#digital-design)
-  - [Open Source Implementations](#open-source-implementations)
+  - [Open Source Implementations](#open-source-implementations-1)
     - [Open Core Collections](#open-core-collections)
     - [Elements](#elements)
-- [Resources](#resources)
+- [Resources](#resources-1)
   - [Articles](#articles)
   - [Courses & Tutorials](#courses--tutorials)
   - [Books](#books)
@@ -32,6 +34,14 @@
 
 - [SoC Builder from LiteX](https://github.com/enjoy-digital/litex) - LiteX is a MiSoC-based SoC builder using Migen as Python DSL that can be used to create SoCs and full FPGA designs.
 - [Scalable Network Stack for FPGA](https://github.com/fpgasystems/fpga-network-stack) - Scalable Network Stack supporting TCP/IP, RoCEv2, UDP/IP at 10-100Gbit/s
+
+#### Resources
+
+- [Xilinx AXI VIP for FPGAs](https://forums.xilinx.com/t5/Design-and-Debug-Techniques-Blog/AXI-Basics-2-Simulating-AXI-interfaces-with-the-AXI-Verification/ba-p/1053935) - Article on using the Xilinx AXI VIPs. [Part 2](https://forums.xilinx.com/t5/Design-and-Debug-Techniques-Blog/AXI-Basics-2-Simulating-AXI-interfaces-with-the-AXI-Verification/ba-p/1053935)
+
+#### Open Source Implementations
+
+- [HDMI HDL UTIL](https://github.com/hdl-util/hdmi) - Send video/audio over HDMI on an FPGA
 
 ### Analog Design
 

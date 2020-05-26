@@ -59,6 +59,7 @@
   - [Lapidary](https://github.com/efeslab/lapidary) - Tool to enable more efficient gem5 simulations
 - [Venus](https://github.com/kvakil/venus) - Venus is a RISC-V instruction set simulator built for education.
 - [FireSim](https://fires.im) - FireSim is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs
+- [Ripes](https://github.com/mortbopet/Ripes) - Ripes is a visual computer architecture simulator and assembly code editor built for the RISC-V ISA.
 - [CPULator](https://cpulator.01xz.net/) - CPUlator Computer System Simulator designed as a tool for learning assembly-language programming and computer organization
 - [ESESC](https://github.com/masc-ucsc/esesc) - A fast multiprocessor simulator with detailed power, thermal, and performance models for modern out-of-order multicores.
 - [Cache simulator](https://github.com/CoffeeBeforeArch/cache_simulator) - A simple trace-based cache simulator
@@ -66,6 +67,7 @@
 - [SniperSim](https://snipersim.org//w/The_Sniper_Multi-Core_Simulator) - A multi-core, parallel, high-speed and accurate x86 simulator.
 - [DRAMSim2](https://github.com/umd-memsys/DRAMSim2) - A cycle accurate DRAM simulator
 - [MacSim](https://github.com/gthparch/macsim) - A heterogeneous architecture timing model simulator.
+- [ARM Consistency Memory Model](https://developer.arm.com/architectures/cpu-architecture/a-profile/memory-model-tool) - The herd tool allows the user to execute the model with a specific question about the possible final states of the program using ARM consistency memory model.
 
 #### Digital/Analog Simulators
 
@@ -114,8 +116,11 @@
 - [Verismith](https://github.com/ymherklotz/verismith) - Verilog Fuzzer to test the major simulators and sythesisers by generating random, valid Verilog.
 - [Jeff's ASIC tools](http://www.kwcpa.com/tools/) - Useful tools for working with HDL
 - [Static Timing Analysis Diagram Renderer](https://github.com/drom/sta) - Altera Quartus/ Icestorm report parser
+- [Bitfield/Register representations](https://observablehq.com/@drom/bitfield-testbox) - Editable examples of registers
 
 ## Misc
 
 - [Online ARM Assember](https://azm.azerialabs.com/)
 - [Hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
+- [Scastie](https://scastie.scala-lang.org/) - Playground for Chisel 3: A Modern Hardware Design Language
+- [vcdMaker](https://vcdmaker.org/) - Open application for translating text log files into the VCD (Variable Change Dump) format files. It is supposed to help you to debug your applications and systems
