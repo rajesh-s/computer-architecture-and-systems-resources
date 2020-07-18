@@ -57,6 +57,7 @@
 
 - [gem5](http://gem5.org/Main_Page) - The gem5 simulator is a modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.
   - [Lapidary](https://github.com/efeslab/lapidary) - Tool to enable more efficient gem5 simulations
+- [GPGPU Sim](gpgpu-sim.org) - GPGPU-Sim provides a detailed simulation model of a contemporary GPUs
 - [Venus](https://github.com/kvakil/venus) - Venus is a RISC-V instruction set simulator built for education.
 - [FireSim](https://fires.im) - FireSim is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs
 - [Ripes](https://github.com/mortbopet/Ripes) - Ripes is a visual computer architecture simulator and assembly code editor built for the RISC-V ISA.

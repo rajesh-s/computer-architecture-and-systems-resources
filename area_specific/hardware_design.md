@@ -29,6 +29,7 @@
 - [FPGA Design Elements](https://github.com/laforest/FPGADesignElements) - A self-contained online book containing a library of FPGA design modules and related coding/design guides.
 - [Blinky on every FPGA](https://github.com/fusesoc/blinky)
 - [FPGA Project ideas](https://github.com/lastweek/FPGA-Readings) - Recipe for FPGA cooking
+- [FPGA Boards list](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
 
 #### Frameworks
 

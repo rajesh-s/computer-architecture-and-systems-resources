@@ -49,6 +49,7 @@ Everything about processors
 - [Great Microprocessors of the past and present](http://www.cpushack.com/CPU/cpu.html#tableofcontents)
 - [Microarchitecture Block Diagrams of Intel, ARM and AMD processors](https://drive.google.com/drive/folders/1W4CIRKtNML74BKjSbXerRsIzAUk3ppSG)
 - [Microarchitecture, Cache Organization and other details of Intel Processors](https://www.uops.info/cache.html)
+- [The first ARM processor](https://spectrum.ieee.org/tech-history/silicon-revolution/chip-hall-of-fame-acorn-computers-arm1-processor)
 
 ### Must Reads
 

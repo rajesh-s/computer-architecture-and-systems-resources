@@ -36,9 +36,9 @@ Table of Contents
 
 ### Computer Architecture
 
-- [ISCA](https://iscaconf.org/) - International Symposium on Computer Architecture
+- [**ISCA**](https://iscaconf.org/) - International Symposium on Computer Architecture
 - [ASPLOS](https://asplos-conference.org/) - ASPLOS is the premier forum for interdisciplinary systems research, intersecting computer architecture, hardware and emerging technologies, programming languages and compilers, operating systems, and networking.
-- [MICRO](https://www.microarch.org/) - IEEE International Symposium on Microarchitecture
+- [**MICRO**](https://www.microarch.org/) - IEEE International Symposium on Microarchitecture
 - [ISCAS](https://iscas2020.org/) - IEEE International Symposium on Circuits and Systems
 - [ICONS](https://ornlcda.github.io/icons2019/) - Conference on Neuromorphic Computing
 - [USENIX](https://www.usenix.org/conferences) - Systems Researchers Conf
@@ -47,7 +47,7 @@ Table of Contents
 - [ISSCC](http://isscc.org/) -  International Solid-State Circuits Conference is the foremost global forum for presentation of advances in solid-state circuits and systems-on-a-chip
 - [MCSoC](http://mcsoc-forum.org/m2019/ieee-mcsoc-2019-presentation-slides/) - Multicore SoC's
 - [PACT](https://pact20.cc.gatech.edu/) - Conference on Parallel Architectures and Compilation Techniques
-- [ICCD](https://www.iccd-conf.com/Home.html) - Conference on Computer Design 
+- [ICCD](https://www.iccd-conf.com/Home.html) - Conference on Computer Design
 - [NAS](http://www.nas-conference.org/NAS-2020/) - Conference on Networking, Architecture, and Storage
 
 ### Search tools for conferences
@@ -72,20 +72,24 @@ Table of Contents
 
 - [Hot Interconnects](http://www.hoti.org/) - Symposium on High-Performance Interconnects
 - [International Symposium on Networks-on-Chip (NOCS)](https://www.engr.colostate.edu/nocs2019/) is dedicated to interdisciplinary research on on-chip, package-scale, chip-to-chip, and datacenter rack-scale communication technology, architecture, design methods, applications and systems.
+- [NoCArc](http://nocarc.org/) - Held in conjunction with MICRO, NoCArc provides a forum for researchers to  discuss implementation of multi-core systems on chip.
 
 ### High Performance Computing
 
 - [SuperComputing](https://sc19.supercomputing.org/) -  International Conference for High Performance Computing, Networking, Storage, and Analysis.
-- [HPCA](https://www.computer.org/conferences/cfp/HPCA2020) - International Symposium on High-Performance Computer Architecture by IEEE Computer Society
+- [**HPCA**](https://www.computer.org/conferences/cfp/HPCA2020) - International Symposium on High-Performance Computer Architecture by IEEE Computer Society
 - [Hot Chips](https://www.hotchips.org/) - A Symposium on High Performance Chips
 - [PASC](https://pasc-conference.org/) - The Platform for Advanced Scientific Computing (PASC) Conference is an interdisciplinary conference in HPC that brings together domain science, applied mathematics and computer science – where computer science is focused on enabling the realization of scientific computation.
 - [ISC High Performance](https://www.isc-hpc.com/) - Event for HPC, Networking, Storage, AI/ML
 - [HiPEAC](https://www.hipeac.net/events/#/) - Events on High-Performance and Embedded Architectures and Compilers
-  - [MULTIPROG](https://sites.google.com/view/multiprog/) - Workshop on Programmability and Architectures for Heterogeneous Multicores 
+  - [MULTIPROG](https://sites.google.com/view/multiprog/) - Workshop on Programmability and Architectures for Heterogeneous Multicores
+- [ICS](https://ics2020.bsc.es/) - ACM International Conference on Supercomputing of research results in HPC systems
+- [HPCKP](https://hpckp.org/) - HPC Knowledge meeting to share expertise and strategies in High-Performance Computing, Data Analysis, and Artificial Intelligence.
+
 ### Workshops and Conference Sessions on Open Source EDA
 
 - WOSET: Workshop on Open-Source EDA Technology
-  - [WOSET 2018](https://woset-workshop.github.io/), co-located with ICCAD, Nov 8, 2018; San Diego, CA, USA.
+  - [WOSET](https://woset-workshop.github.io/), co-located with ICCAD, Nov 8, 2018; San Diego, CA, USA.
 - OSDA: Workshop on Open Source Design Automation
   - [OSDA 2019](https://osda.gitlab.io/), co-located with DATE, March 29, 2019; Florence, Italy.
 - [ORConf: The open source digital design conferece](https://orconf.org/)
@@ -122,6 +126,7 @@ Table of Contents
 - [Storage Networking Industry Association](https://www.snia.org/) - A non-profit global organization dedicated to developing standards and education programs to advance storage and information technology.
 - [OpenFabrics Alliance](https://www.openfabrics.org/#) - The Alliance’s mission is to develop and promote software that enables maximum application efficiency by delivering wire-speed messaging, ultra-low latencies and maximum bandwidth directly to applications with minimal CPU overhead.
 - [Open Compute Project](https://www.opencompute.org/) - Focus on reimagining hardware, making it more efficient, flexible, and scalable.
+- [Open Chiplet Initiative](https://zglue.com/oci) - zGlue Open Chiplet Initiative is a gallery of open designs, tools, and file formats that span the chiplet ecosystem from toolsets all the way to completed designs. The goal of the initiative is to lower the barrier for entry to create a collaborative environment for chiplet-based systems.
 
 ## Interesting Resources
 
@@ -157,7 +162,7 @@ Table of Contents
 - [The Next Platform](https://www.nextplatform.com/)
 - [Inside HPC](https://insidehpc.com/)
 - [FPGA CPU News](http://fpga.org/) - Exploring Parallel Computer Architecture with FPGAs
-- [Real world technology](https://www.realworldtech.com/) - Everything from cloud, chips, processors and software. Some interesting articles such as [Power delivery in a CPU]()
+- [Real world technology](https://www.realworldtech.com/) - Everything from cloud, chips, processors and software. Some interesting articles such as [Power delivery in a CPU](https://www.realworldtech.com/power-delivery/)
 
 ## Digging Deeper
 
