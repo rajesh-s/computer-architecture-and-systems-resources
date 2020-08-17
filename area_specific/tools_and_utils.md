@@ -34,6 +34,7 @@
   - [Qflow](http://opencircuitdesign.com/qflow/index.html) - a complete digital synthesis design flow using open-source software and open-source standard cell libraries.
   - [PCB](http://opencircuitdesign.com/pcb/index.html) - the printed circuit board layout editor.
 - [ngspice](http://ngspice.sourceforge.net/) - open source spice simulator
+- [gnucap](http://gnucap.org/dokuwiki/doku.php?id=gnucap:start) - open source mixed-signal simulator supporting Spice and Verilog syntax, also see [GnuCap GitBook](https://mulder-patrick.gitbook.io/gnucap/)
 - [The Open Road Project](https://github.com/The-OpenROAD-Project) - Includes [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA), [RePlAce](https://github.com/The-OpenROAD-Project/RePlAce), [OpenDB](https://github.com/The-OpenROAD-Project/OpenDB), [ioPlacer](https://github.com/The-OpenROAD-Project/ioPlacer), [FastRoute4](https://github.com/The-OpenROAD-Project/FastRoute4-lefdef) and other tools. [Start here](https://github.com/The-OpenROAD-Project/OPENROAD_USERS_READ_ME_FIRST)
 - [Open Register Design](https://github.com/Juniper/open-register-design-tool) - Tool to generate register RTL, models, and docs using SystemRDL or JSpec input
 - [LibrePCB](https://librepcb.org/) - A powerful, innovative and intuitive EDA tool for everyone!
