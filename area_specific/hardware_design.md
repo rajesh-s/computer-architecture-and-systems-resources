@@ -30,6 +30,7 @@
 - [Blinky on every FPGA](https://github.com/fusesoc/blinky)
 - [FPGA Project ideas](https://github.com/lastweek/FPGA-Readings) - Recipe for FPGA cooking
 - [FPGA Boards list](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
+- [FPGA in Finance blog](https://fpgainfinance.com/what-are-fpgas/) - What are FPGAs?
 
 #### Frameworks
 

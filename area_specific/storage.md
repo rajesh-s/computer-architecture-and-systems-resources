@@ -3,6 +3,7 @@
 ## Resources
 
 - [Persistent Memory Programming](https://pmem.io/) - Persistent memory is used in conjunction with memory and storage.
+- [Persistent Memory](https://www.intel.in/content/www/in/en/architecture-and-technology/optane-dc-persistent-memory.html) - Intel DC Optane technology
 
 ### Projects
 

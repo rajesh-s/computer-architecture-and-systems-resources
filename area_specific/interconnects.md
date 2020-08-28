@@ -5,7 +5,6 @@ Everything about on-chip and inter-chip communication
 - [OpenSource Implementations](#opensource-implementations)
   - [On-Chip](#on-chip)
   - [Inter-chip](#inter-chip)
-- [Simulators](#simulators)
 - [Resources](#resources)
   - [Articles](#articles)
   - [Books](#books)
@@ -31,11 +30,6 @@ Everything about on-chip and inter-chip communication
 - [Ethernet Components](https://github.com/alexforencich/verilog-ethernet) - Collection of Ethernet-related components for gigabit, 10G, and 25G packet processing \(8 bit and 64 bit datapaths\).
 - [Corundum](https://github.com/ucsdsysnet/corundum) - Corundum is an open-source, high-performance FPGA-based NIC.
 - [Compute Express Link aka CXL](https://www.computeexpresslink.org/) Compute Express Link \(CXL\) is a new breakthrough high-speed CPU interconnect that enables a high-speed, efficient performance between the CPU and platform enhancements and workload accelerators.
-
-## Simulators
-
-- [BookSim](https://github.com/thats-all-forks/booksim2) - A cycle-accurate interconnection network simulator
-- [NetTrace](http://www.cs.utexas.edu/~netrace/) -  Dependency-Tracking Trace-Based Network-on-Chip Simulation. [Source code](https://github.com/thats-all-forks/netrace)
 
 ## Resources
 

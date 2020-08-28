@@ -40,6 +40,7 @@ Table of Contents
 - [ASPLOS](https://asplos-conference.org/) - ASPLOS is the premier forum for interdisciplinary systems research, intersecting computer architecture, hardware and emerging technologies, programming languages and compilers, operating systems, and networking.
 - [**MICRO**](https://www.microarch.org/) - IEEE International Symposium on Microarchitecture
 - [ISCAS](https://iscas2020.org/) - IEEE International Symposium on Circuits and Systems
+- [TACO](https://dl.acm.org/journal/taco) - ACM Transactions on Architecture and Code Optimization focuses on hardware, software, and system research spanning the fields of computer architecture and code optimization
 - [ICONS](https://ornlcda.github.io/icons2019/) - Conference on Neuromorphic Computing
 - [USENIX](https://www.usenix.org/conferences) - Systems Researchers Conf
 - [SOSP](https://sosp19.rcs.uwaterloo.ca/program.html) - Operating Systems Principles
@@ -49,12 +50,14 @@ Table of Contents
 - [PACT](https://pact20.cc.gatech.edu/) - Conference on Parallel Architectures and Compilation Techniques
 - [ICCD](https://www.iccd-conf.com/Home.html) - Conference on Computer Design
 - [NAS](http://www.nas-conference.org/NAS-2020/) - Conference on Networking, Architecture, and Storage
+- [FPL](http://www.wikicfp.com/cfp/program?id=1083&f=Field-Programmable) - Conference on Field-Programmable Logic and Applications
 
 ### Search tools for conferences
 
 - [ConfSearch](http://confsearch.ethz.ch/confsearch/)
 - [WikiCfp](http://www.wikicfp.com/cfp/)
 - [HGPU](https://hgpu.org/)
+- [CORE Rankings](http://portal.core.edu.au/conf-ranks/?search=architecture&by=all&source=CORE2020&sort=arank&page=1)
 
 ### Halls of Fame
 

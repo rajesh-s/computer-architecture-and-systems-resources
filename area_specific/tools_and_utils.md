@@ -4,6 +4,7 @@
   - [Open Source Tools for Digital Design](#open-source-tools-for-digital-design)
   - [Simulators](#simulators)
     - [Architectural](#architectural)
+      - [Interconnect Simulators](#interconnect-simulators)
     - [Digital/Analog Simulators](#digitalanalog-simulators)
   - [Emulators](#emulators)
 - [Utilities](#utilities)
@@ -69,6 +70,19 @@
 - [DRAMSim2](https://github.com/umd-memsys/DRAMSim2) - A cycle accurate DRAM simulator
 - [MacSim](https://github.com/gthparch/macsim) - A heterogeneous architecture timing model simulator.
 - [ARM Consistency Memory Model](https://developer.arm.com/architectures/cpu-architecture/a-profile/memory-model-tool) - The herd tool allows the user to execute the model with a specific question about the possible final states of the program using ARM consistency memory model.
+- [MPGPUSim](https://gitlab.com/akita/mgpusim/-/tree/master) - MGPUSim is a Go based AMD GCN3 GPU simulator based-on the Akita framework.
+- [SCALESim](https://github.com/ARM-software/SCALE-Sim) - SCALE sim is a CNN accelerator simulator, that provides cycle-accurate timing, power/energy, memory bandwidth and trace results for a specified accelerator configuration and neural network architecture.
+- [WinMIPS64](http://indigo.ie/~mscott/) - WinMIPS64 is an instruction set simulator, and is designed as a replacement for the popular Microsoft Windows utility WinDLX
+- [MQSim](https://github.com/CMU-SAFARI/MQSim) - A Simulator for Modern NVMe and SATA SSDs
+- [VAMPIRE](https://github.com/CMU-SAFARI/VAMPIRE) - Variation-Aware model of Memory Power Informed by Real Experiments is an open-source DRAM power model based on an extensive experimental characterization of the power consumption of real DRAM modules.
+- [RAMulator](https://github.com/CMU-SAFARI/ramulator) - Ramulator is a fast and cycle-accurate DRAM simulator [1] that supports a wide array of commercial, as well as academic, DRAM standards
+
+##### Interconnect Simulators
+
+- [BookSim](https://github.com/thats-all-forks/booksim2) - A cycle-accurate interconnection network simulator
+- [NetTrace](http://www.cs.utexas.edu/~netrace/) -  Dependency-Tracking Trace-Based Network-on-Chip Simulation. [Source code](https://github.com/thats-all-forks/netrace)
+- [Noxim](https://github.com/davidepatti/noxim) - Network-on-Chip Simulator
+- [NIRGAM](http://nirgam.ecs.soton.ac.uk/) - A Simulator for NoC Interconnect Routing and Application Modeling
 
 #### Digital/Analog Simulators
 
