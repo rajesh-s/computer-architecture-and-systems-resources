@@ -77,6 +77,9 @@
 - [VAMPIRE](https://github.com/CMU-SAFARI/VAMPIRE) - Variation-Aware model of Memory Power Informed by Real Experiments is an open-source DRAM power model based on an extensive experimental characterization of the power consumption of real DRAM modules.
 - [RAMulator](https://github.com/CMU-SAFARI/ramulator) - Ramulator is a fast and cycle-accurate DRAM simulator [1] that supports a wide array of commercial, as well as academic, DRAM standards
 
+**Full-system simulators and their popularity in conferences** (table from 2015)
+![simulators](images/2020-08-31-13-29-56.png)
+
 ##### Interconnect Simulators
 
 - [BookSim](https://github.com/thats-all-forks/booksim2) - A cycle-accurate interconnection network simulator

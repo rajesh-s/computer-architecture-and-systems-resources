@@ -58,6 +58,7 @@ Table of Contents
 - [WikiCfp](http://www.wikicfp.com/cfp/)
 - [HGPU](https://hgpu.org/)
 - [CORE Rankings](http://portal.core.edu.au/conf-ranks/?search=architecture&by=all&source=CORE2020&sort=arank&page=1)
+- [NSF Funding](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=%22NoC%22+%22on-chip%22+%22network-on-chip%22+%22networks-on-chip%22+%22interconnection+network%22&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=) - The NSF site provides a great filtering tool to list NSF funded projects, PIs in specific areas. A good tool to follow active research trends in areas of your interest. Here's an example for NoC/interconnection networks.
 
 ### Halls of Fame
 
