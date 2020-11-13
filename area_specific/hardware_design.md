@@ -1,66 +1,42 @@
+<!-- no toc -->
+
 # Hardware Design
 
-- [Chip Design \(ASIC/FPGA/SoC\)](#chip-design-asicfpgasoc)
-  - [FPGA](#fpga)
-    - [Getting Started](#getting-started)
-    - [Frameworks](#frameworks)
-    - [Resources](#resources)
-    - [Open Source Implementations](#open-source-implementations)
-  - [Analog Design](#analog-design)
-  - [Digital Design](#digital-design)
-  - [Open Source Implementations](#open-source-implementations-1)
-    - [Open Core Collections](#open-core-collections)
-    - [Elements](#elements)
-- [Resources](#resources-1)
-  - [Articles](#articles)
-  - [Courses & Tutorials](#courses--tutorials)
-  - [Books](#books)
-  - [Others](#others)
+- [1. Chip Design \(ASIC/SoC\)](#1-chip-design-asicsoc)
+  - [1.1. Analog Design](#11-analog-design)
+  - [1.2. Digital Design](#12-digital-design)
+  - [1.3. Open Source Implementations](#13-open-source-implementations)
+    - [1.3.1. Open Core Collections](#131-open-core-collections)
+    - [1.3.2. Elements](#132-elements)
+- [2. Resources](#2-resources)
+  - [2.1. Articles](#21-articles)
+  - [2.2. Courses & Tutorials](#22-courses--tutorials)
+  - [2.3. Books](#23-books)
+  - [2.4. Others](#24-others)
+- [3. Open Source Hardware](#3-open-source-hardware)
+  - [3.1. Community Organization](#31-community-organization)
+- [4. Research](#4-research)
+  - [4.1. Design Conferences](#41-design-conferences)
+  - [4.2. Workshops and Conference Sessions on Open Source EDA](#42-workshops-and-conference-sessions-on-open-source-eda)
 
-## Chip Design \(ASIC/FPGA/SoC\)
+## 1. Chip Design \(ASIC/SoC\)
 
-### FPGA
-
-#### Getting Started
-
-- [Nandland: FPGA 101](https://www.nandland.com/articles/fpga-101-fpgas-for-beginners.html) - FPGA for beginners
-- [Hackaday: FPGA Bootcamp](https://hackaday.io/project/159720-fpga-bootcamp-0) - Refresher on digital logic
-- [FPGA Glossary](https://blog.digilentinc.com/fpga-for-beginners-glossary-and-setup/)
-- [FPGA Design Elements](https://github.com/laforest/FPGADesignElements) - A self-contained online book containing a library of FPGA design modules and related coding/design guides.
-- [Blinky on every FPGA](https://github.com/fusesoc/blinky)
-- [FPGA Project ideas](https://github.com/lastweek/FPGA-Readings) - Recipe for FPGA cooking
-- [FPGA Boards list](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
-- [FPGA in Finance blog](https://fpgainfinance.com/what-are-fpgas/) - What are FPGAs?
-
-#### Frameworks
-
-- [SoC Builder from LiteX](https://github.com/enjoy-digital/litex) - LiteX is a MiSoC-based SoC builder using Migen as Python DSL that can be used to create SoCs and full FPGA designs.
-- [Scalable Network Stack for FPGA](https://github.com/fpgasystems/fpga-network-stack) - Scalable Network Stack supporting TCP/IP, RoCEv2, UDP/IP at 10-100Gbit/s
-
-#### Resources
-
-- [Xilinx AXI VIP for FPGAs](https://forums.xilinx.com/t5/Design-and-Debug-Techniques-Blog/AXI-Basics-2-Simulating-AXI-interfaces-with-the-AXI-Verification/ba-p/1053935) - Article on using the Xilinx AXI VIPs. [Part 2](https://forums.xilinx.com/t5/Design-and-Debug-Techniques-Blog/AXI-Basics-2-Simulating-AXI-interfaces-with-the-AXI-Verification/ba-p/1053935)
-
-#### Open Source Implementations
-
-- [HDMI HDL UTIL](https://github.com/hdl-util/hdmi) - Send video/audio over HDMI on an FPGA
-
-### Analog Design
+### 1.1. Analog Design
 
 - [The Designer's Guide® Community](https://designers-guide.org/) Analog, mixed-signal and RF circuit designers come to learn about simulation, modeling and design.
 - [Using gm/Id methodology](https://eesurgeon.wordpress.com/2016/07/06/using-the-gmid-methodology-in-analog-circuit-design/)
 
-### Digital Design
+### 1.2. Digital Design
 
-### Open Source Implementations
+### 1.3. Open Source Implementations
 
-#### Open Core Collections
+#### 1.3.1. Open Core Collections
 
 - [OpenCores](https://opencores.org/) - OpenCores is the most prominent online community for the development of gateware IP (Intellectual Properties) Cores.
 - [LibreCores](https://www.librecores.org/) - A "LibreCore" is such an IP core that is created and distributed in the open source spirit.
 - [OpenTitan](https://github.com/lowrisc/opentitan) - OpenTitan will make the silicon RoT design and implementation more transparent, trustworthy, and secure for enterprises, platform providers, and chip manufacturers.
 
-#### Elements
+#### 1.3.2. Elements
 
 - [Basic Common SV Modules](https://github.com/taichi-ishitani/tbcm) - FIFO, onehot, round robin Arbiter etc.
 - [Ethernet 1G/100M/10M Core](https://github.com/lewiz-support/LMAC_CORE1) - Open source Ethernet Core 1
@@ -68,9 +44,9 @@
 - [CDC Modules](https://github.com/damofthemoon/cdc) - This repository gathers several basic modules to handle CDC in a design
 - [One-Hot Mux](https://andy-knowles.github.io/one-hot-mux/) - Understanding synthesis of the one-hot mux
 
-## Resources
+## 2. Resources
 
-### Articles
+### 2.1. Articles
 
 - [SystemVerilog 2007 changelog explained](http://www.verilab.com/blog/2018/02/ieee-std1800-2017-for-systemverilog-what-changed/)
 - Blogs on Physical Design
@@ -80,10 +56,11 @@
 - [UPF Commands and options](https://semiengineering.com/empowering-upf-commands-with-effective-elements-lists/)
 - [System Verilog.io](https://www.systemverilog.io/) - Covers concepts, formal verification and language
 - David Fong's ASIC architecture [blog](https://daffy1108.wordpress.com/)
-- [Using SDRAM in FPGA Designs](https://www.joshbassett.info/sdram-controller/)
 - [Lessons in Hardware Reuse](https://zipcpu.com/blog/2020/01/13/reuse.html)
+- [Libre Silicon Project](https://libresilicon.com/) - An open source semiconductor manufacturing process standard
+- [Discussion on Lowlevel LLVM-like language as HDL middle layer](https://github.com/SymbiFlow/ideas/issues/19)
 
-### Courses & Tutorials
+### 2.2. Courses & Tutorials
 
 - [Verilog, Formal Verification and Verilator Beginner's Tutorial](http://zipcpu.com/tutorial/#training)
 - [ASIC Verilog](http://asic-world.com/verilog/veritut.html)
@@ -99,12 +76,12 @@
 - Eric LaForest's [blog](http://fpgacpu.ca/) as a resource about FPGAs, computer history, and computer architecture.
 - [VLSI STA](http://www.vlsi-expert.com/p/static-timing-analysis.html) - Concepts and conventions explained
 
-### Books
+### 2.3. Books
 
 - Constraining Designs for Synthesis and Timing Analysis \| A Practical Guide to Synopsys Design Constraints \(SDC\) - Gangadharan, Sridhar, Churiwala, Sanjay.
 - Static Timing Analysis for Nanometer Designs: A Practical Approach - Jayaram Bhasker and Rakesh Chadha.
 
-### Others
+### 2.4. Others
 
 - [FuseSoC](https://github.com/olofk/fusesoc) - FuseSoC is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code. Its main purpose is to increase reuse of IP (Intellectual Property) cores and be an aid for creating, building and simulating SoC solutions.
 - [EDAlize](https://github.com/olofk/edalize) - An abstraction library for interfacing EDA tools
@@ -112,3 +89,34 @@
 - [Open Road](https://vlsicad.ucsd.edu/~abk/BDC-Kahng-200102-OpenROAD-v4a.pptx) and [EDA Frontiers](https://vlsicad.ucsd.edu/~abk/BDC-Kahng-200103-FrontiersEDA-v2.pptx) presentation by Andrew Kahng
 - [DARPA EDA POSH](https://www.darpa.mil/attachments/eri_design_proposers_day.pdf) presentation by Andreas Olofsson
 - [Letters from EDA users](http://www.deepchip.com/) - Insights from EDA users over the years
+
+## 3. Open Source Hardware
+
+### 3.1. Community Organization
+
+- [FOSSi Foundation](https://fossi-foundation.org/) - Free and Open Source Silicon (FOSSi) are components and systems that are inside silicon devices (‘chips’). It is our core belief that building blocks that form such digital devices can be made free and open
+
+## 4. Research
+
+### 4.1. Design Conferences
+
+- [ORConf](https://orconf.org/) - The open source digital design conference organized by the [Free and Open Source Silicon (FOSSi) Foundation](https://fossi-foundation.org/)
+- [WOSH](https://fossi-foundation.org/wosh/) - Week of Open Source Hardware alongwith [The RISCV Workshop](https://tmt.knect365.com/risc-v-workshop-zurich/)
+- [ISCAS](https://iscas2020.org/) - IEEE International Symposium on Circuits and Systems
+- [ICONS](https://ornlcda.github.io/icons2019/) - Conference on Neuromorphic Computing
+- [VLSI Symposia](https://vlsisymposium.org/) - Conference on semiconductor technology and circuits
+- [ISSCC](http://isscc.org/) -  International Solid-State Circuits Conference is the foremost global forum for presentation of advances in solid-state circuits and systems-on-a-chip
+- [MCSoC](http://mcsoc-forum.org/m2019/ieee-mcsoc-2019-presentation-slides/) - Multicore SoC's
+
+### 4.2. Workshops and Conference Sessions on Open Source EDA
+
+- WOSET: Workshop on Open-Source EDA Technology
+  - [WOSET](https://woset-workshop.github.io/), co-located with ICCAD, Nov 8, 2018; San Diego, CA, USA.
+- OSDA: Workshop on Open Source Design Automation
+  - [OSDA 2019](https://osda.gitlab.io/), co-located with DATE, March 29, 2019; Florence, Italy.
+- [ORConf: The open source digital design conferece](https://orconf.org/)
+  - ORConfs: [2018](https://orconf.org/2018/) \| [2017](https://orconf.org/2017/) \| [2016](https://orconf.org/2016/) \| [2015](https://orconf.org/2015/) \| [2014](https://orconf.org/2014/) \| [2013](https://orconf.org/2013/) \| [2012](https://orconf.org/2012/)
+- DAC Birds of a Feather: Open Source Academic EDA Software
+  - [DAC 2019 BOF](https://github.com/The-OpenROAD-Project/Birds-of-a-Feather-Open-Source-Academic-EDA-Software/wiki/DAC-2019-Birds-of-a-Feather:-Open-Source-Academic-EDA-Software), June 5, 2019; Las Vegas, NV, USA.
+- [DAC 2019 Session 37, Unleashing Open Source EDA](http://www2.dac.com/events/eventdetails.aspx?id=267-37), June 4, 2019; Las Vegas, NV, USA.
+- [Workshop on Open Source Design Automation \(OSDA\)](https://osda.gitlab.io/)

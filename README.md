@@ -15,68 +15,33 @@ Table of Contents
 =================
 
 - [Conferences](#conferences)
-  - [Computer Architecture](#computer-architecture)
-  - [Search tools for conferences](#search-tools-for-conferences)
-  - [Halls of Fame](#halls-of-fame)
-  - [Open Source centric](#open-source-centric)
-  - [Interconnects](#interconnects)
+  - [Computer Architecture & Systems](#computer-architecture--systems)
   - [High Performance Computing](#high-performance-computing)
-  - [Workshops and Conference Sessions on Open Source EDA](#workshops-and-conference-sessions-on-open-source-eda)
+  - [Halls of Fame](#halls-of-fame)
+  - [Interconnects](#interconnects)
+  - [Search tools for conferences](#search-tools-for-conferences)
 - [Communities](#communities)
-  - [Open Source Hardware](#open-source-hardware)
-    - [Community Organization](#community-organization)
-    - [Industry Organization](#industry-organization)
+  - [Industry Organizations](#industry-organizations)
 - [Interesting Resources](#interesting-resources)
-- [MOOCs](#moocs)
+- [Great courses on Computer Architecture](#great-courses-on-computer-architecture)
 - [Blogs](#blogs)
 - [Digging Deeper](#digging-deeper)
 - [Other specific curated lists related to CompEngg](#other-specific-curated-lists-related-to-compengg)
 
 ## Conferences
 
-### Computer Architecture
+Area specific (eg. hardware design, FPGA etc.) conferences are captured under their specific pages
+
+### Computer Architecture & Systems
 
 - [**ISCA**](https://iscaconf.org/) - International Symposium on Computer Architecture
 - [ASPLOS](https://asplos-conference.org/) - ASPLOS is the premier forum for interdisciplinary systems research, intersecting computer architecture, hardware and emerging technologies, programming languages and compilers, operating systems, and networking.
 - [**MICRO**](https://www.microarch.org/) - IEEE International Symposium on Microarchitecture
-- [ISCAS](https://iscas2020.org/) - IEEE International Symposium on Circuits and Systems
-- [TACO](https://dl.acm.org/journal/taco) - ACM Transactions on Architecture and Code Optimization focuses on hardware, software, and system research spanning the fields of computer architecture and code optimization
-- [ICONS](https://ornlcda.github.io/icons2019/) - Conference on Neuromorphic Computing
 - [USENIX](https://www.usenix.org/conferences) - Systems Researchers Conf
+- [TACO](https://dl.acm.org/journal/taco) - ACM Transactions on Architecture and Code Optimization focuses on hardware, software, and system research spanning the fields of computer architecture and code optimization
 - [SOSP](https://sosp19.rcs.uwaterloo.ca/program.html) - Operating Systems Principles
-- [VLSI Symposia](https://vlsisymposium.org/) - Conference on semiconductor technology and circuits
-- [ISSCC](http://isscc.org/) -  International Solid-State Circuits Conference is the foremost global forum for presentation of advances in solid-state circuits and systems-on-a-chip
-- [MCSoC](http://mcsoc-forum.org/m2019/ieee-mcsoc-2019-presentation-slides/) - Multicore SoC's
 - [PACT](https://pact20.cc.gatech.edu/) - Conference on Parallel Architectures and Compilation Techniques
-- [ICCD](https://www.iccd-conf.com/Home.html) - Conference on Computer Design
 - [NAS](http://www.nas-conference.org/NAS-2020/) - Conference on Networking, Architecture, and Storage
-- [FPL](http://www.wikicfp.com/cfp/program?id=1083&f=Field-Programmable) - Conference on Field-Programmable Logic and Applications
-
-### Search tools for conferences
-
-- [ConfSearch](http://confsearch.ethz.ch/confsearch/)
-- [WikiCfp](http://www.wikicfp.com/cfp/)
-- [HGPU](https://hgpu.org/)
-- [CORE Rankings](http://portal.core.edu.au/conf-ranks/?search=architecture&by=all&source=CORE2020&sort=arank&page=1)
-- [NSF Funding](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=%22NoC%22+%22on-chip%22+%22network-on-chip%22+%22networks-on-chip%22+%22interconnection+network%22&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=) - The NSF site provides a great filtering tool to list NSF funded projects, PIs in specific areas. A good tool to follow active research trends in areas of your interest. Here's an example for NoC/interconnection networks.
-
-### Halls of Fame
-
-- [SOSP/OSDI](https://www.cs.utexas.edu/~vijay/hall.html) - Systems Research
-- [ISCA](http://pages.cs.wisc.edu/~arch/www/iscabibhall.html)
-- [MICRO](http://newsletter.sigmicro.org/micro-hof.txt/view) - Microarchitecture
-- [Computer Architecture Aggregated Hall-of-Fame](http://moin.ece.gatech.edu/cathof.html)
-
-### Open Source centric
-
-- [ORConf](https://orconf.org/) - The open source digital design conference organized by the [Free and Open Source Silicon (FOSSi) Foundation](https://fossi-foundation.org/)
-- [WOSH](https://fossi-foundation.org/wosh/) - Week of Open Source Hardware alongwith [The RISCV Workshop](https://tmt.knect365.com/risc-v-workshop-zurich/)
-
-### Interconnects
-
-- [Hot Interconnects](http://www.hoti.org/) - Symposium on High-Performance Interconnects
-- [International Symposium on Networks-on-Chip (NOCS)](https://www.engr.colostate.edu/nocs2019/) is dedicated to interdisciplinary research on on-chip, package-scale, chip-to-chip, and datacenter rack-scale communication technology, architecture, design methods, applications and systems.
-- [NoCArc](http://nocarc.org/) - Held in conjunction with MICRO, NoCArc provides a forum for researchers to  discuss implementation of multi-core systems on chip.
 
 ### High Performance Computing
 
@@ -90,18 +55,27 @@ Table of Contents
 - [ICS](https://ics2020.bsc.es/) - ACM International Conference on Supercomputing of research results in HPC systems
 - [HPCKP](https://hpckp.org/) - HPC Knowledge meeting to share expertise and strategies in High-Performance Computing, Data Analysis, and Artificial Intelligence.
 
-### Workshops and Conference Sessions on Open Source EDA
+### Halls of Fame
 
-- WOSET: Workshop on Open-Source EDA Technology
-  - [WOSET](https://woset-workshop.github.io/), co-located with ICCAD, Nov 8, 2018; San Diego, CA, USA.
-- OSDA: Workshop on Open Source Design Automation
-  - [OSDA 2019](https://osda.gitlab.io/), co-located with DATE, March 29, 2019; Florence, Italy.
-- [ORConf: The open source digital design conferece](https://orconf.org/)
-  - ORConfs: [2018](https://orconf.org/2018/) \| [2017](https://orconf.org/2017/) \| [2016](https://orconf.org/2016/) \| [2015](https://orconf.org/2015/) \| [2014](https://orconf.org/2014/) \| [2013](https://orconf.org/2013/) \| [2012](https://orconf.org/2012/)
-- DAC Birds of a Feather: Open Source Academic EDA Software
-  - [DAC 2019 BOF](https://github.com/The-OpenROAD-Project/Birds-of-a-Feather-Open-Source-Academic-EDA-Software/wiki/DAC-2019-Birds-of-a-Feather:-Open-Source-Academic-EDA-Software), June 5, 2019; Las Vegas, NV, USA.
-- [DAC 2019 Session 37, Unleashing Open Source EDA](http://www2.dac.com/events/eventdetails.aspx?id=267-37), June 4, 2019; Las Vegas, NV, USA.
-- [Workshop on Open Source Design Automation \(OSDA\)](https://osda.gitlab.io/)
+- [SOSP/OSDI](https://www.cs.utexas.edu/~vijay/hall.html) - Systems Research
+- [ISCA](http://pages.cs.wisc.edu/~arch/www/iscabibhall.html)
+- [MICRO](http://newsletter.sigmicro.org/micro-hof.txt/view) - Microarchitecture
+- [Computer Architecture Aggregated Hall-of-Fame](http://moin.ece.gatech.edu/cathof.html)
+
+### Interconnects
+
+- [Hot Interconnects](http://www.hoti.org/) - Symposium on High-Performance Interconnects
+- [International Symposium on Networks-on-Chip (NOCS)](https://www.engr.colostate.edu/nocs2019/) is dedicated to interdisciplinary research on on-chip, package-scale, chip-to-chip, and datacenter rack-scale communication technology, architecture, design methods, applications and systems.
+- [NoCArc](http://nocarc.org/) - Held in conjunction with MICRO, NoCArc provides a forum for researchers to  discuss implementation of multi-core systems on chip.
+
+### Search tools for conferences
+
+- [ConfSearch](http://confsearch.ethz.ch/confsearch/)
+- [WikiCfp](http://www.wikicfp.com/cfp/)
+- [HGPU](https://hgpu.org/)
+- [CORE Rankings](http://portal.core.edu.au/conf-ranks/?search=architecture&by=all&source=CORE2020&sort=arank&page=1)
+- [NSF Funding](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=%22NoC%22+%22on-chip%22+%22network-on-chip%22+%22networks-on-chip%22+%22interconnection+network%22&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=) - The NSF site provides a great filtering tool to list NSF funded projects, PIs in specific areas. A good tool to follow active research trends in areas of your interest. Here's an example for NoC/interconnection networks.
+
 
 ## Communities
 
@@ -114,14 +88,9 @@ Table of Contents
 - [ITRS](http://www.itrs2.net/) - International Technology Roadmap for semiconductors
 - [Eurolab4HPC](https://www.eurolab4hpc.eu/) - To strengthen academic research excellence and innovation in HPC in Europe
 - [PRACE](https://prace-ri.eu/) - Partnership for Advanced computing in Europe
+- [CASA](https://www.comparchsa.org/join/index.html) - Computer Architecture Student Association
 
-### Open Source Hardware
-
-#### Community Organization
-
-- [FOSSi Foundation](https://fossi-foundation.org/) - Free and Open Source Silicon (FOSSi) are components and systems that are inside silicon devices (‘chips’). It is our core belief that building blocks that form such digital devices can be made free and open
-
-#### Industry Organization
+### Industry Organizations
 
 - [OpenHW Group](https://www.openhwgroup.org/) - Proven Processor IP
 - [CHIPS Alliance](https://chipsalliance.org/) - Common Hardware for Interfaces, Processors and Systems harnesses the energy of open source collaboration to accelerate hardware development.
@@ -138,8 +107,6 @@ Table of Contents
 - [Computer Architecture Zotero Research library](https://www.zotero.org/groups/2426044/coffeebeforearch/items/)
 - [Computer Latency at a Human Scale](https://www.prowesscorp.com/computer-latency-at-a-human-scale/)
 - [Networking conference search tool](http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=usenix%20asplos%20ewsn%20hotnets%20hotos%20ipsn%20isca%20micro%20mobicom%20mobihoc%20mobisys%20nsdi%20osdi%20sensys%20sigcomm%20sosp%20uist&sortMode=1&graphicView=1)
-- [Libre Silicon Project](https://libresilicon.com/) - An open source semiconductor manufacturing process standard
-- [Discussion on Lowlevel LLVM-like language as HDL middle layer](https://github.com/SymbiFlow/ideas/issues/19)
 - [Chips for Machine Intelligence in 2019](https://www.jameswhanlon.com/new-chips-for-machine-intelligence.html)
 - [Microprocessor trend data](https://github.com/karlrupp/microprocessor-trend-data)
 - [Demonstration of Hardware Effects](https://github.com/Kobzol/hardware-effects) - This repository demonstrates various hardware effects that can degrade application performance in surprising ways and that may be very hard to explain without knowledge of the low-level CPU and OS architecture.
@@ -152,11 +119,12 @@ Table of Contents
 - [Moore's law till date](http://www.transistorcount.com/) - Counting transistors
 - [AI Chip Landscape in 2020](https://github.com/basicmi/AI-Chip) - A list of ICs and IPs for AI, Machine Learning and Deep Learning.
 
-## MOOCs
+## Great courses on Computer Architecture
 
 - Prof. Onur Mutlu's [lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g/playlists) and [talks](https://people.inf.ethz.ch/omutlu/talks.htm)
 - Computer Architecture [course](https://www.coursera.org/learn/comparch) by David Wentzlaff on Coursera
-- [Notes](https://github.com/aphyr/distsys-class) on an introduction to distributed systems.
+- Prof. David Black-Schaffer's [lectures](https://www.youtube.com/channel/UCzf_XjIoKSf4Ve2fH7xn-3A/videos) on Virtual Memory etc.
+- [HPCA](https://www.udacity.com/course/high-performance-computer-architecture--ud007) - Prof. Milos Prvulovic covers High Performance Computer Architecture
 
 ## Blogs
 
@@ -170,7 +138,7 @@ Table of Contents
 
 ## Digging Deeper
 
-Computer Architecture is diverse and there's constant interplay between domains that are under it. Look under each of these to find specific information. (At the time of writing, these are the specific areas that I'm most interested in)
+Computer Architecture is diverse and there's constant interplay between domains that are under it. Look under each of these to find specific information.
 
 - [Hardware Design](./area_specific/hardware_design.md)
 - [Processors](./area_specific/processors.md)
@@ -187,6 +155,7 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Electronics](./area_specific/electronics.md)
 - [Software Defined Radio](./area_specific/sdr.md)
 - [Accelerators](./area_specific/accelerators.md)
+- [FPGA](./area_specific/fpga.md)
 
 ## Other specific curated lists related to CompEngg
 
@@ -197,7 +166,6 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Awesome RISCV](https://github.com/xmpf/awesome-risc-v/blob/master/README.md) - A curated list of RISCV resources
 - [Awesome RISCV](https://github.com/drom/awesome-riscv) - A curated list of awesome RISC-V implementations
 - [Awesome-DV](https://github.com/troyguo/awesome-dv) - Awesome ASIC design verification
-- [Getting started with FPGA](https://github.com/lastweek/FPGA) - This repository is intended for folks who are new and want to learn something about FPGA. This repository is a collection of useful resources and links rather than a thorough FPGA tutorial.
 - [Awesome Thesis](https://github.com/ocean1/awesome-thesis) - Resources for thesis/research writing
 - [EDA-Wiki](https://github.com/daitoto/EDA-wiki)
 - [Computer Architecture Resources](https://github.com/the-akira/Computer-Science-Resources/blob/master/db/computer_architecture.md)

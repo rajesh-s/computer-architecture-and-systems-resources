@@ -17,3 +17,4 @@ Digging deeper into specific areas of Computer Engineering
 - [Electronics](./electronics.md)
 - [Software Defined Radio](./sdr.md)
 - [Accelerators](./accelerators.md)
+- [FPGA](./fpga.md)

@@ -17,4 +17,5 @@
   * [Electronics](./area_specific/electronics.md)
   * [Software Defined Radio](./area_specific/sdr.md)
   * [Accelerators](./area_specific/accelerators.md)
+  * [FPGA](./area_specific/fpga.md)
 * [Contribute to this list on Github](https://github.com/rajesh-s/awesome-computer-engineering)
