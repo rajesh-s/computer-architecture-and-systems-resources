@@ -5,6 +5,7 @@
 - [1. Chip Design \(ASIC/SoC\)](#1-chip-design-asicsoc)
   - [1.1. Analog Design](#11-analog-design)
   - [1.2. Digital Design](#12-digital-design)
+  - [Beyond Moore's Law](#beyond-moores-law)
   - [1.3. Open Source Implementations](#13-open-source-implementations)
     - [1.3.1. Open Core Collections](#131-open-core-collections)
     - [1.3.2. Elements](#132-elements)
@@ -27,6 +28,11 @@
 - [Using gm/Id methodology](https://eesurgeon.wordpress.com/2016/07/06/using-the-gmid-methodology-in-analog-circuit-design/)
 
 ### 1.2. Digital Design
+
+### Beyond Moore's Law
+
+- [Neural Algorithms and Computing Beyond Moore's Law](https://cacm.acm.org/magazines/2019/4/235577-neural-algorithms-and-computing-beyond-moores-law/fulltext)
+- [Reprogrammable Molecular Computing System](https://www.caltech.edu/about/news/computer-scientists-create-reprogrammable-molecular-computing-system)
 
 ### 1.3. Open Source Implementations
 

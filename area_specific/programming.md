@@ -3,7 +3,6 @@
 - [Algorithms](#algorithms)
 - [Data Structures](#data-structures)
 - [Compilers](#compilers)
-- [Systems](#systems)
 - [Scientific Computing](#scientific-computing)
 - [Interviews](#interviews)
 
@@ -22,10 +21,6 @@
 - [MLIR Primer](https://research.google/pubs/pub48035/) - A Compiler Infrastructure for the End of Moore’s Law
 - [HN advice to new grads on compilers](https://news.ycombinator.com/item?id=20914046)
 - [Apache TVM](https://tvm.apache.org/) - An End to End Deep Learning Compiler Stack for CPUs, GPUs and specialized accelerators
-
-## Systems
-
-- [System Design Primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md) - Learn how to design large-scale systems.
 
 ## Scientific Computing
 

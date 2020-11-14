@@ -18,6 +18,7 @@
 
 ### Articles
 
+- [HPC101](https://www.datamation.com/data-center/high-performance-computing.html)
 - [TPU: AI for everyone](https://storage.googleapis.com/nexttpu/index.html)
 - [An intro to HPC](https://www.rambus.com/blogs/an-introduction-to-hpc-computing/)
 - [Reassessing the HPC Memory Hierarchy](https://www.rambus.com/blogs/reassessing-the-hpc-memory-hierarchy/)

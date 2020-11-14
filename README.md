@@ -140,22 +140,20 @@ Area specific (eg. hardware design, FPGA etc.) conferences are captured under th
 
 Computer Architecture is diverse and there's constant interplay between domains that are under it. Look under each of these to find specific information.
 
-- [Hardware Design](./area_specific/hardware_design.md)
-- [Processors](./area_specific/processors.md)
-- [Parallel Computing](./area_specific/parallel.md)
-- [Interconnects](./area_specific/interconnects.md)
-- [Performance](./area_specific/performance.md)
-- [Hardware-Software Interface](./area_specific/hw_sw.md)
-- [High Performance Computing](./area_specific/hpc.md)
-- [Interesting Companies](./area_specific/interesting_companies.md)
-- [Computer Networks](./area_specific/networks.md)
-- [Computer Security](./area_specific/security.md)
-- [Tools, Utilities, Simulators, Emulators and more](./area_specific/tools_and_utils.md)
-- [Computer Programming(Compilers,OS and more)](./area_specific/programming.md)
 - [Electronics](./area_specific/electronics.md)
-- [Software Defined Radio](./area_specific/sdr.md)
-- [Accelerators](./area_specific/accelerators.md)
+- [Hardware Design](./area_specific/hardware_design.md)
 - [FPGA](./area_specific/fpga.md)
+- [Processors](./area_specific/processors.md)
+- [Interconnects](./area_specific/interconnects.md)
+- [Accelerators](./area_specific/accelerators.md)
+- [Hardware-Software Interface](./area_specific/hw_sw.md)
+- [Computer Programming(Compilers, DSA and more)](./area_specific/programming.md)
+- [Parallel Computing](./area_specific/parallel.md)
+- [Operating Systems](./area_specific/os.md)
+- [Performance](./area_specific/performance.md)
+- [High Performance Computing](./area_specific/hpc.md)
+
+- [Tools, Utilities, Simulators, Emulators and more](./area_specific/tools_and_utils.md)
 
 ## Other specific curated lists related to CompEngg
 
