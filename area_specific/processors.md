@@ -2,6 +2,7 @@
 
 - [Open-source digital design implementations of Processors](#open-source-digital-design-implementations-of-processors)
   - [RISCV based](#riscv-based)
+- [Microarchitecture](#microarchitecture)
 - [Interesting resources](#interesting-resources)
   - [Must Reads](#must-reads)
 - [GPU](#gpu)
@@ -38,6 +39,10 @@ Everything about processors
 - [RSD](https://github.com/rsd-devel/rsd) - RISC-V Out-of-Order Superscalar Processor
 - [BRISC-V Explorer](https://ascslab.org/research/briscv/explorer/explorer.html) - Generate RISC V Cores for different configurations
 - [**RISCV Assembly visualizer**](http://tice.sea.eseo.fr/riscv/) - Visualize instruction flow through registers
+
+## Microarchitecture
+
+- [Microarch cheatsheet](https://docs.google.com/spreadsheets/d/18ln8SKIGRK5_6NymgdB9oLbTJCFwx0iFI-vUs6WFyuE/edit#gid=1076260513) - Centralised information about CPU μarch design such as caches, buffers, instruction width, etc
 
 ## Interesting resources
 

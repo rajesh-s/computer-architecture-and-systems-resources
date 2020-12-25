@@ -1,18 +1,18 @@
-# Computer Engineering Resources [![Awesome](https://awesome.re/badge-flat2.svg)](http://rajesh-s.gitbook.io/compengg) [![GitHub contributors](https://img.shields.io/github/contributors/rajesh-s/awesome-computer-engineering)](https://github.com/rajesh-s/awesome-computer-engineering/graphs/contributors/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) [![HitCount](http://hits.dwyl.io/rajesh-s/computer-engineering-resources.svg)](http://hits.dwyl.io/rajesh-s/computer-engineering-resources)
+# Computer Engineering Resources [![Awesome](https://img.shields.io/badge/view%20as-gitbook-blueviolet)](http://rajesh-s.gitbook.io/compengg) [![GitHub contributors](https://img.shields.io/github/contributors/rajesh-s/awesome-computer-engineering)](https://github.com/rajesh-s/awesome-computer-engineering/graphs/contributors/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) [![HitCount](http://hits.dwyl.io/rajesh-s/computer-engineering-resources.svg)](http://hits.dwyl.io/rajesh-s/computer-engineering-resources)
 
-A curated catalogue of Computer Engineering and Computer Architecture resources
+A curated catalogue of Computer Engineering/Computer Architecture/Computer Systems resources
 
 <p align="center">
   <img width="50%" height="50%" src="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/MSc_Computer_Engineering/PastedGraphic-2.jpg">
 </p>
 
-```txt
-The special charm of Computer Engineering is there's a relatively 
-good understanding of abstraction layers. - Jim Keller
-```
+ [`The special charm of Computer Engineering is there's a relatively good understanding of abstraction layers. - Jim Keller`](https://www.happyscribe.com/public/lex-fridman-podcast-artificial-intelligence-ai/jim-keller-moore-s-law-microprocessors-abstractions-and-first-principles#paragraph_258?utm_source=public_transcript&utm_medium=paragraph&utm_campaign=public_promo)
+
 
 Table of Contents
 =================
+
+[Direct link to the page on simulators](./area_specific/tools_and_utils.md)
 
 - [Conferences](#conferences)
   - [Computer Architecture & Systems](#computer-architecture--systems)
@@ -22,15 +22,15 @@ Table of Contents
   - [Search tools for conferences](#search-tools-for-conferences)
 - [Communities](#communities)
   - [Industry Organizations](#industry-organizations)
-- [Interesting Resources](#interesting-resources)
 - [Great courses on Computer Architecture](#great-courses-on-computer-architecture)
 - [Blogs](#blogs)
 - [Digging Deeper](#digging-deeper)
+- [Interesting Resources](#interesting-resources)
 - [Other specific curated lists related to CompEngg](#other-specific-curated-lists-related-to-compengg)
 
 ## Conferences
 
-Area specific (eg. hardware design, FPGA etc.) conferences are captured under their specific pages
+Area specific conferences are captured under their specific pages
 
 ### Computer Architecture & Systems
 
@@ -39,7 +39,6 @@ Area specific (eg. hardware design, FPGA etc.) conferences are captured under th
 - [**MICRO**](https://www.microarch.org/) - IEEE International Symposium on Microarchitecture
 - [USENIX](https://www.usenix.org/conferences) - Systems Researchers Conf
 - [TACO](https://dl.acm.org/journal/taco) - ACM Transactions on Architecture and Code Optimization focuses on hardware, software, and system research spanning the fields of computer architecture and code optimization
-- [SOSP](https://sosp19.rcs.uwaterloo.ca/program.html) - Operating Systems Principles
 - [PACT](https://pact20.cc.gatech.edu/) - Conference on Parallel Architectures and Compilation Techniques
 - [NAS](http://www.nas-conference.org/NAS-2020/) - Conference on Networking, Architecture, and Storage
 
@@ -62,6 +61,9 @@ Area specific (eg. hardware design, FPGA etc.) conferences are captured under th
 - [MICRO](http://newsletter.sigmicro.org/micro-hof.txt/view) - Microarchitecture
 - [Computer Architecture Aggregated Hall-of-Fame](http://moin.ece.gatech.edu/cathof.html)
 
+State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter.com/heyelbs/status/1340497478794309633)
+![](https://pbs.twimg.com/media/EppnBtDXEAAaLnH?format=jpg&name=large)
+
 ### Interconnects
 
 - [Hot Interconnects](http://www.hoti.org/) - Symposium on High-Performance Interconnects
@@ -75,7 +77,6 @@ Area specific (eg. hardware design, FPGA etc.) conferences are captured under th
 - [HGPU](https://hgpu.org/)
 - [CORE Rankings](http://portal.core.edu.au/conf-ranks/?search=architecture&by=all&source=CORE2020&sort=arank&page=1)
 - [NSF Funding](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=%22NoC%22+%22on-chip%22+%22network-on-chip%22+%22networks-on-chip%22+%22interconnection+network%22&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=) - The NSF site provides a great filtering tool to list NSF funded projects, PIs in specific areas. A good tool to follow active research trends in areas of your interest. Here's an example for NoC/interconnection networks.
-
 
 ## Communities
 
@@ -101,24 +102,6 @@ Area specific (eg. hardware design, FPGA etc.) conferences are captured under th
 - [Open Compute Project](https://www.opencompute.org/) - Focus on reimagining hardware, making it more efficient, flexible, and scalable.
 - [Open Chiplet Initiative](https://zglue.com/oci) - zGlue Open Chiplet Initiative is a gallery of open designs, tools, and file formats that span the chiplet ecosystem from toolsets all the way to completed designs. The goal of the initiative is to lower the barrier for entry to create a collaborative environment for chiplet-based systems.
 
-## Interesting Resources
-
-- [A great resource on upcoming Systems conferences and venues](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
-- [Computer Architecture Zotero Research library](https://www.zotero.org/groups/2426044/coffeebeforearch/items/)
-- [Computer Latency at a Human Scale](https://www.prowesscorp.com/computer-latency-at-a-human-scale/)
-- [Networking conference search tool](http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=usenix%20asplos%20ewsn%20hotnets%20hotos%20ipsn%20isca%20micro%20mobicom%20mobihoc%20mobisys%20nsdi%20osdi%20sensys%20sigcomm%20sosp%20uist&sortMode=1&graphicView=1)
-- [Chips for Machine Intelligence in 2019](https://www.jameswhanlon.com/new-chips-for-machine-intelligence.html)
-- [Microprocessor trend data](https://github.com/karlrupp/microprocessor-trend-data)
-- [Demonstration of Hardware Effects](https://github.com/Kobzol/hardware-effects) - This repository demonstrates various hardware effects that can degrade application performance in surprising ways and that may be very hard to explain without knowledge of the low-level CPU and OS architecture.
-- [Die shots of chips](https://github.com/misdake/ChipAnnotationViewer)
-- [Bottom Up Computer Science](http://www.bottomupcs.com/)
-- [Computing and Internet History Posters](http://tcm.computerhistory.org/marketing.html)
-- [Selected Historical Computer Designs](https://people.cs.clemson.edu/~mark/hist.html)
-- [Who are Computer Architects?](https://people.cs.clemson.edu/~mark/architects.html)
-- [Which machines do Computer Architects admire?](https://people.cs.clemson.edu/~mark/admired_designs.html)
-- [Moore's law till date](http://www.transistorcount.com/) - Counting transistors
-- [AI Chip Landscape in 2020](https://github.com/basicmi/AI-Chip) - A list of ICs and IPs for AI, Machine Learning and Deep Learning.
-
 ## Great courses on Computer Architecture
 
 - Prof. Onur Mutlu's [lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g/playlists) and [talks](https://people.inf.ethz.ch/omutlu/talks.htm)
@@ -135,6 +118,7 @@ Area specific (eg. hardware design, FPGA etc.) conferences are captured under th
 - [Inside HPC](https://insidehpc.com/)
 - [FPGA CPU News](http://fpga.org/) - Exploring Parallel Computer Architecture with FPGAs
 - [Real world technology](https://www.realworldtech.com/) - Everything from cloud, chips, processors and software. Some interesting articles such as [Power delivery in a CPU](https://www.realworldtech.com/power-delivery/)
+- [Coffee Before Architecture](https://coffeebeforearch.github.io/)
 
 ## Digging Deeper
 
@@ -154,6 +138,24 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [High Performance Computing](./area_specific/hpc.md)
 
 - [Tools, Utilities, Simulators, Emulators and more](./area_specific/tools_and_utils.md)
+
+## Interesting Resources
+
+- [A great resource on upcoming Systems conferences and venues](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
+- [Computer Architecture Zotero Research library](https://www.zotero.org/groups/2426044/coffeebeforearch/items/)
+- [Computer Latency at a Human Scale](https://www.prowesscorp.com/computer-latency-at-a-human-scale/)
+- [Networking conference search tool](http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=usenix%20asplos%20ewsn%20hotnets%20hotos%20ipsn%20isca%20micro%20mobicom%20mobihoc%20mobisys%20nsdi%20osdi%20sensys%20sigcomm%20sosp%20uist&sortMode=1&graphicView=1)
+- [Chips for Machine Intelligence in 2019](https://www.jameswhanlon.com/new-chips-for-machine-intelligence.html)
+- [Microprocessor trend data](https://github.com/karlrupp/microprocessor-trend-data)
+- [Demonstration of Hardware Effects](https://github.com/Kobzol/hardware-effects) - This repository demonstrates various hardware effects that can degrade application performance in surprising ways and that may be very hard to explain without knowledge of the low-level CPU and OS architecture.
+- [Die shots of chips](https://github.com/misdake/ChipAnnotationViewer)
+- [Bottom Up Computer Science](http://www.bottomupcs.com/)
+- [Computing and Internet History Posters](http://tcm.computerhistory.org/marketing.html)
+- [Selected Historical Computer Designs](https://people.cs.clemson.edu/~mark/hist.html)
+- [Who are Computer Architects?](https://people.cs.clemson.edu/~mark/architects.html)
+- [Which machines do Computer Architects admire?](https://people.cs.clemson.edu/~mark/admired_designs.html)
+- [Moore's law till date](http://www.transistorcount.com/) - Counting transistors
+- [AI Chip Landscape in 2020](https://github.com/basicmi/AI-Chip) - A list of ICs and IPs for AI, Machine Learning and Deep Learning.
 
 ## Other specific curated lists related to CompEngg
 

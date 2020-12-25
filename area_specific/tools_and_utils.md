@@ -1,19 +1,78 @@
 # Tools and Utilities
 
-- [Tools](#tools)
-  - [Open Source Tools for Digital Design](#open-source-tools-for-digital-design)
-  - [Simulators](#simulators)
-    - [Architectural](#architectural)
-      - [Interconnect Simulators](#interconnect-simulators)
-    - [Digital/Analog Simulators](#digitalanalog-simulators)
-  - [Emulators](#emulators)
-- [Utilities](#utilities)
-  - [Hardware Design](#hardware-design)
-- [Misc](#misc)
+- [1. Tools](#1-tools)
+  - [1.1. Simulators](#11-simulators)
+    - [1.1.1. Architectural](#111-architectural)
+    - [1.1.2. Hardware Accelerator (incl. GPU) simulators](#112-hardware-accelerator-incl-gpu-simulators)
+    - [1.1.3. Micro-architecture/ISA simulators](#113-micro-architectureisa-simulators)
+    - [1.1.4. Memory Simulators](#114-memory-simulators)
+    - [1.1.5. Interconnect Simulators](#115-interconnect-simulators)
+    - [Benchmarking](#benchmarking)
+  - [1.2. Open Source Tools for Digital Design](#12-open-source-tools-for-digital-design)
+    - [1.2.1. Digital/Analog Simulators](#121-digitalanalog-simulators)
+  - [1.3. Emulators](#13-emulators)
+- [2. Utilities](#2-utilities)
+  - [2.1. Hardware Design](#21-hardware-design)
+- [3. Misc](#3-misc)
 
-## Tools
+## 1. Tools
 
-### Open Source Tools for Digital Design
+### 1.1. Simulators
+
+#### 1.1.1. Architectural
+
+- [gem5](http://gem5.org/Main_Page) - The gem5 simulator is a modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.
+  - [Lapidary](https://github.com/efeslab/lapidary) - Tool to enable more efficient gem5 simulations
+- [CPULator](https://cpulator.01xz.net/) - CPUlator Computer System Simulator designed as a tool for learning assembly-language programming and computer organization
+- [ESESC](https://github.com/masc-ucsc/esesc) - A fast multiprocessor simulator with detailed power, thermal, and performance models for modern out-of-order multicores.
+- [Multi2Sim](http://www.multi2sim.org/) - Multi2Sim is a heterogeneous system simulator of CPUs and GPUs, used to test and validate new hardware designs before they are physically manufactured.
+- [SniperSim](https://snipersim.org//w/The_Sniper_Multi-Core_Simulator) - A multi-core, parallel, high-speed and accurate x86 simulator.
+- [MacSim](https://github.com/gthparch/macsim) - A heterogeneous architecture timing model simulator.
+- [CACTI](https://github.com/HewlettPackard/cacti) - An analytical tool that takes a set of cache/memory para-
+meters as input and calculates its access time, power, cycle 
+time, and area.
+
+**Full-system simulators and their popularity in conferences** (table from 2015)
+![simulators](images/2020-08-31-13-29-56.png)
+
+#### 1.1.2. Hardware Accelerator (incl. GPU) simulators
+
+- [Accel-Sim](https://accel-sim.github.io/) - Simulation framework for simulating and validating programmable accelerators like GPUs
+- [GPGPU Sim](gpgpu-sim.org) - GPGPU-Sim provides a detailed simulation model of a contemporary GPUs
+- [FireSim](https://fires.im) - FireSim is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs
+- [MPGPUSim](https://gitlab.com/akita/mgpusim/-/tree/master) - MGPUSim is a Go based AMD GCN3 GPU simulator based-on the Akita framework.
+- [SCALESim](https://github.com/ARM-software/SCALE-Sim) - SCALE sim is a CNN accelerator simulator, that provides cycle-accurate timing, power/energy, memory bandwidth and trace results for a specified accelerator configuration and neural network architecture.
+
+#### 1.1.3. Micro-architecture/ISA simulators
+
+- [Mastik](https://cs.adelaide.edu.au/~yval/Mastik/)  - A Micro-Architectural Side-Channel Toolkit
+- [Venus](https://github.com/kvakil/venus) - Venus is a RISC-V instruction set simulator built for education.
+- [Ripes](https://github.com/mortbopet/Ripes) - Ripes is a visual computer architecture simulator and assembly code editor built for the RISC-V ISA.
+- [WinMIPS64](http://indigo.ie/~mscott/) - WinMIPS64 is an instruction set simulator, and is designed as a replacement for the popular Microsoft Windows utility WinDLX
+
+#### 1.1.4. Memory Simulators
+
+- [Cache simulator](https://github.com/CoffeeBeforeArch/cache_simulator) - A simple trace-based cache simulator
+- [DRAMSim2](https://github.com/umd-memsys/DRAMSim2) - A cycle accurate DRAM simulator
+- [ARM Consistency Memory Model](https://developer.arm.com/architectures/cpu-architecture/a-profile/memory-model-tool) - The herd tool allows the user to execute the model with a specific question about the possible final states of the program using ARM consistency memory model.
+- [MQSim](https://github.com/CMU-SAFARI/MQSim) - A Simulator for Modern NVMe and SATA SSDs
+- [VAMPIRE](https://github.com/CMU-SAFARI/VAMPIRE) - Variation-Aware model of Memory Power Informed by Real Experiments is an open-source DRAM power model based on an extensive experimental characterization of the power consumption of real DRAM modules.
+- [RAMulator](https://github.com/CMU-SAFARI/ramulator) - Ramulator is a fast and cycle-accurate DRAM simulator [1] that supports a wide array of commercial, as well as academic, DRAM standards
+
+#### 1.1.5. Interconnect Simulators
+
+- [BookSim](https://github.com/thats-all-forks/booksim2) - A cycle-accurate interconnection network simulator
+- [NetTrace](http://www.cs.utexas.edu/~netrace/) -  Dependency-Tracking Trace-Based Network-on-Chip Simulation. [Source code](https://github.com/thats-all-forks/netrace)
+- [Noxim](https://github.com/davidepatti/noxim) - Network-on-Chip Simulator
+- [NIRGAM](http://nirgam.ecs.soton.ac.uk/) - A Simulator for NoC Interconnect Routing and Application Modeling
+
+#### Benchmarking
+
+- [MLPerf](https://mlcommons.org/en/training-normal-07/) - Consistent measurements of accuracy, speed, and efficiency on hardware for ML workloads
+- [tp-parsec](https://github.com/massivethreads/tp-parsec) - Task-Parallel PARSEC
+- [VTune™ Profiler Performance Analysis Cookbook](https://software.intel.com/content/www/us/en/develop/documentation/vtune-cookbook/top.html)
+
+### 1.2. Open Source Tools for Digital Design
 
 - [Verilator](https://www.veripool.org/projects/verilator/) - Verilator is the fastest free Verilog HDL simulator, and outperforms most commercial simulators
 - [Icarus Verilog](https://github.com/steveicarus/iverilog) - Icarus Verilog is not aimed at being a simulator in the traditional sense, but a compiler that generates code employed by back-end tools.
@@ -53,42 +112,7 @@
 - [LLHD](http://www.llhd.io/) - is an intermediate representation for digital circuit descriptions, together with an accompanying simulator and SystemVerilog/VHDL compiler.
 - [TerosHDL](https://github.com/TerosTechnology/terosHDL) - It is a  open source IDE to make FPGA development easier
 
-### Simulators
-
-#### Architectural
-
-- [gem5](http://gem5.org/Main_Page) - The gem5 simulator is a modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.
-  - [Lapidary](https://github.com/efeslab/lapidary) - Tool to enable more efficient gem5 simulations
-- [GPGPU Sim](gpgpu-sim.org) - GPGPU-Sim provides a detailed simulation model of a contemporary GPUs
-- [Venus](https://github.com/kvakil/venus) - Venus is a RISC-V instruction set simulator built for education.
-- [FireSim](https://fires.im) - FireSim is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs
-- [Ripes](https://github.com/mortbopet/Ripes) - Ripes is a visual computer architecture simulator and assembly code editor built for the RISC-V ISA.
-- [CPULator](https://cpulator.01xz.net/) - CPUlator Computer System Simulator designed as a tool for learning assembly-language programming and computer organization
-- [ESESC](https://github.com/masc-ucsc/esesc) - A fast multiprocessor simulator with detailed power, thermal, and performance models for modern out-of-order multicores.
-- [Cache simulator](https://github.com/CoffeeBeforeArch/cache_simulator) - A simple trace-based cache simulator
-- [Multi2Sim](http://www.multi2sim.org/) - Multi2Sim is a heterogeneous system simulator of CPUs and GPUs, used to test and validate new hardware designs before they are physically manufactured.
-- [SniperSim](https://snipersim.org//w/The_Sniper_Multi-Core_Simulator) - A multi-core, parallel, high-speed and accurate x86 simulator.
-- [DRAMSim2](https://github.com/umd-memsys/DRAMSim2) - A cycle accurate DRAM simulator
-- [MacSim](https://github.com/gthparch/macsim) - A heterogeneous architecture timing model simulator.
-- [ARM Consistency Memory Model](https://developer.arm.com/architectures/cpu-architecture/a-profile/memory-model-tool) - The herd tool allows the user to execute the model with a specific question about the possible final states of the program using ARM consistency memory model.
-- [MPGPUSim](https://gitlab.com/akita/mgpusim/-/tree/master) - MGPUSim is a Go based AMD GCN3 GPU simulator based-on the Akita framework.
-- [SCALESim](https://github.com/ARM-software/SCALE-Sim) - SCALE sim is a CNN accelerator simulator, that provides cycle-accurate timing, power/energy, memory bandwidth and trace results for a specified accelerator configuration and neural network architecture.
-- [WinMIPS64](http://indigo.ie/~mscott/) - WinMIPS64 is an instruction set simulator, and is designed as a replacement for the popular Microsoft Windows utility WinDLX
-- [MQSim](https://github.com/CMU-SAFARI/MQSim) - A Simulator for Modern NVMe and SATA SSDs
-- [VAMPIRE](https://github.com/CMU-SAFARI/VAMPIRE) - Variation-Aware model of Memory Power Informed by Real Experiments is an open-source DRAM power model based on an extensive experimental characterization of the power consumption of real DRAM modules.
-- [RAMulator](https://github.com/CMU-SAFARI/ramulator) - Ramulator is a fast and cycle-accurate DRAM simulator [1] that supports a wide array of commercial, as well as academic, DRAM standards
-
-**Full-system simulators and their popularity in conferences** (table from 2015)
-![simulators](images/2020-08-31-13-29-56.png)
-
-##### Interconnect Simulators
-
-- [BookSim](https://github.com/thats-all-forks/booksim2) - A cycle-accurate interconnection network simulator
-- [NetTrace](http://www.cs.utexas.edu/~netrace/) -  Dependency-Tracking Trace-Based Network-on-Chip Simulation. [Source code](https://github.com/thats-all-forks/netrace)
-- [Noxim](https://github.com/davidepatti/noxim) - Network-on-Chip Simulator
-- [NIRGAM](http://nirgam.ecs.soton.ac.uk/) - A Simulator for NoC Interconnect Routing and Application Modeling
-
-#### Digital/Analog Simulators
+#### 1.2.1. Digital/Analog Simulators
 
 - [DigitalJS](https://github.com/tilk/digitaljs) - Visualize and simulate digital logic using HDL
 - [Digital](https://github.com/hneemann/Digital) - Digital is a easy-to-use digital logic designer and circuit simulator designed for educational purposes.
@@ -106,16 +130,16 @@
 - [LogisimITA](http://www.logisim.altervista.org/) - An independently developed fork of logisim that's preferred by many
 - [Logisim-Evolution](https://github.com/reds-heig/logisim-evolution/) - Another flavour of Logisim after the development of original version was stopped
 
-### Emulators
+### 1.3. Emulators
 
 - [TinyEMU](https://bellard.org/tinyemu/) - TinyEMU is a system emulator for the RISC-V and x86 architectures.
 - [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 - [Emulator for Ben Eater's 8bit computer](https://fizzgig.itch.io/8-bit-breadboard-computer)
 - [8bit Chip Emulator](https://github.com/floooh/chips) - A toolbox of 8-bit chip-emulators, helper code and complete embeddable system emulators
 
-## Utilities
+## 2. Utilities
 
-### Hardware Design
+### 2.1. Hardware Design
 
 - [Data sheet scrubber](https://github.com/idea-fasoc/datasheet-scrubber) - The FASoC Datasheet Scrubber is a utility that scrubs through large sets of PDF datasheets/documents in order to extract key circuit information.
 - [SystemVerilog Unit Test \(SVUT\)](https://github.com/damofthemoon/svut) - SVUT is a very simple flow to create a Verilog/SystemVerilog unit test.
@@ -137,7 +161,7 @@
 - [Static Timing Analysis Diagram Renderer](https://github.com/drom/sta) - Altera Quartus/ Icestorm report parser
 - [Bitfield/Register representations](https://observablehq.com/@drom/bitfield-testbox) - Editable examples of registers
 
-## Misc
+## 3. Misc
 
 - [Online ARM Assember](https://azm.azerialabs.com/)
 - [Hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer

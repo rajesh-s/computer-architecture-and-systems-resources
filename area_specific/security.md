@@ -6,7 +6,7 @@
 
 ## Concepts
 
-- [A graduate course in applied cryptography](https://toc.cryptobook.us/)
+- [A Primer on Security Threats for Computer Architects](https://www.sigarch.org/a-primer-on-security-threats-for-computer-architects/)
 
 ## Hardware Security
 
@@ -19,5 +19,5 @@
 ## Software Security
 
 - [Interactive Guide to Buffer Overflow Exploitation](https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation)
-- [Awesome cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [Intel Software Guard Extensions](https://software.intel.com/content/www/us/en/develop/topics/software-guard-extensions.html) - A set of instructions that increases the security of application code and data, giving them more protection from disclosure or modification
+- [Awesome cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
