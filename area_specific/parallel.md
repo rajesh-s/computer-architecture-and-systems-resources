@@ -8,6 +8,7 @@
   - [2.2. Languages](#22-languages)
     - [2.2.1. CUDA](#221-cuda)
       - [2.2.1.1. Learning](#2211-learning)
+      - [2.2.1.2. Utilities](#2212-utilities)
 
 ## 1. Hardware
 
@@ -31,3 +32,7 @@
 - [CUDA 101](https://hackaday.com/2018/03/19/cuda-is-like-owning-a-supercomputer/)
 - [An Even Easier Introduction to CUDA](https://developer.nvidia.com/blog/even-easier-introduction-cuda/)
 - [CUDA documentation](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
+
+##### 2.2.1.2. Utilities
+
+- [CUDA Occupancy Calculator](https://docs.nvidia.com/cuda/cuda-occupancy-calculator/index.html) - Compute the multiprocessor occupancy of a GPU by a given CUDA kernel

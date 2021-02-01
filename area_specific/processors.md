@@ -3,6 +3,7 @@
 - [Open-source digital design implementations of Processors](#open-source-digital-design-implementations-of-processors)
   - [RISCV based](#riscv-based)
 - [Microarchitecture](#microarchitecture)
+- [ISA](#isa)
 - [Interesting resources](#interesting-resources)
   - [Must Reads](#must-reads)
 - [GPU](#gpu)
@@ -43,6 +44,10 @@ Everything about processors
 ## Microarchitecture
 
 - [Microarch cheatsheet](https://docs.google.com/spreadsheets/d/18ln8SKIGRK5_6NymgdB9oLbTJCFwx0iFI-vUs6WFyuE/edit#gid=1076260513) - Centralised information about CPU μarch design such as caches, buffers, instruction width, etc
+
+## ISA
+
+- [Great ISAs](https://www.cs.cornell.edu/courses/cs7491/2020sp/)
 
 ## Interesting resources
 

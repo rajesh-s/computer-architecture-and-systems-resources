@@ -7,7 +7,7 @@
     - [1.1.3. Micro-architecture/ISA simulators](#113-micro-architectureisa-simulators)
     - [1.1.4. Memory Simulators](#114-memory-simulators)
     - [1.1.5. Interconnect Simulators](#115-interconnect-simulators)
-    - [Benchmarking](#benchmarking)
+    - [1.1.6. Benchmarking](#116-benchmarking)
   - [1.2. Open Source Tools for Digital Design](#12-open-source-tools-for-digital-design)
     - [1.2.1. Digital/Analog Simulators](#121-digitalanalog-simulators)
   - [1.3. Emulators](#13-emulators)
@@ -29,8 +29,10 @@
 - [SniperSim](https://snipersim.org//w/The_Sniper_Multi-Core_Simulator) - A multi-core, parallel, high-speed and accurate x86 simulator.
 - [MacSim](https://github.com/gthparch/macsim) - A heterogeneous architecture timing model simulator.
 - [CACTI](https://github.com/HewlettPackard/cacti) - An analytical tool that takes a set of cache/memory para-
-meters as input and calculates its access time, power, cycle 
-time, and area.
+meters as input and calculates its access time, power, cycle time, and area.
+- [WATTCH](http://www.eecs.harvard.edu/~dbrooks/wattch-form.html) - Architectural simulator that estimates CPU power consumption. [Example](http://www.ecs.umass.edu/ece/koren/architecture/ETCache/tools_used.html)
+- [HotSpot](http://lava.cs.virginia.edu/HotSpot/) -  An accurate and fast thermal model suitable for use in architectural studies.
+- [SESC](http://sesc.sourceforge.net/) - SuperScalar simulator is a cycle accurate architectural simulator that models a very wide set of architectures: single processors, CMPs, PIMs, and thread level speculation.
 
 **Full-system simulators and their popularity in conferences** (table from 2015)
 ![simulators](images/2020-08-31-13-29-56.png)
@@ -49,9 +51,12 @@ time, and area.
 - [Venus](https://github.com/kvakil/venus) - Venus is a RISC-V instruction set simulator built for education.
 - [Ripes](https://github.com/mortbopet/Ripes) - Ripes is a visual computer architecture simulator and assembly code editor built for the RISC-V ISA.
 - [WinMIPS64](http://indigo.ie/~mscott/) - WinMIPS64 is an instruction set simulator, and is designed as a replacement for the popular Microsoft Windows utility WinDLX
+- [Whisper](https://github.com/chipsalliance/SweRV-ISS) - RISCV instruction set simulator (ISS) developed for the verification of the Swerv micro-controller. It allows the user to run RISCV code without RISCV hardware.
 
 #### 1.1.4. Memory Simulators
 
+- [NVMain](https://github.com/SEAL-UCSB/NVmain) -  An Architectural Level Main Memory Simulator for Emerging Non-Volatile Memories
+- [ZSim](https://github.com/s5z/zsim) - zsim is a fast x86-64 simulator with a focus on simulating memory hierarchies and large, heterogeneous systems
 - [Cache simulator](https://github.com/CoffeeBeforeArch/cache_simulator) - A simple trace-based cache simulator
 - [DRAMSim2](https://github.com/umd-memsys/DRAMSim2) - A cycle accurate DRAM simulator
 - [ARM Consistency Memory Model](https://developer.arm.com/architectures/cpu-architecture/a-profile/memory-model-tool) - The herd tool allows the user to execute the model with a specific question about the possible final states of the program using ARM consistency memory model.
@@ -66,7 +71,7 @@ time, and area.
 - [Noxim](https://github.com/davidepatti/noxim) - Network-on-Chip Simulator
 - [NIRGAM](http://nirgam.ecs.soton.ac.uk/) - A Simulator for NoC Interconnect Routing and Application Modeling
 
-#### Benchmarking
+#### 1.1.6. Benchmarking
 
 - [MLPerf](https://mlcommons.org/en/training-normal-07/) - Consistent measurements of accuracy, speed, and efficiency on hardware for ML workloads
 - [tp-parsec](https://github.com/massivethreads/tp-parsec) - Task-Parallel PARSEC
@@ -111,6 +116,7 @@ time, and area.
 - [myHDL](http://www.myhdl.org/) - MyHDL turns Python into a hardware description and verification language
 - [LLHD](http://www.llhd.io/) - is an intermediate representation for digital circuit descriptions, together with an accompanying simulator and SystemVerilog/VHDL compiler.
 - [TerosHDL](https://github.com/TerosTechnology/terosHDL) - It is a  open source IDE to make FPGA development easier
+- [OpenLane](https://github.com/efabless/openlane) - Automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
 
 #### 1.2.1. Digital/Analog Simulators
 
@@ -136,6 +142,7 @@ time, and area.
 - [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 - [Emulator for Ben Eater's 8bit computer](https://fizzgig.itch.io/8-bit-breadboard-computer)
 - [8bit Chip Emulator](https://github.com/floooh/chips) - A toolbox of 8-bit chip-emulators, helper code and complete embeddable system emulators
+- [Little Man Computer](https://peterhigginson.co.uk/lmc/) - Very simple Von Neumann Architecture Computer. Similar [RISC](https://peterhigginson.co.uk/RISC/)
 
 ## 2. Utilities
 

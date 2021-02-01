@@ -118,6 +118,7 @@ State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter
 - [Inside HPC](https://insidehpc.com/)
 - [FPGA CPU News](http://fpga.org/) - Exploring Parallel Computer Architecture with FPGAs
 - [Real world technology](https://www.realworldtech.com/) - Everything from cloud, chips, processors and software. Some interesting articles such as [Power delivery in a CPU](https://www.realworldtech.com/power-delivery/)
+- [TechInsights](https://www.techinsights.com/) - Die shots, analysis, reverse engineering and more
 - [Coffee Before Architecture](https://coffeebeforearch.github.io/)
 
 ## Digging Deeper
@@ -141,6 +142,7 @@ Computer Architecture is diverse and there's constant interplay between domains 
 
 ## Interesting Resources
 
+- [The Great ISAs - Adrian Sampson](https://www.cs.cornell.edu/courses/cs7491/2020sp/)
 - [A great resource on upcoming Systems conferences and venues](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
 - [Computer Architecture Zotero Research library](https://www.zotero.org/groups/2426044/coffeebeforearch/items/)
 - [Computer Latency at a Human Scale](https://www.prowesscorp.com/computer-latency-at-a-human-scale/)
