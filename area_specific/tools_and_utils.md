@@ -52,9 +52,12 @@ meters as input and calculates its access time, power, cycle time, and area.
 - [Ripes](https://github.com/mortbopet/Ripes) - Ripes is a visual computer architecture simulator and assembly code editor built for the RISC-V ISA.
 - [WinMIPS64](http://indigo.ie/~mscott/) - WinMIPS64 is an instruction set simulator, and is designed as a replacement for the popular Microsoft Windows utility WinDLX
 - [Whisper](https://github.com/chipsalliance/SweRV-ISS) - RISCV instruction set simulator (ISS) developed for the verification of the Swerv micro-controller. It allows the user to run RISCV code without RISCV hardware.
+- [CompilerExplorer](https://godbolt.org/)
 
 #### 1.1.4. Memory Simulators
 
+- [VANS](https://github.com/TheNetAdmin/VANS) - A validated NVRAM simulator
+- [LENS](https://github.com/TheNetAdmin/LENS) - A Low-level NVRAM Profiler
 - [NVMain](https://github.com/SEAL-UCSB/NVmain) -  An Architectural Level Main Memory Simulator for Emerging Non-Volatile Memories
 - [ZSim](https://github.com/s5z/zsim) - zsim is a fast x86-64 simulator with a focus on simulating memory hierarchies and large, heterogeneous systems
 - [Cache simulator](https://github.com/CoffeeBeforeArch/cache_simulator) - A simple trace-based cache simulator
@@ -135,6 +138,8 @@ meters as input and calculates its access time, power, cycle time, and area.
 - [Logisim](http://www.cburch.com/logisim/) - Logisim is an educational tool for designing and simulating digital logic circuits.
 - [LogisimITA](http://www.logisim.altervista.org/) - An independently developed fork of logisim that's preferred by many
 - [Logisim-Evolution](https://github.com/reds-heig/logisim-evolution/) - Another flavour of Logisim after the development of original version was stopped
+- [Antares](https://www.antarescircuit.io/) - Digital Circuit Learning Platform. A free, powerful platform for designing, simulating and explaining digital circuits
+- [MakerChip](https://www.makerchip.com/) - In-browser Verilog design environment
 
 ### 1.3. Emulators
 

@@ -1,10 +1,15 @@
 # Programming Resources relevant to Comp Engg.
 
+- [Conferences](#conferences)
 - [Algorithms](#algorithms)
 - [Data Structures](#data-structures)
 - [Compilers](#compilers)
 - [Scientific Computing](#scientific-computing)
 - [Interviews](#interviews)
+
+## Conferences
+
+- [LADSIOS @ VLDB](https://www.ladsios.org/) - A Tutorial Workshop on Learned Algorithms, Data Structures, and Instance-Optimized Systems
 
 ## Algorithms
 

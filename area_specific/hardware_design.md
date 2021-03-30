@@ -100,6 +100,7 @@
 
 ### 3.1. Community Organization
 
+- [eFabless](https://efabless.com/) - Developer/Partner community that is also part of the Google Open Shuttle Program
 - [FOSSi Foundation](https://fossi-foundation.org/) - Free and Open Source Silicon (FOSSi) are components and systems that are inside silicon devices (‘chips’). It is our core belief that building blocks that form such digital devices can be made free and open
 
 ## 4. Research

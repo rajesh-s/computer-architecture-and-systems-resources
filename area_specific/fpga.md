@@ -31,6 +31,8 @@
 ## 3. Resources
 
 - [Xilinx AXI VIP for FPGAs](https://forums.xilinx.com/t5/Design-and-Debug-Techniques-Blog/AXI-Basics-2-Simulating-AXI-interfaces-with-the-AXI-Verification/ba-p/1053935) - Article on using the Xilinx AXI VIPs. [Part 2](https://forums.xilinx.com/t5/Design-and-Debug-Techniques-Blog/AXI-Basics-2-Simulating-AXI-interfaces-with-the-AXI-Verification/ba-p/1053935)
+- [Productive Parallel Programming for FPGA with HLS](https://spcl.inf.ethz.ch/Teaching/hls-tutorial/) - ETH Parallel Computing lab
+- [Course on MPSoC](https://ohwr.org/project/soc-course/wikis/home)
 
 ### 3.1. Articles
 
