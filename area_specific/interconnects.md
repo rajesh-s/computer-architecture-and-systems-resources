@@ -35,7 +35,7 @@ Everything about on-chip and inter-chip communication
 
 - [Great resource on simulators, research reading etc for interconnects](https://networkonchip.wordpress.com/) - The Network-on-Chip blog
 - [NSF funded projects on NoCs](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=%22NoC%22+%22on-chip%22+%22network-on-chip%22+%22networks-on-chip%22+%22interconnection+network%22&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=) - Shows distribution of funds across universities and types of work being carried out
-- [AXI3/4 Cheatsheet](https://github.com/rajesh-s/axi_chestsheet) - Handy quick reference for ARM on-chip protocol standards
+- [AXI3/4 Cheatsheet](https://github.com/rajesh-s/axi_cheatsheet) - Handy quick reference for ARM on-chip protocol standards
 - [Designing a Skid Buffer](http://fpgacpu.ca/fpga/skid_buffer.html) - Implementing a fundamental element in on-chip interconnects
 
 ### Articles
