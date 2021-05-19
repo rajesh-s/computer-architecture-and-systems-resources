@@ -14,19 +14,21 @@ Table of Contents
 
 [Direct link to the page on simulators](./area_specific/tools_and_utils.md)
 
-- [Conferences](#conferences)
-  - [Computer Architecture & Systems](#computer-architecture--systems)
-  - [High Performance Computing](#high-performance-computing)
-  - [Halls of Fame](#halls-of-fame)
-  - [Interconnects](#interconnects)
-  - [Search tools for conferences](#search-tools-for-conferences)
-- [Communities](#communities)
-  - [Industry Organizations](#industry-organizations)
-- [Great courses on Computer Architecture](#great-courses-on-computer-architecture)
-- [Blogs](#blogs)
-- [Digging Deeper](#digging-deeper)
-- [Interesting Resources](#interesting-resources)
-- [Other specific curated lists related to CompEngg](#other-specific-curated-lists-related-to-compengg)
+- [Computer Engineering Resources ![Awesome](http://rajesh-s.gitbook.io/compengg) [![GitHub contributors](https://img.shields.io/github/contributors/rajesh-s/awesome-computer-engineering)](https://github.com/rajesh-s/awesome-computer-engineering/graphs/contributors/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)](#computer-engineering-resources----)
+- [Table of Contents](#table-of-contents)
+  - [Conferences](#conferences)
+    - [Computer Architecture & Systems](#computer-architecture--systems)
+    - [High Performance Computing](#high-performance-computing)
+    - [Halls of Fame](#halls-of-fame)
+    - [Interconnects](#interconnects)
+    - [Search tools for conferences](#search-tools-for-conferences)
+  - [Communities](#communities)
+    - [Industry Organizations](#industry-organizations)
+  - [Great courses on Computer Architecture](#great-courses-on-computer-architecture)
+  - [Blogs](#blogs)
+  - [Digging Deeper](#digging-deeper)
+  - [Interesting Resources](#interesting-resources)
+  - [Other specific curated lists related to CompEngg](#other-specific-curated-lists-related-to-compengg)
 
 ## Conferences
 
@@ -105,6 +107,7 @@ State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter
 ## Great courses on Computer Architecture
 
 - Prof. Onur Mutlu's [lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g/playlists) and [talks](https://people.inf.ethz.ch/omutlu/talks.htm)
+- [Computer Organization](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy) and [Computer Architecture](https://www.youtube.com/playlist?list=PL8EC1756A7B1764F6) courses by Prof. Rajeev Balasubramonian 
 - Computer Architecture [course](https://www.coursera.org/learn/comparch) by David Wentzlaff on Coursera
 - Prof. David Black-Schaffer's [lectures](https://www.youtube.com/channel/UCzf_XjIoKSf4Ve2fH7xn-3A/videos) on Virtual Memory etc.
 - [HPCA](https://www.udacity.com/course/high-performance-computer-architecture--ud007) - Prof. Milos Prvulovic covers High Performance Computer Architecture
