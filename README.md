@@ -113,7 +113,7 @@ State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter
 - [HPCA](https://www.udacity.com/course/high-performance-computer-architecture--ud007) - Prof. Milos Prvulovic covers High Performance Computer Architecture
 
 ## Blogs
-
+- [Computer Architecture Today](https://www.sigarch.org/blog/)
 - [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 - [SemiEngineering](http://semiengineering.com/)
 - [HPCWire](https://www.hpcwire.com/)
