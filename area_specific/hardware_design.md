@@ -41,6 +41,7 @@
 - [OpenCores](https://opencores.org/) - OpenCores is the most prominent online community for the development of gateware IP (Intellectual Properties) Cores.
 - [LibreCores](https://www.librecores.org/) - A "LibreCore" is such an IP core that is created and distributed in the open source spirit.
 - [OpenTitan](https://github.com/lowrisc/opentitan) - OpenTitan will make the silicon RoT design and implementation more transparent, trustworthy, and secure for enterprises, platform providers, and chip manufacturers.
+- [CHIPS Alliance](https://github.com/chipsalliance) - Common Hardware for Interfaces, Processors and Systems
 
 #### 1.3.2. Elements
 
@@ -68,6 +69,7 @@
 
 ### 2.2. Courses & Tutorials
 
+- [Verilog For Dummies workshop](https://github.com/chipforge/Verilog-for-Dummies)
 - [Verilog, Formal Verification and Verilator Beginner's Tutorial](http://zipcpu.com/tutorial/#training)
 - [ASIC Verilog](http://asic-world.com/verilog/veritut.html)
 - [NANDLand Verilog](https://www.nandland.com/verilog/tutorials/tutorial-introduction-to-verilog-for-beginners.html)
@@ -81,6 +83,7 @@
 - ZipCPU's [blog](http://zipcpu.com/) - A good starting point for Verilog/ FPGA/ Formal Verification
 - Eric LaForest's [blog](http://fpgacpu.ca/) as a resource about FPGAs, computer history, and computer architecture.
 - [VLSI STA](http://www.vlsi-expert.com/p/static-timing-analysis.html) - Concepts and conventions explained
+- [MicroZed Chronicles](https://github.com/ATaylorCEngFIET/MicroZed-Chronicles) - Source code from the MicroZed Chronicles FPGA blog
 
 ### 2.3. Books
 

@@ -1,17 +1,22 @@
 # Performance Analysis
 
 - [Chip-level](#chip-level)
+  - [Tools](#tools)
   - [Resources](#resources)
     - [Articles](#articles)
 - [System-level](#system-level)
   - [Resources](#resources-1)
     - [Articles](#articles-1)
-    - [Tools](#tools)
+    - [Tools](#tools-1)
 - [Programming & Optimization](#programming--optimization)
-  - [Tools](#tools-1)
+  - [Tools](#tools-2)
   - [Resources](#resources-2)
 
 ## Chip-level
+
+### Tools
+
+- [MachSuite](https://github.com/breagen/MachSuite) - MachSuite is a benchmark suite intended for accelerator-centric research.
 
 ### Resources
 
@@ -45,6 +50,7 @@
 ### Tools
 
 - [TAU Performance System](https://www.cs.uoregon.edu/research/tau/home.php) - A portable profiling and tracing toolkit for performance analysis of parallel programs written in Fortran, C, C++, UPC, Java, Python.
+- [Scalene](https://github.com/plasma-umass/scalene) - A high-performance CPU, GPU and memory profiler for Python
 
 ### Resources
 

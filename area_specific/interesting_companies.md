@@ -14,6 +14,7 @@ Interesting companies in the space of Computer Architecture (both hardware and s
 - [LowRISC](https://www.lowrisc.org/) - Enabling open source silicon through collaborative engineering
 - [Kendryte](https://kendryte.com/) - Commercial RISCV CPUs
 - [SimpleMachines.ai](https://www.simplemachines.ai/composable-computing) - New analytical demands require a paradigm change in computing. Simple Machine’s Composable Computing accelerates application performance by optimizing the very hardware it runs on. On premise. On the cloud.
+- [Supranational](https://www.supranational.net/) - A product and service company developing hardware accelerated cryptography for verifiable and confidential computing. 
 
 ## Software
 

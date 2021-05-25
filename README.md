@@ -1,4 +1,4 @@
-# Computer Engineering Resources [![Awesome](https://img.shields.io/badge/view%20as-gitbook-blueviolet)](http://rajesh-s.gitbook.io/compengg) [![GitHub contributors](https://img.shields.io/github/contributors/rajesh-s/awesome-computer-engineering)](https://github.com/rajesh-s/awesome-computer-engineering/graphs/contributors/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+# Computer Engineering Resources [![Awesome](https://img.shields.io/badge/view%20as-gitbook-blueviolet)](http://rajesh-s.gitbook.io/compengg) [![GitHub contributors](https://img.shields.io/github/contributors/rajesh-s/awesome-computer-engineering)](https://github.com/rajesh-s/awesome-computer-engineering/graphs/contributors/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat-square)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 A curated catalogue of Computer Engineering/Computer Architecture/Computer Systems resources
 
@@ -8,31 +8,27 @@ A curated catalogue of Computer Engineering/Computer Architecture/Computer Syste
 
  [`The special charm of Computer Engineering is there's a relatively good understanding of abstraction layers. - Jim Keller`](https://www.happyscribe.com/public/lex-fridman-podcast-artificial-intelligence-ai/jim-keller-moore-s-law-microprocessors-abstractions-and-first-principles#paragraph_258?utm_source=public_transcript&utm_medium=paragraph&utm_campaign=public_promo)
 
-
-Table of Contents
-=================
+**Table of Contents**
 
 [Direct link to the page on simulators](./area_specific/tools_and_utils.md)
 
-- [Computer Engineering Resources ![Awesome](http://rajesh-s.gitbook.io/compengg) [![GitHub contributors](https://img.shields.io/github/contributors/rajesh-s/awesome-computer-engineering)](https://github.com/rajesh-s/awesome-computer-engineering/graphs/contributors/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)](#computer-engineering-resources----)
-- [Table of Contents](#table-of-contents)
-  - [Conferences](#conferences)
-    - [Computer Architecture & Systems](#computer-architecture--systems)
-    - [High Performance Computing](#high-performance-computing)
-    - [Halls of Fame](#halls-of-fame)
-    - [Interconnects](#interconnects)
-    - [Search tools for conferences](#search-tools-for-conferences)
-  - [Communities](#communities)
-    - [Industry Organizations](#industry-organizations)
-  - [Great courses on Computer Architecture](#great-courses-on-computer-architecture)
-  - [Blogs](#blogs)
-  - [Digging Deeper](#digging-deeper)
-  - [Interesting Resources](#interesting-resources)
-  - [Other specific curated lists related to CompEngg](#other-specific-curated-lists-related-to-compengg)
+- [Conferences/Workshops](#conferencesworkshops)
+  - [Computer Architecture & Systems](#computer-architecture--systems)
+  - [High Performance Computing](#high-performance-computing)
+  - [Halls of Fame](#halls-of-fame)
+  - [Search tools for conferences](#search-tools-for-conferences)
+- [Communities](#communities)
+  - [Industry Organizations](#industry-organizations)
+- [Great courses on Computer Architecture](#great-courses-on-computer-architecture)
+  - [Video channels](#video-channels)
+- [Blogs](#blogs)
+- [Digging Deeper](#digging-deeper)
+- [Interesting Resources](#interesting-resources)
+- [Other specific curated lists related to CompEngg](#other-specific-curated-lists-related-to-compengg)
 
-## Conferences
+## Conferences/Workshops
 
-Area specific conferences are captured under their specific pages
+Area specific conferences/workshops are captured under their [specific pages](./area_specific/README.md)
 
 ### Computer Architecture & Systems
 
@@ -43,6 +39,7 @@ Area specific conferences are captured under their specific pages
 - [TACO](https://dl.acm.org/journal/taco) - ACM Transactions on Architecture and Code Optimization focuses on hardware, software, and system research spanning the fields of computer architecture and code optimization
 - [PACT](https://pact20.cc.gatech.edu/) - Conference on Parallel Architectures and Compilation Techniques
 - [NAS](http://www.nas-conference.org/NAS-2020/) - Conference on Networking, Architecture, and Storage
+- [HotOS](https://sigops.org/s/conferences/hotos/2021/) - Workshop on Hot Topics in Operating Systems
 
 ### High Performance Computing
 
@@ -65,12 +62,6 @@ Area specific conferences are captured under their specific pages
 
 State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter.com/heyelbs/status/1340497478794309633)
 ![](https://pbs.twimg.com/media/EppnBtDXEAAaLnH?format=jpg&name=large)
-
-### Interconnects
-
-- [Hot Interconnects](http://www.hoti.org/) - Symposium on High-Performance Interconnects
-- [International Symposium on Networks-on-Chip (NOCS)](https://www.engr.colostate.edu/nocs2019/) is dedicated to interdisciplinary research on on-chip, package-scale, chip-to-chip, and datacenter rack-scale communication technology, architecture, design methods, applications and systems.
-- [NoCArc](http://nocarc.org/) - Held in conjunction with MICRO, NoCArc provides a forum for researchers to  discuss implementation of multi-core systems on chip.
 
 ### Search tools for conferences
 
@@ -112,7 +103,13 @@ State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter
 - Prof. David Black-Schaffer's [lectures](https://www.youtube.com/channel/UCzf_XjIoKSf4Ve2fH7xn-3A/videos) on Virtual Memory etc.
 - [HPCA](https://www.udacity.com/course/high-performance-computer-architecture--ud007) - Prof. Milos Prvulovic covers High Performance Computer Architecture
 
+### Video channels
+
+- [Coffee before Architecture](https://www.youtube.com/channel/UCsi5-meDM5Q5NE93n_Ya7GA) - Videos covering beginner, intermediate, and advanced programming concepts, as well as things related to computer engineering and research.
+- [Talks hosted by Prof. Matthew Guthaus](https://www.youtube.com/channel/UCCB5_vo6tjp9el-PyGIRwvg/featured)
+
 ## Blogs
+
 - [Computer Architecture Today](https://www.sigarch.org/blog/)
 - [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 - [SemiEngineering](http://semiengineering.com/)
@@ -126,7 +123,7 @@ State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter
 
 ## Digging Deeper
 
-Computer Architecture is diverse and there's constant interplay between domains that are under it. Look under each of these to find specific information.
+Computer Architecture is diverse and there's constant interplay between domains that are under it. Look under each of these to find specific information or check the full list [here](./area_specific/README.md)
 
 - [Electronics](./area_specific/electronics.md)
 - [Hardware Design](./area_specific/hardware_design.md)

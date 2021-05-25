@@ -10,6 +10,7 @@ Everything about on-chip and inter-chip communication
   - [Books](#books)
   - [Misc](#misc)
 - [Industry Standards](#industry-standards)
+- [Research avenues](#research-avenues)
 
 ## OpenSource Implementations
 
@@ -65,3 +66,9 @@ Everything about on-chip and inter-chip communication
 
 - [CCIX Consortium](https://www.ccixconsortium.com/about/) - Develop and promote adoption of an industry standard specification to enable coherent interconnect technologies between general-purpose processors and acceleration devices for efficient heterogeneous computing.
 - [ARM joins CXL](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-joins-cxl-establishing-key-industry-standard-to-streamline-heterogeneous-compute?utm_source=arm&utm_medium=social&utm_campaign=2019_infrastructure-servers_mk03-2_na-&utm_term=cxl&utm_content=blog)
+
+## Research avenues
+
+- [Hot Interconnects](http://www.hoti.org/) - Symposium on High-Performance Interconnects
+- [International Symposium on Networks-on-Chip (NOCS)](https://www.engr.colostate.edu/nocs2019/) is dedicated to interdisciplinary research on on-chip, package-scale, chip-to-chip, and datacenter rack-scale communication technology, architecture, design methods, applications and systems.
+- [NoCArc](http://nocarc.org/) - Held in conjunction with MICRO, NoCArc provides a forum for researchers to  discuss implementation of multi-core systems on chip.

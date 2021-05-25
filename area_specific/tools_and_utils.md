@@ -27,6 +27,7 @@
 - [ESESC](https://github.com/masc-ucsc/esesc) - A fast multiprocessor simulator with detailed power, thermal, and performance models for modern out-of-order multicores.
 - [Multi2Sim](http://www.multi2sim.org/) - Multi2Sim is a heterogeneous system simulator of CPUs and GPUs, used to test and validate new hardware designs before they are physically manufactured.
 - [SniperSim](https://snipersim.org//w/The_Sniper_Multi-Core_Simulator) - A multi-core, parallel, high-speed and accurate x86 simulator.
+- [ZSim](https://github.com/s5z/zsim) - zsim is a fast x86-64 simulator with a focus on simulating memory hierarchies and large, heterogeneous systems
 - [MacSim](https://github.com/gthparch/macsim) - A heterogeneous architecture timing model simulator.
 - [CACTI](https://github.com/HewlettPackard/cacti) - An analytical tool that takes a set of cache/memory para-
 meters as input and calculates its access time, power, cycle time, and area.
@@ -47,6 +48,7 @@ meters as input and calculates its access time, power, cycle time, and area.
 
 #### 1.1.3. Micro-architecture/ISA simulators
 
+- [ChampSim](https://github.com/ChampSim/ChampSim) - ChampSim is a trace-based simulator for a microarchitecture study.
 - [Mastik](https://cs.adelaide.edu.au/~yval/Mastik/)  - A Micro-Architectural Side-Channel Toolkit
 - [Venus](https://github.com/kvakil/venus) - Venus is a RISC-V instruction set simulator built for education.
 - [Ripes](https://github.com/mortbopet/Ripes) - Ripes is a visual computer architecture simulator and assembly code editor built for the RISC-V ISA.
@@ -59,13 +61,13 @@ meters as input and calculates its access time, power, cycle time, and area.
 - [VANS](https://github.com/TheNetAdmin/VANS) - A validated NVRAM simulator
 - [LENS](https://github.com/TheNetAdmin/LENS) - A Low-level NVRAM Profiler
 - [NVMain](https://github.com/SEAL-UCSB/NVmain) -  An Architectural Level Main Memory Simulator for Emerging Non-Volatile Memories
-- [ZSim](https://github.com/s5z/zsim) - zsim is a fast x86-64 simulator with a focus on simulating memory hierarchies and large, heterogeneous systems
 - [Cache simulator](https://github.com/CoffeeBeforeArch/cache_simulator) - A simple trace-based cache simulator
 - [DRAMSim2](https://github.com/umd-memsys/DRAMSim2) - A cycle accurate DRAM simulator
 - [ARM Consistency Memory Model](https://developer.arm.com/architectures/cpu-architecture/a-profile/memory-model-tool) - The herd tool allows the user to execute the model with a specific question about the possible final states of the program using ARM consistency memory model.
 - [MQSim](https://github.com/CMU-SAFARI/MQSim) - A Simulator for Modern NVMe and SATA SSDs
 - [VAMPIRE](https://github.com/CMU-SAFARI/VAMPIRE) - Variation-Aware model of Memory Power Informed by Real Experiments is an open-source DRAM power model based on an extensive experimental characterization of the power consumption of real DRAM modules.
 - [RAMulator](https://github.com/CMU-SAFARI/ramulator) - Ramulator is a fast and cycle-accurate DRAM simulator [1] that supports a wide array of commercial, as well as academic, DRAM standards
+- [Intel TSX MESI Cache simulator](https://www.scss.tcd.ie/Jeremy.Jones/VivioJS/caches/TSX.htm) - Animations to illustrate cache behavior
 
 #### 1.1.5. Interconnect Simulators
 
@@ -120,6 +122,7 @@ meters as input and calculates its access time, power, cycle time, and area.
 - [LLHD](http://www.llhd.io/) - is an intermediate representation for digital circuit descriptions, together with an accompanying simulator and SystemVerilog/VHDL compiler.
 - [TerosHDL](https://github.com/TerosTechnology/terosHDL) - It is a  open source IDE to make FPGA development easier
 - [OpenLane](https://github.com/efabless/openlane) - Automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
+- [DREAMPlace](https://github.com/limbo018/DREAMPlace) - Deep learning toolkit-enabled VLSI placement
 
 #### 1.2.1. Digital/Analog Simulators
 
@@ -172,6 +175,8 @@ meters as input and calculates its access time, power, cycle time, and area.
 - [Jeff's ASIC tools](http://www.kwcpa.com/tools/) - Useful tools for working with HDL
 - [Static Timing Analysis Diagram Renderer](https://github.com/drom/sta) - Altera Quartus/ Icestorm report parser
 - [Bitfield/Register representations](https://observablehq.com/@drom/bitfield-testbox) - Editable examples of registers
+- [Verible](https://github.com/google/verible) - Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, and formatter.
+- [svinst](https://github.com/sgherbst/svinst) - This tool takes a SystemVerilog file as input and produces as output the module(s) declared in that file, along with the module(s) instantiated in each one of those module declarations. It uses sv-parser and is adapted from svlint.
 
 ## 3. Misc
 

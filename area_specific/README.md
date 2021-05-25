@@ -11,13 +11,15 @@ Increasing order of abstraction in Computer Systems:
 - [Interconnects](./interconnects.md)
 - [Accelerators](./accelerators.md)
 - [Hardware-Software Interface](./hw_sw.md)
-- [Storage Systems](./storage.md)
+- [Memory and Storage Systems](./memory.md)
 - [Computer Programming(Compilers,DSA and more)](./programming.md)
 - [Parallel Computing](./parallel.md)
 - [Operating Systems](./os.md)
 - [Performance](./performance.md)
 - [Distributed Systems](./distributed_systems.md)
 - [High Performance Computing](./hpc.md)
+- [Computer Systems](./systems.md)
+- [Systems for ML](./mlsys.md) A new area is emerging at the intersection of artificial intelligence, machine learning, and systems design
 
 - [Tools, Utilities, Simulators, Emulators and more](./tools_and_utils.md)
 

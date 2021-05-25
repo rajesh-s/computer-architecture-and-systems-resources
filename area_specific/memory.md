@@ -5,6 +5,7 @@
 - [Persistent/Non Volatile Memory](#persistentnon-volatile-memory)
   - [Learning resources](#learning-resources)
   - [Projects/Frameworks](#projectsframeworks)
+- [Research avenues](#research-avenues)
 
 ## Resources
 
@@ -24,7 +25,12 @@
 - [Persistent Memory Programming book](https://pmem.io/)
 - [Overview of DCPMM presented by Arafa, Intel](https://www.youtube.com/watch?v=BShO6h8Lc1s)
 - [NVDIMM Primer](https://thessdguy.com/an-nvdimm-primer-part-1-of-2/)
+- [Emerging standalone NVM](https://community.arm.com/developer/research/b/articles/posts/emerging-standalone-nvm-moving-beyond-the-hype?utm_source=linkedin&utm_medium=social&utm_campaign=2019_na_na_na-&utm_term=na&utm_content=blog)
 
 ### Projects/Frameworks
 
 - [PMDK](https://pmem.io/pmdk/) - Collection of libraries and tools. Tuned and validated on both Linux and Windows, the libraries build on the DAX feature of those operating systems (short for Direct Access) which allows applications to access persistent memory as memory-mapped files, as described in the SNIA NVM Programming Model.
+
+## Research avenues
+
+- [SYSTOR](https://www.systor.org/2021/) - ACM Storage and Systems Conference
