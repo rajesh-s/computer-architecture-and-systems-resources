@@ -121,6 +121,11 @@ State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter
 - [TechInsights](https://www.techinsights.com/) - Die shots, analysis, reverse engineering and more
 - [Coffee Before Architecture](https://coffeebeforearch.github.io/)
 
+## Podcasts
+- [Computer Architecture Podcast](https://comparchpodcast.podbean.com/)
+- [Happy Hour with Architects](https://www.youtube.com/channel/UC2iMjxGk-DU6hhcRxCHZbrw/featured)
+
+
 ## Digging Deeper
 
 Computer Architecture is diverse and there's constant interplay between domains that are under it. Look under each of these to find specific information or check the full list [here](./area_specific/README.md)
