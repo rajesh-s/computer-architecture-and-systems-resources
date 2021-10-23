@@ -7,6 +7,18 @@ A curated catalogue of Computer Engineering/Computer Architecture/Computer Syste
 </p>
 
  [`The special charm of Computer Engineering is there's a relatively good understanding of abstraction layers. - Jim Keller`](https://www.happyscribe.com/public/lex-fridman-podcast-artificial-intelligence-ai/jim-keller-moore-s-law-microprocessors-abstractions-and-first-principles#paragraph_258?utm_source=public_transcript&utm_medium=paragraph&utm_campaign=public_promo)
+ 
+The six ideas in Computer Architecture - [Prof. Trevor Mudge](https://tnm.engin.umich.edu/)
+
+```
+Surprisingly, there are only six distinct concepts used to design computers, apart from technology advances, that reappear in many guises over and over again: 
+Locality – spatial & temporal, e.g. caches
+Prediction – no state change, e.g. branch prediction
+Speculation – state change, e.g. prefetching
+Indirection, e.g. virtualization
+Parallelism, e.g. pipelining, OoO, vectors
+Specialization, e.g. GPUs, accelerators
+```
 
 **Table of Contents**
 
@@ -105,6 +117,7 @@ State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter
 
 ### Video channels
 
+- [TSMC and semiconductor engineering: 101](https://www.youtube.com/watch?v=GU87SH5e0eI)
 - [Coffee before Architecture](https://www.youtube.com/channel/UCsi5-meDM5Q5NE93n_Ya7GA) - Videos covering beginner, intermediate, and advanced programming concepts, as well as things related to computer engineering and research.
 - [Talks hosted by Prof. Matthew Guthaus](https://www.youtube.com/channel/UCCB5_vo6tjp9el-PyGIRwvg/featured)
 
@@ -124,7 +137,6 @@ State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter
 ## Podcasts
 - [Computer Architecture Podcast](https://comparchpodcast.podbean.com/)
 - [Happy Hour with Architects](https://www.youtube.com/channel/UC2iMjxGk-DU6hhcRxCHZbrw/featured)
-
 
 ## Digging Deeper
 
