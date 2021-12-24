@@ -2,6 +2,7 @@
 
 - [Chip-level](#chip-level)
   - [Tools](#tools)
+  - [Good Reads](#good-reads)
   - [Resources](#resources)
     - [Articles](#articles)
 - [System-level](#system-level)
@@ -17,6 +18,10 @@
 ### Tools
 
 - [MachSuite](https://github.com/breagen/MachSuite) - MachSuite is a benchmark suite intended for accelerator-centric research.
+
+### Good Reads
+
+- [Prof. Mark Hill note argues for more use of simple models beyond Amdahl's Law: Bottleneck Analysis, Little's Law, and a M/M/1 Queue.](https://arxiv.org/abs/1901.02926)
 
 ### Resources
 

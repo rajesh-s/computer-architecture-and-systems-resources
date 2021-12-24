@@ -49,6 +49,7 @@ Everything about processors
 ## ISA
 
 - [Great ISAs](https://www.cs.cornell.edu/courses/cs7491/2020sp/)
+- [Floating Point Visually Explained](https://fabiensanglard.net/floating_point_visually_explained/)
 
 ## Interesting resources
 

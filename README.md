@@ -34,6 +34,7 @@ Specialization, e.g. GPUs, accelerators
 - [Great courses on Computer Architecture](#great-courses-on-computer-architecture)
   - [Video channels](#video-channels)
 - [Blogs](#blogs)
+- [Podcasts](#podcasts)
 - [Digging Deeper](#digging-deeper)
 - [Interesting Resources](#interesting-resources)
 - [Other specific curated lists related to CompEngg](#other-specific-curated-lists-related-to-compengg)
@@ -135,6 +136,7 @@ State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter
 - [Coffee Before Architecture](https://coffeebeforearch.github.io/)
 
 ## Podcasts
+
 - [Computer Architecture Podcast](https://comparchpodcast.podbean.com/)
 - [Happy Hour with Architects](https://www.youtube.com/channel/UC2iMjxGk-DU6hhcRxCHZbrw/featured)
 
@@ -175,6 +177,7 @@ Computer Architecture is diverse and there's constant interplay between domains 
 - [Which machines do Computer Architects admire?](https://people.cs.clemson.edu/~mark/admired_designs.html)
 - [Moore's law till date](http://www.transistorcount.com/) - Counting transistors
 - [AI Chip Landscape in 2020](https://github.com/basicmi/AI-Chip) - A list of ICs and IPs for AI, Machine Learning and Deep Learning.
+- [Animations for concepts in Computer Architecture](https://www.scss.tcd.ie/Jeremy.Jones/VivioJS/)
 
 ## Other specific curated lists related to CompEngg
 
