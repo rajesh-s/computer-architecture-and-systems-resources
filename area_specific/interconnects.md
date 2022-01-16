@@ -41,6 +41,7 @@ Everything about on-chip and inter-chip communication
 
 ### Articles
 
+- [How PCI-Express works and why you should care?](https://blog.ovhcloud.com/how-pci-express-works-and-why-you-should-care-gpu/)
 - [Flexibly Scalable High Performance Architectures with Embedded Photonics](https://insidehpc.com/2019/07/flexibly-scalable-high-performance-architectures-with-embedded-photonics/)
 - [Interconnect Prominence In Fail-Operational Architectures](https://semiengineering.com/interconnect-prominence-in-fail-operational-architectures/)
 - [AXI verification](http://zipcpu.com/formal/2019/09/06/axi-story.html)

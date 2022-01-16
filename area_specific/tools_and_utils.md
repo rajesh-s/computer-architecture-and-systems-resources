@@ -29,8 +29,7 @@
 - [SniperSim](https://snipersim.org//w/The_Sniper_Multi-Core_Simulator) - A multi-core, parallel, high-speed and accurate x86 simulator.
 - [ZSim](https://github.com/s5z/zsim) - zsim is a fast x86-64 simulator with a focus on simulating memory hierarchies and large, heterogeneous systems
 - [MacSim](https://github.com/gthparch/macsim) - A heterogeneous architecture timing model simulator.
-- [CACTI](https://github.com/HewlettPackard/cacti) - An analytical tool that takes a set of cache/memory para-
-meters as input and calculates its access time, power, cycle time, and area.
+- [CACTI](https://github.com/HewlettPackard/cacti) - An analytical tool that takes a set of cache/memory parameters as input and calculates its access time, power, cycle time, and area.
 - [WATTCH](http://www.eecs.harvard.edu/~dbrooks/wattch-form.html) - Architectural simulator that estimates CPU power consumption. [Example](http://www.ecs.umass.edu/ece/koren/architecture/ETCache/tools_used.html)
 - [HotSpot](http://lava.cs.virginia.edu/HotSpot/) -  An accurate and fast thermal model suitable for use in architectural studies.
 - [SESC](http://sesc.sourceforge.net/) - SuperScalar simulator is a cycle accurate architectural simulator that models a very wide set of architectures: single processors, CMPs, PIMs, and thread level speculation.
@@ -55,9 +54,11 @@ meters as input and calculates its access time, power, cycle time, and area.
 - [WinMIPS64](http://indigo.ie/~mscott/) - WinMIPS64 is an instruction set simulator, and is designed as a replacement for the popular Microsoft Windows utility WinDLX
 - [Whisper](https://github.com/chipsalliance/SweRV-ISS) - RISCV instruction set simulator (ISS) developed for the verification of the Swerv micro-controller. It allows the user to run RISCV code without RISCV hardware.
 - [CompilerExplorer](https://godbolt.org/)
+- [The uops.info Code Analyzer](https://uica.uops.info/)
 
 #### 1.1.4. Memory Simulators
 
+- [PyCacheSim](https://github.com/RRZE-HPC/pycachesim) - Accurately simulate the caching (allocation/hit/miss/replace/evict) behavior of all cache levels found in modern processors
 - [VANS](https://github.com/TheNetAdmin/VANS) - A validated NVRAM simulator
 - [LENS](https://github.com/TheNetAdmin/LENS) - A Low-level NVRAM Profiler
 - [NVMain](https://github.com/SEAL-UCSB/NVmain) -  An Architectural Level Main Memory Simulator for Emerging Non-Volatile Memories

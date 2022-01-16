@@ -6,12 +6,12 @@
   - [Resources](#resources)
     - [Articles](#articles)
 - [System-level](#system-level)
-  - [Resources](#resources-1)
-    - [Articles](#articles-1)
-    - [Tools](#tools-1)
+  - [Articles](#articles-1)
+  - [Tools](#tools-1)
+  - [Benchmarks](#benchmarks)
 - [Programming & Optimization](#programming--optimization)
   - [Tools](#tools-2)
-  - [Resources](#resources-2)
+  - [Resources](#resources-1)
 
 ## Chip-level
 
@@ -34,9 +34,7 @@
 
 ## System-level
 
-### Resources
-
-#### Articles
+### Articles
 
 - [How much bandwidth does the L2 have to give, anyway?](https://github.com/travisdowns/uarch-bench/wiki/How-much-bandwidth-does-the-L2-have-to-give,-anyway%3F)
 - [Every 7.8μs your computer’s memory has a hiccup](https://blog.cloudflare.com/every-7-8us-your-computers-memory-has-a-hiccup/)
@@ -45,10 +43,15 @@
 - [Performance variations in 2386 identical processors](http://shape-of-code.coding-guidelines.com/2020/01/05/performance-variation-in-2386-identical-processors/)
 - [Memory Bandwidth: Napkin math](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
 
-#### Tools
+### Tools
 
 - [nanoBench](http://www.uops.info) - A tool for running small microbenchmarks on recent Intel and AMD x86 CPUs using hardware performance coutners. [Github](https://github.com/andreas-abel/nanoBench)
 - [CPU Benchmark results](https://www.anandtech.com/bench/CPU-2019/2605)
+- [kerncraft](https://github.com/RRZE-HPC/kerncraft) - This tool allows automatic analysis of loop kernels using the Execution Cache Memory (ECM) model, the Roofline model and actual benchmarks. kerncraft provides a framework to investigate the data reuse and cache requirements by static code analysis. In combination with the Intel IACA tool kerncraft can give a good overview of both in-core and memory bottlenecks and use that data to apply performance models.
+
+### Benchmarks
+
+- [CHAI](https://chai-benchmarks.github.io/) - Chai is a benchmark suite of Collaborative Heterogeneous Applications for Integrated-architectures. The Chai benchmarks are designed to use the latest features of heterogeneous architectures such as shared virtual memory and system-wide atomics to achieve efficient simultaneous collaboration between host and accelerator devices.
 
 ## Programming & Optimization
 
