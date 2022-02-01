@@ -139,6 +139,8 @@ State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter
 
 - [Computer Architecture Podcast](https://comparchpodcast.podbean.com/)
 - [Happy Hour with Architects](https://www.youtube.com/channel/UC2iMjxGk-DU6hhcRxCHZbrw/featured)
+- [TLB hit](https://tlbh.it)
+- [Signals and Threads](https://signalsandthreads.com/)
 
 ## Digging Deeper
 
