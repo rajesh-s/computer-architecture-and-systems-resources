@@ -44,6 +44,7 @@
 - [FireSim](https://fires.im) - FireSim is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs
 - [MPGPUSim](https://gitlab.com/akita/mgpusim/-/tree/master) - MGPUSim is a Go based AMD GCN3 GPU simulator based-on the Akita framework.
 - [SCALESim](https://github.com/ARM-software/SCALE-Sim) - SCALE sim is a CNN accelerator simulator, that provides cycle-accurate timing, power/energy, memory bandwidth and trace results for a specified accelerator configuration and neural network architecture.
+- [STONNE](https://github.com/stonne-simulator/stonne) - Simulation TOol of Neural Network Engines, a cycle-level, highly-modular and highly-extensible simulation framework that can plug into any high-level DNN framework as an accelerator device and perform end-to-end evaluation of flexible accelerator microarchitectures with sparsity support, running complete DNN models.
 
 #### 1.1.3. Micro-architecture/ISA simulators
 

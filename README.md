@@ -183,6 +183,8 @@ Computer Architecture is diverse and there's constant interplay between domains 
 
 ## Other specific curated lists related to CompEngg
 
+- [awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - A curated list of awesome open source hardware tools.
+- [awesome-semiconductor-startups](https://github.com/aolofsson/awesome-semiconductor-startups) - A curated list of awesome semiconductor startups.
 - [Deep Learning Hardware resources](https://github.com/RaviVijay/awesome-dl-hw-resources) A curated list of awesome hardware/chip design resources for deep learning
 - [HGPU](https://hgpu.org/) - Resources for HPC on graphics processing units
 - [Awesome-HDL](https://github.com/drom/awesome-hdl) A curated list of amazingly awesome hardware description language projects.

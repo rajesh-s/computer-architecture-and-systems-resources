@@ -2,6 +2,7 @@
 
 - [Resources](#resources)
   - [Projects](#projects)
+  - [Articles](#articles)
 - [Persistent/Non Volatile Memory](#persistentnon-volatile-memory)
   - [Learning resources](#learning-resources)
   - [Projects/Frameworks](#projectsframeworks)
@@ -17,6 +18,11 @@
 ### Projects
 
 - [HSE: Heterogeneous-Memory Storage Engine](https://github.com/hse-project/hse) - HSE is an embeddable key-value store designed for SSDs based on NAND flash or persistent memory. HSE optimizes performance and endurance by orchestrating data placement across DRAM and multiple classes of SSDs or other solid-state storage.
+
+### Articles
+
+- [DRAM Modeling](https://www.adityaagrawal.net/blog/architecture/dram)
+- [Understanding and Implementing DRAM Timings](https://www.adityaagrawal.net/blog/architecture/dram_timing)
 
 ## Persistent/Non Volatile Memory
 

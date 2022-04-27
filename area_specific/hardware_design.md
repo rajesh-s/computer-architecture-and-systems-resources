@@ -66,9 +66,12 @@
 - [Lessons in Hardware Reuse](https://zipcpu.com/blog/2020/01/13/reuse.html)
 - [Libre Silicon Project](https://libresilicon.com/) - An open source semiconductor manufacturing process standard
 - [Discussion on Lowlevel LLVM-like language as HDL middle layer](https://github.com/SymbiFlow/ideas/issues/19)
+- [Floating point representation](https://people.ece.cornell.edu/land/courses/ece5760/FloatingPoint/index.html)
+- [Floating Point arithmetic in verilog](https://www.ece.lsu.edu/ee3755/2012f/l08.v.html)
 
 ### 2.2. Courses & Tutorials
 
+- [SoC Design course](https://nanohub.org/courses/ECE695R/o1a)
 - [Verilog For Dummies workshop](https://github.com/chipforge/Verilog-for-Dummies)
 - [Verilog, Formal Verification and Verilator Beginner's Tutorial](http://zipcpu.com/tutorial/#training)
 - [ASIC Verilog](http://asic-world.com/verilog/veritut.html)
