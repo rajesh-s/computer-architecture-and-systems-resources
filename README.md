@@ -96,6 +96,7 @@ State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter
 - [Eurolab4HPC](https://www.eurolab4hpc.eu/) - To strengthen academic research excellence and innovation in HPC in Europe
 - [PRACE](https://prace-ri.eu/) - Partnership for Advanced computing in Europe
 - [CASA](https://www.comparchsa.org/join/index.html) - Computer Architecture Student Association
+- [Students@Systems](https://students-at-systems.org/) -  Group of students that organizes talks, podcasts, and panels within the systems community.
 
 ### Industry Organizations
 
