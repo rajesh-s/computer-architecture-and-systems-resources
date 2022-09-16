@@ -5,10 +5,10 @@
 - [1. Chip Design \(ASIC/SoC\)](#1-chip-design-asicsoc)
   - [1.1. Analog Design](#11-analog-design)
   - [1.2. Digital Design](#12-digital-design)
-  - [Beyond Moore's Law](#beyond-moores-law)
-  - [1.3. Open Source Implementations](#13-open-source-implementations)
-    - [1.3.1. Open Core Collections](#131-open-core-collections)
-    - [1.3.2. Elements](#132-elements)
+    - [1.2.1. Beyond Moore's Law](#121-beyond-moores-law)
+    - [1.2.2. Open Source Implementations](#122-open-source-implementations)
+      - [1.2.2.1. Open Core Collections](#1221-open-core-collections)
+      - [1.2.2.2. Elements](#1222-elements)
 - [2. Resources](#2-resources)
   - [2.1. Articles](#21-articles)
   - [2.2. Courses & Tutorials](#22-courses--tutorials)
@@ -29,21 +29,21 @@
 
 ### 1.2. Digital Design
 
-### Beyond Moore's Law
+#### 1.2.1. Beyond Moore's Law
 
 - [Neural Algorithms and Computing Beyond Moore's Law](https://cacm.acm.org/magazines/2019/4/235577-neural-algorithms-and-computing-beyond-moores-law/fulltext)
 - [Reprogrammable Molecular Computing System](https://www.caltech.edu/about/news/computer-scientists-create-reprogrammable-molecular-computing-system)
 
-### 1.3. Open Source Implementations
+#### 1.2.2. Open Source Implementations
 
-#### 1.3.1. Open Core Collections
+##### 1.2.2.1. Open Core Collections
 
 - [OpenCores](https://opencores.org/) - OpenCores is the most prominent online community for the development of gateware IP (Intellectual Properties) Cores.
 - [LibreCores](https://www.librecores.org/) - A "LibreCore" is such an IP core that is created and distributed in the open source spirit.
 - [OpenTitan](https://github.com/lowrisc/opentitan) - OpenTitan will make the silicon RoT design and implementation more transparent, trustworthy, and secure for enterprises, platform providers, and chip manufacturers.
 - [CHIPS Alliance](https://github.com/chipsalliance) - Common Hardware for Interfaces, Processors and Systems
 
-#### 1.3.2. Elements
+##### 1.2.2.2. Elements
 
 - [Basic Common SV Modules](https://github.com/taichi-ishitani/tbcm) - FIFO, onehot, round robin Arbiter etc.
 - [Ethernet 1G/100M/10M Core](https://github.com/lewiz-support/LMAC_CORE1) - Open source Ethernet Core 1
@@ -68,6 +68,7 @@
 - [Discussion on Lowlevel LLVM-like language as HDL middle layer](https://github.com/SymbiFlow/ideas/issues/19)
 - [Floating point representation](https://people.ece.cornell.edu/land/courses/ece5760/FloatingPoint/index.html)
 - [Floating Point arithmetic in verilog](https://www.ece.lsu.edu/ee3755/2012f/l08.v.html)
+- [RTL 3bit rules](https://www.autonomousvision.io/blog/rtl-design-3-bit-rules)
 
 ### 2.2. Courses & Tutorials
 

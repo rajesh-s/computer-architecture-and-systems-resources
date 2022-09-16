@@ -56,6 +56,7 @@
 - [Whisper](https://github.com/chipsalliance/SweRV-ISS) - RISCV instruction set simulator (ISS) developed for the verification of the Swerv micro-controller. It allows the user to run RISCV code without RISCV hardware.
 - [CompilerExplorer](https://godbolt.org/)
 - [The uops.info Code Analyzer](https://uica.uops.info/)
+- [SIMD Giraffe](https://pmntang.github.io/SIMDGiraffe/#/) - Break down x86 SIMD instructions
 
 #### 1.1.4. Memory Simulators
 
@@ -83,6 +84,7 @@
 - [MLPerf](https://mlcommons.org/en/training-normal-07/) - Consistent measurements of accuracy, speed, and efficiency on hardware for ML workloads
 - [tp-parsec](https://github.com/massivethreads/tp-parsec) - Task-Parallel PARSEC
 - [VTune™ Profiler Performance Analysis Cookbook](https://software.intel.com/content/www/us/en/develop/documentation/vtune-cookbook/top.html)
+- [Google Workload Traces](https://dynamorio.org/google_workload_traces.html) - Warehouse scale traces captured using DynamoRIO's drmemtrace. The traces are records of instruction and memory accesses as described at Trace Format
 
 ### 1.2. Open Source Tools for Digital Design
 
@@ -125,6 +127,7 @@
 - [TerosHDL](https://github.com/TerosTechnology/terosHDL) - It is a  open source IDE to make FPGA development easier
 - [OpenLane](https://github.com/efabless/openlane) - Automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
 - [DREAMPlace](https://github.com/limbo018/DREAMPlace) - Deep learning toolkit-enabled VLSI placement
+- [SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler) - A modular build system for hardware ("make for silicon"). The project philosophy is to "make the complex possible while keeping the simple simple".
 
 #### 1.2.1. Digital/Analog Simulators
 
@@ -153,6 +156,7 @@
 - [Emulator for Ben Eater's 8bit computer](https://fizzgig.itch.io/8-bit-breadboard-computer)
 - [8bit Chip Emulator](https://github.com/floooh/chips) - A toolbox of 8-bit chip-emulators, helper code and complete embeddable system emulators
 - [Little Man Computer](https://peterhigginson.co.uk/lmc/) - Very simple Von Neumann Architecture Computer. Similar [RISC](https://peterhigginson.co.uk/RISC/)
+- [Blinken Lights](https://justine.lol/blinkenlights/) - a command line debugger that focuses on visualizing how software changes memory. It's able to emulate statically linked i8086 and x86_64-pc-linux-gnu programs
 
 ## 2. Utilities
 
