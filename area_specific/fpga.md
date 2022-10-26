@@ -22,6 +22,7 @@
 - [FPGA Boards list](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
 - [FPGA in Finance blog](https://fpgainfinance.com/what-are-fpgas/) - What are FPGAs?
 - [Getting started with FPGA](https://github.com/lastweek/FPGA) - This repository is intended for folks who are new and want to learn something about FPGA. This repository is a collection of useful resources and links rather than a thorough FPGA tutorial.
+- [FPGA timing](youtube.com/playlist?app=desktop&list=PLx-Ml26M7ApIfR5VF0B7LKx0NYqMJ7GR4)
 
 ## 2. Frameworks
 

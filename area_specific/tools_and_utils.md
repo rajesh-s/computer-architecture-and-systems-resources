@@ -7,7 +7,7 @@
     - [1.1.3. Micro-architecture/ISA simulators](#113-micro-architectureisa-simulators)
     - [1.1.4. Memory Simulators](#114-memory-simulators)
     - [1.1.5. Interconnect Simulators](#115-interconnect-simulators)
-    - [1.1.6. Benchmarking](#116-benchmarking)
+    - [1.1.6. Benchmarking/Profiling](#116-benchmarkingprofiling)
   - [1.2. Open Source Tools for Digital Design](#12-open-source-tools-for-digital-design)
     - [1.2.1. Digital/Analog Simulators](#121-digitalanalog-simulators)
   - [1.3. Emulators](#13-emulators)
@@ -79,12 +79,13 @@
 - [Noxim](https://github.com/davidepatti/noxim) - Network-on-Chip Simulator
 - [NIRGAM](http://nirgam.ecs.soton.ac.uk/) - A Simulator for NoC Interconnect Routing and Application Modeling
 
-#### 1.1.6. Benchmarking
+#### 1.1.6. Benchmarking/Profiling
 
 - [MLPerf](https://mlcommons.org/en/training-normal-07/) - Consistent measurements of accuracy, speed, and efficiency on hardware for ML workloads
 - [tp-parsec](https://github.com/massivethreads/tp-parsec) - Task-Parallel PARSEC
 - [VTune™ Profiler Performance Analysis Cookbook](https://software.intel.com/content/www/us/en/develop/documentation/vtune-cookbook/top.html)
 - [Google Workload Traces](https://dynamorio.org/google_workload_traces.html) - Warehouse scale traces captured using DynamoRIO's drmemtrace. The traces are records of instruction and memory accesses as described at Trace Format
+- [Utility for Core to Core latency measurements](https://github.com/nviennot/core-to-core-latency)
 
 ### 1.2. Open Source Tools for Digital Design
 
@@ -190,3 +191,4 @@
 - [Hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [Scastie](https://scastie.scala-lang.org/) - Playground for Chisel 3: A Modern Hardware Design Language
 - [vcdMaker](https://vcdmaker.org/) - Open application for translating text log files into the VCD (Variable Change Dump) format files. It is supposed to help you to debug your applications and systems
+- [ImHex](https://github.com/WerWolv/ImHex) -  A Hex Editor for Reverse Engineers, Programmers
