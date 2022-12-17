@@ -3,8 +3,9 @@
 A curated catalogue of Computer Engineering/Computer Architecture/Computer Systems resources
 
 <p align="center">
-  <img width="50%" height="50%" src="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/MSc_Computer_Engineering/PastedGraphic-2.jpg">
+  <img width="50%" height="50%" src="./graphic.jpg">
 </p>
+(Image Source](https://www.tudelft.nl/en/education/programmes/masters/msc-computer-embedded-systems-engineering)
 
  [`The special charm of Computer Engineering is there's a relatively good understanding of abstraction layers. - Jim Keller`](https://www.happyscribe.com/public/lex-fridman-podcast-artificial-intelligence-ai/jim-keller-moore-s-law-microprocessors-abstractions-and-first-principles#paragraph_258?utm_source=public_transcript&utm_medium=paragraph&utm_campaign=public_promo)
  
@@ -25,7 +26,7 @@ Specialization, e.g. GPUs, accelerators
 [Direct link to the page on simulators](./area_specific/tools_and_utils.md)
 
 - [Conferences/Workshops](#conferencesworkshops)
-  - [Computer Architecture & Systems](#computer-architecture--systems)
+  - [Computer Architecture \& Systems](#computer-architecture--systems)
   - [High Performance Computing](#high-performance-computing)
   - [Halls of Fame](#halls-of-fame)
   - [Search tools for conferences](#search-tools-for-conferences)
