@@ -5,7 +5,8 @@ A curated catalogue of Computer Engineering/Computer Architecture/Computer Syste
 <p align="center">
   <img width="50%" height="50%" src="./graphic.jpg">
 </p>
-(Image Source](https://www.tudelft.nl/en/education/programmes/masters/msc-computer-embedded-systems-engineering)
+
+[Image Source](https://www.tudelft.nl/en/education/programmes/masters/msc-computer-embedded-systems-engineering)
 
  [`The special charm of Computer Engineering is there's a relatively good understanding of abstraction layers. - Jim Keller`](https://www.happyscribe.com/public/lex-fridman-podcast-artificial-intelligence-ai/jim-keller-moore-s-law-microprocessors-abstractions-and-first-principles#paragraph_258?utm_source=public_transcript&utm_medium=paragraph&utm_campaign=public_promo)
  
