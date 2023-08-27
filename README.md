@@ -29,15 +29,16 @@ Specialization, e.g. GPUs, accelerators
 - [Conferences/Workshops](#conferencesworkshops)
   - [Computer Architecture \& Systems](#computer-architecture--systems)
   - [High Performance Computing](#high-performance-computing)
+  - [Machine Learning Systems](#machine-learning-systems)
   - [Halls of Fame](#halls-of-fame)
   - [Search tools for conferences](#search-tools-for-conferences)
+- [Digging Deeper](#digging-deeper)
 - [Communities](#communities)
   - [Industry Organizations](#industry-organizations)
 - [Great courses on Computer Architecture](#great-courses-on-computer-architecture)
   - [Video channels](#video-channels)
 - [Blogs](#blogs)
 - [Podcasts](#podcasts)
-- [Digging Deeper](#digging-deeper)
 - [Interesting Resources](#interesting-resources)
 - [Other specific curated lists related to CompEngg](#other-specific-curated-lists-related-to-compengg)
 
@@ -68,6 +69,11 @@ Area specific conferences/workshops are captured under their [specific pages](./
 - [ICS](https://ics2020.bsc.es/) - ACM International Conference on Supercomputing of research results in HPC systems
 - [HPCKP](https://hpckp.org/) - HPC Knowledge meeting to share expertise and strategies in High-Performance Computing, Data Analysis, and Artificial Intelligence.
 
+### Machine Learning Systems
+
+- [MLSYS](https://mlsys.org/) - Conference on Machine Learning and Systems
+- [ASSYST](https://sites.google.com/view/assyst?pli=1) - Architecture and System Support for Transformer Models
+
 ### Halls of Fame
 
 - [SOSP/OSDI](https://www.cs.utexas.edu/~vijay/hall.html) - Systems Research
@@ -86,6 +92,27 @@ State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter
 - [CORE Rankings](http://portal.core.edu.au/conf-ranks/?search=architecture&by=all&source=CORE2020&sort=arank&page=1)
 - [NSF Funding](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=%22NoC%22+%22on-chip%22+%22network-on-chip%22+%22networks-on-chip%22+%22interconnection+network%22&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=) - The NSF site provides a great filtering tool to list NSF funded projects, PIs in specific areas. A good tool to follow active research trends in areas of your interest. Here's an example for NoC/interconnection networks.
 
+## Digging Deeper
+
+Computer Architecture is diverse and there's interplay between domains that are under it. Look under each of these pages to find specific information or check the full list [here](./area_specific/README.md)
+
+- [Tools, Utilities, Simulators, Emulators and more](./area_specific/tools_and_utils.md)
+
+- [Systems for Machine Learning](./area_specific/mlsys.md)
+- [High Performance Computing](./area_specific/hpc.md)
+- [Systems](./area_specific/systems.md)
+- [Performance](./area_specific/performance.md)
+- [Parallel Computing](./area_specific/parallel.md)
+- [Operating Systems](./area_specific/os.md)
+- [Computer Programming(Compilers, DSA and more)](./area_specific/programming.md)
+- [Hardware-Software Interface](./area_specific/hw_sw.md)
+- [Accelerators](./area_specific/accelerators.md)
+- [Hardware Design](./area_specific/hardware_design.md)
+- [FPGA](./area_specific/fpga.md)
+- [Processors](./area_specific/processors.md)
+- [Interconnects](./area_specific/interconnects.md)
+- [Electronics](./area_specific/electronics.md)
+
 ## Communities
 
 - [ACM](https://www.acm.org/) Association for Computing Machinery
@@ -93,12 +120,12 @@ State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter
 - [SIGHPC](http://www.sigcas.org/) - Special interest groupt for HPC
 - [SIGMICRO](http://www.sigmicro.org/) - The ACM Special Interest Group on Microarchitecture
 - [Semiconductor Research Coroportation](https://www.src.org/)
-- [OpenCAPI](https://opencapi.org/) - Open Coherent Accelerator Processor Interface
 - [ITRS](http://www.itrs2.net/) - International Technology Roadmap for semiconductors
 - [Eurolab4HPC](https://www.eurolab4hpc.eu/) - To strengthen academic research excellence and innovation in HPC in Europe
 - [PRACE](https://prace-ri.eu/) - Partnership for Advanced computing in Europe
 - [CASA](https://www.comparchsa.org/join/index.html) - Computer Architecture Student Association
 - [Students@Systems](https://students-at-systems.org/) -  Group of students that organizes talks, podcasts, and panels within the systems community.
+- [MLCommons](https://mlcommons.org/en/) - A collaborative engineering organization focused on developing the AI ecosystem through benchmarks, public datasets, and research.
 
 ### Industry Organizations
 
@@ -144,25 +171,6 @@ State of Computer Architecture Conferences: [Source: Elba Garza](https://twitter
 - [Happy Hour with Architects](https://www.youtube.com/channel/UC2iMjxGk-DU6hhcRxCHZbrw/featured)
 - [TLB hit](https://tlbh.it)
 - [Signals and Threads](https://signalsandthreads.com/)
-
-## Digging Deeper
-
-Computer Architecture is diverse and there's constant interplay between domains that are under it. Look under each of these to find specific information or check the full list [here](./area_specific/README.md)
-
-- [Electronics](./area_specific/electronics.md)
-- [Hardware Design](./area_specific/hardware_design.md)
-- [FPGA](./area_specific/fpga.md)
-- [Processors](./area_specific/processors.md)
-- [Interconnects](./area_specific/interconnects.md)
-- [Accelerators](./area_specific/accelerators.md)
-- [Hardware-Software Interface](./area_specific/hw_sw.md)
-- [Computer Programming(Compilers, DSA and more)](./area_specific/programming.md)
-- [Parallel Computing](./area_specific/parallel.md)
-- [Operating Systems](./area_specific/os.md)
-- [Performance](./area_specific/performance.md)
-- [High Performance Computing](./area_specific/hpc.md)
-
-- [Tools, Utilities, Simulators, Emulators and more](./area_specific/tools_and_utils.md)
 
 ## Interesting Resources
 

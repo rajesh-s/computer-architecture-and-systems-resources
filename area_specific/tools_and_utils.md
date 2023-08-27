@@ -1,13 +1,15 @@
 # Tools and Utilities
 
 - [1. Tools](#1-tools)
+  - [Performance Analysis](#performance-analysis)
+    - [Benchmarking/Profiling](#benchmarkingprofiling)
   - [1.1. Simulators](#11-simulators)
+    - [System](#system)
     - [1.1.1. Architectural](#111-architectural)
     - [1.1.2. Hardware Accelerator (incl. GPU) simulators](#112-hardware-accelerator-incl-gpu-simulators)
     - [1.1.3. Micro-architecture/ISA simulators](#113-micro-architectureisa-simulators)
     - [1.1.4. Memory Simulators](#114-memory-simulators)
     - [1.1.5. Interconnect Simulators](#115-interconnect-simulators)
-    - [1.1.6. Benchmarking/Profiling](#116-benchmarkingprofiling)
   - [1.2. Open Source Tools for Digital Design](#12-open-source-tools-for-digital-design)
     - [1.2.1. Digital/Analog Simulators](#121-digitalanalog-simulators)
   - [1.3. Emulators](#13-emulators)
@@ -17,12 +19,39 @@
 
 ## 1. Tools
 
+### Performance Analysis
+
+- [CacheGrind](https://valgrind.org/docs/manual/cg-manual.html) - Cachegrind is a high-precision tracing profiler. It runs slowly, but collects precise and reproducible profiling data. Cachegrind can also simulate how your program interacts with a machine's cache hierarchy and branch predictor.
+- [Utility for Core to Core latency measurements](https://github.com/nviennot/core-to-core-latency)
+- [nanoBench](http://www.uops.info) - A tool for running small microbenchmarks on recent Intel and AMD x86 CPUs using hardware performance coutners. [Github](https://github.com/andreas-abel/nanoBench)
+- [CPU Benchmark results](https://www.anandtech.com/bench/CPU-2019/2605)
+- [kerncraft](https://github.com/RRZE-HPC/kerncraft) - This tool allows automatic analysis of loop kernels using the Execution Cache Memory (ECM) model, the Roofline model and actual benchmarks. kerncraft provides a framework to investigate the data reuse and cache requirements by static code analysis. In combination with the Intel IACA tool kerncraft can give a good overview of both in-core and memory bottlenecks and use that data to apply performance models.
+- [TAU Performance System](https://www.cs.uoregon.edu/research/tau/home.php) - A portable profiling and tracing toolkit for performance analysis of parallel programs written in Fortran, C, C++, UPC, Java, Python.
+- [Scalene](https://github.com/plasma-umass/scalene) - A high-performance CPU, GPU and memory profiler for Python
+- [WhyProfiler](https://github.com/robusta-dev/WhyProfiler) - WhyProfiler is a CPU profiler for Jupyter notebook that not only identifies hotspots but can suggest faster alternatives.
+
+#### Benchmarking/Profiling
+
+- [PARAM](https://github.com/facebookresearch/param) - Repository of communication and compute micro-benchmarks as well as full workloads for evaluating training and inference platforms
+- [Google Workload Traces](https://dynamorio.org/google_workload_traces.html) - Warehouse scale traces captured using DynamoRIO's drmemtrace. The traces are records of instruction and memory accesses as described at Trace Format
+- [MLPerf](https://mlcommons.org/en/training-normal-07/) - Consistent measurements of accuracy, speed, and efficiency on hardware for ML workloads
+- [tp-parsec](https://github.com/massivethreads/tp-parsec) - Task-Parallel PARSEC
+- [VTune™ Profiler Performance Analysis Cookbook](https://software.intel.com/content/www/us/en/develop/documentation/vtune-cookbook/top.html)
+- [CHAI](https://chai-benchmarks.github.io/) - Chai is a benchmark suite of Collaborative Heterogeneous Applications for Integrated-architectures. The Chai benchmarks are designed to use the latest features of heterogeneous architectures such as shared virtual memory and system-wide atomics to achieve efficient simultaneous collaboration between host and accelerator devices.
+- [MachSuite](https://github.com/breagen/MachSuite) - MachSuite is a benchmark suite intended for accelerator-centric research.
+
 ### 1.1. Simulators
+
+#### System
+
+- [ASTRA-Sim](https://astra-sim.github.io/) - Distributed Deep Learning Training simulator, developed in collaboration between Georgia Tech, Meta and Intel.
+- [SST](https://sst-simulator.org/) - Structural Simulation Toolkit - Using the supercomputers of today to build the supercomputers of tomorrow
 
 #### 1.1.1. Architectural
 
 - [gem5](http://gem5.org/Main_Page) - The gem5 simulator is a modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.
   - [Lapidary](https://github.com/efeslab/lapidary) - Tool to enable more efficient gem5 simulations
+  - [SLICC Tutorial](https://gitlab-beta.engr.illinois.edu/ejclark2/gem5i/-/blob/5f0eea97e42cc845f650d0118447b19fd3ace0d6/src/mem/slicc/doc/tutorial.tex) - Documentation on SLICC
 - [CPULator](https://cpulator.01xz.net/) - CPUlator Computer System Simulator designed as a tool for learning assembly-language programming and computer organization
 - [ESESC](https://github.com/masc-ucsc/esesc) - A fast multiprocessor simulator with detailed power, thermal, and performance models for modern out-of-order multicores.
 - [Multi2Sim](http://www.multi2sim.org/) - Multi2Sim is a heterogeneous system simulator of CPUs and GPUs, used to test and validate new hardware designs before they are physically manufactured.
@@ -78,14 +107,6 @@
 - [NetTrace](http://www.cs.utexas.edu/~netrace/) -  Dependency-Tracking Trace-Based Network-on-Chip Simulation. [Source code](https://github.com/thats-all-forks/netrace)
 - [Noxim](https://github.com/davidepatti/noxim) - Network-on-Chip Simulator
 - [NIRGAM](http://nirgam.ecs.soton.ac.uk/) - A Simulator for NoC Interconnect Routing and Application Modeling
-
-#### 1.1.6. Benchmarking/Profiling
-
-- [MLPerf](https://mlcommons.org/en/training-normal-07/) - Consistent measurements of accuracy, speed, and efficiency on hardware for ML workloads
-- [tp-parsec](https://github.com/massivethreads/tp-parsec) - Task-Parallel PARSEC
-- [VTune™ Profiler Performance Analysis Cookbook](https://software.intel.com/content/www/us/en/develop/documentation/vtune-cookbook/top.html)
-- [Google Workload Traces](https://dynamorio.org/google_workload_traces.html) - Warehouse scale traces captured using DynamoRIO's drmemtrace. The traces are records of instruction and memory accesses as described at Trace Format
-- [Utility for Core to Core latency measurements](https://github.com/nviennot/core-to-core-latency)
 
 ### 1.2. Open Source Tools for Digital Design
 

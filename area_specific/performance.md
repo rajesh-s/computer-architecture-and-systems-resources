@@ -1,28 +1,17 @@
-# Performance Analysis
+# Performance Analysis and Modelling
 
+- [Courses](#courses)
 - [Books/Resources](#booksresources)
-- [Tools](#tools)
-  - [Benchmarks](#benchmarks)
 - [Articles](#articles)
+
+## Courses
+
+- [MIT 6.172 Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
 
 ## Books/Resources
 
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Performance explained easy blog](https://easyperf.net/)
-
-## Tools
-
-- [MachSuite](https://github.com/breagen/MachSuite) - MachSuite is a benchmark suite intended for accelerator-centric research.
-- [nanoBench](http://www.uops.info) - A tool for running small microbenchmarks on recent Intel and AMD x86 CPUs using hardware performance coutners. [Github](https://github.com/andreas-abel/nanoBench)
-- [CPU Benchmark results](https://www.anandtech.com/bench/CPU-2019/2605)
-- [kerncraft](https://github.com/RRZE-HPC/kerncraft) - This tool allows automatic analysis of loop kernels using the Execution Cache Memory (ECM) model, the Roofline model and actual benchmarks. kerncraft provides a framework to investigate the data reuse and cache requirements by static code analysis. In combination with the Intel IACA tool kerncraft can give a good overview of both in-core and memory bottlenecks and use that data to apply performance models.
-- [TAU Performance System](https://www.cs.uoregon.edu/research/tau/home.php) - A portable profiling and tracing toolkit for performance analysis of parallel programs written in Fortran, C, C++, UPC, Java, Python.
-- [Scalene](https://github.com/plasma-umass/scalene) - A high-performance CPU, GPU and memory profiler for Python
-- [WhyProfiler](https://github.com/robusta-dev/WhyProfiler) - WhyProfiler is a CPU profiler for Jupyter notebook that not only identifies hotspots but can suggest faster alternatives.
-
-### Benchmarks
-
-- [CHAI](https://chai-benchmarks.github.io/) - Chai is a benchmark suite of Collaborative Heterogeneous Applications for Integrated-architectures. The Chai benchmarks are designed to use the latest features of heterogeneous architectures such as shared virtual memory and system-wide atomics to achieve efficient simultaneous collaboration between host and accelerator devices.
 
 ## Articles
 
