@@ -1,9 +1,6 @@
 # Systems for ML
 
-- [Learning](#learning)
-- [Articles](#articles)
-- [Research avenues](#research-avenues)
-- [Events](#events)
+- [Resources](#resources)
 
 [All about accelerators](./accelerators.md)
 
