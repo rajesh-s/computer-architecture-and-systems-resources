@@ -32,6 +32,7 @@
 
 #### Benchmarking/Profiling
 
+- [Cost of GPUs in the cloud](https://cloud-gpus.com/) - Estimate the cost of running deep learning workloads on cloud GPUs
 - [PARAM](https://github.com/facebookresearch/param) - Repository of communication and compute micro-benchmarks as well as full workloads for evaluating training and inference platforms
 - [Google Workload Traces](https://dynamorio.org/google_workload_traces.html) - Warehouse scale traces captured using DynamoRIO's drmemtrace. The traces are records of instruction and memory accesses as described at Trace Format
 - [MLPerf](https://mlcommons.org/en/training-normal-07/) - Consistent measurements of accuracy, speed, and efficiency on hardware for ML workloads

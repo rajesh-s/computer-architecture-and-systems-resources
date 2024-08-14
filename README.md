@@ -154,6 +154,7 @@ Computer Architecture is diverse and there's interplay between domains that are 
 
 ## Blogs
 
+- [Chips and Cheese](https://chipsandcheese.com/) - In-depth analysis on memory and performance data for modern hardware
 - [Computer Architecture Today](https://www.sigarch.org/blog/)
 - [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 - [SemiEngineering](http://semiengineering.com/)
