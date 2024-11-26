@@ -1,54 +1,61 @@
 # Tools and Utilities
 
 - [1. Tools](#1-tools)
-  - [Performance Analysis](#performance-analysis)
-    - [Benchmarking/Profiling](#benchmarkingprofiling)
-  - [1.1. Simulators](#11-simulators)
-    - [System](#system)
-    - [1.1.1. Architectural](#111-architectural)
-    - [1.1.2. Hardware Accelerator (incl. GPU) simulators](#112-hardware-accelerator-incl-gpu-simulators)
-    - [1.1.3. Micro-architecture/ISA simulators](#113-micro-architectureisa-simulators)
-    - [1.1.4. Memory Simulators](#114-memory-simulators)
-    - [1.1.5. Interconnect Simulators](#115-interconnect-simulators)
-  - [1.2. Open Source Tools for Digital Design](#12-open-source-tools-for-digital-design)
-    - [1.2.1. Digital/Analog Simulators](#121-digitalanalog-simulators)
-  - [1.3. Emulators](#13-emulators)
+  - [1.1. Performance Analysis](#11-performance-analysis)
+  - [Profiling](#profiling)
+  - [1.1.1. Benchmarking](#111-benchmarking)
+  - [1.2. Simulators](#12-simulators)
+    - [1.2.1. System](#121-system)
+    - [1.2.2. Architectural](#122-architectural)
+    - [1.2.3. Hardware Accelerator (incl. GPU) simulators](#123-hardware-accelerator-incl-gpu-simulators)
+    - [1.2.4. Micro-architecture/ISA simulators](#124-micro-architectureisa-simulators)
+    - [1.2.5. Memory Simulators](#125-memory-simulators)
+    - [1.2.6. Interconnect Simulators](#126-interconnect-simulators)
+  - [1.3. Open Source Tools for Digital Design](#13-open-source-tools-for-digital-design)
+    - [1.3.1. Digital/Analog Simulators](#131-digitalanalog-simulators)
+  - [1.4. Emulators](#14-emulators)
 - [2. Utilities](#2-utilities)
   - [2.1. Hardware Design](#21-hardware-design)
 - [3. Misc](#3-misc)
 
 ## 1. Tools
 
-### Performance Analysis
+### 1.1. Performance Analysis
 
-- [CacheGrind](https://valgrind.org/docs/manual/cg-manual.html) - Cachegrind is a high-precision tracing profiler. It runs slowly, but collects precise and reproducible profiling data. Cachegrind can also simulate how your program interacts with a machine's cache hierarchy and branch predictor.
-- [Utility for Core to Core latency measurements](https://github.com/nviennot/core-to-core-latency)
+- [VTune™ Profiler Performance Analysis Cookbook](https://software.intel.com/content/www/us/en/develop/documentation/vtune-cookbook/top.html)
 - [nanoBench](http://www.uops.info) - A tool for running small microbenchmarks on recent Intel and AMD x86 CPUs using hardware performance coutners. [Github](https://github.com/andreas-abel/nanoBench)
-- [CPU Benchmark results](https://www.anandtech.com/bench/CPU-2019/2605)
 - [kerncraft](https://github.com/RRZE-HPC/kerncraft) - This tool allows automatic analysis of loop kernels using the Execution Cache Memory (ECM) model, the Roofline model and actual benchmarks. kerncraft provides a framework to investigate the data reuse and cache requirements by static code analysis. In combination with the Intel IACA tool kerncraft can give a good overview of both in-core and memory bottlenecks and use that data to apply performance models.
 - [TAU Performance System](https://www.cs.uoregon.edu/research/tau/home.php) - A portable profiling and tracing toolkit for performance analysis of parallel programs written in Fortran, C, C++, UPC, Java, Python.
 - [Scalene](https://github.com/plasma-umass/scalene) - A high-performance CPU, GPU and memory profiler for Python
 - [WhyProfiler](https://github.com/robusta-dev/WhyProfiler) - WhyProfiler is a CPU profiler for Jupyter notebook that not only identifies hotspots but can suggest faster alternatives.
-
-#### Benchmarking/Profiling
-
+- [CPU Benchmark results](https://www.anandtech.com/bench/CPU-2019/2605)
 - [Cost of GPUs in the cloud](https://cloud-gpus.com/) - Estimate the cost of running deep learning workloads on cloud GPUs
+- [ARM SPE](https://developer.arm.com/documentation/101136/latest/MAP/Arm-Statistical-Profiling-Extension--SPE-) - Hardware-assisted CPU profiling mechanism that offers detailed profiling capabilities.
+
+### 1.2. Profiling
+
+- [CacheGrind](https://valgrind.org/docs/manual/cg-manual.html) - Cachegrind is a high-precision tracing profiler. It runs slowly, but collects precise and reproducible profiling data. Cachegrind can also simulate how your program interacts with a machine's cache hierarchy and branch predictor.
+- [Utility for Core to Core latency measurements](https://github.com/nviennot/core-to-core-latency)
+- [Intel Memory latency checker](https://www.intel.com/content/www/us/en/developer/articles/tool/intelr-memory-latency-checker.html) - measure memory latencies and b/w, and how they change with increasing load on the system
+
+### 1.3. Benchmarking
+
+- [Multichase](https://github.com/google/multichase) - Pointer chase to reveal memory bandwidth and loaded-latency
 - [PARAM](https://github.com/facebookresearch/param) - Repository of communication and compute micro-benchmarks as well as full workloads for evaluating training and inference platforms
 - [Google Workload Traces](https://dynamorio.org/google_workload_traces.html) - Warehouse scale traces captured using DynamoRIO's drmemtrace. The traces are records of instruction and memory accesses as described at Trace Format
 - [MLPerf](https://mlcommons.org/en/training-normal-07/) - Consistent measurements of accuracy, speed, and efficiency on hardware for ML workloads
 - [tp-parsec](https://github.com/massivethreads/tp-parsec) - Task-Parallel PARSEC
-- [VTune™ Profiler Performance Analysis Cookbook](https://software.intel.com/content/www/us/en/develop/documentation/vtune-cookbook/top.html)
 - [CHAI](https://chai-benchmarks.github.io/) - Chai is a benchmark suite of Collaborative Heterogeneous Applications for Integrated-architectures. The Chai benchmarks are designed to use the latest features of heterogeneous architectures such as shared virtual memory and system-wide atomics to achieve efficient simultaneous collaboration between host and accelerator devices.
 - [MachSuite](https://github.com/breagen/MachSuite) - MachSuite is a benchmark suite intended for accelerator-centric research.
 
-### 1.1. Simulators
+### 1.4. Simulators
 
-#### System
+#### 1.4.1. System
 
 - [ASTRA-Sim](https://astra-sim.github.io/) - Distributed Deep Learning Training simulator, developed in collaboration between Georgia Tech, Meta and Intel.
 - [SST](https://sst-simulator.org/) - Structural Simulation Toolkit - Using the supercomputers of today to build the supercomputers of tomorrow
 
-#### 1.1.1. Architectural
+#### 1.4.2. Architectural
 
 - [gem5](http://gem5.org/Main_Page) - The gem5 simulator is a modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.
   - [Lapidary](https://github.com/efeslab/lapidary) - Tool to enable more efficient gem5 simulations
@@ -67,7 +74,7 @@
 **Full-system simulators and their popularity in conferences** (table from 2015)
 ![simulators](images/2020-08-31-13-29-56.png)
 
-#### 1.1.2. Hardware Accelerator (incl. GPU) simulators
+#### 1.4.3. Hardware Accelerator (incl. GPU) simulators
 
 - [Accel-Sim](https://accel-sim.github.io/) - Simulation framework for simulating and validating programmable accelerators like GPUs
 - [GPGPU Sim](gpgpu-sim.org) - GPGPU-Sim provides a detailed simulation model of a contemporary GPUs
@@ -76,7 +83,7 @@
 - [SCALESim](https://github.com/ARM-software/SCALE-Sim) - SCALE sim is a CNN accelerator simulator, that provides cycle-accurate timing, power/energy, memory bandwidth and trace results for a specified accelerator configuration and neural network architecture.
 - [STONNE](https://github.com/stonne-simulator/stonne) - Simulation TOol of Neural Network Engines, a cycle-level, highly-modular and highly-extensible simulation framework that can plug into any high-level DNN framework as an accelerator device and perform end-to-end evaluation of flexible accelerator microarchitectures with sparsity support, running complete DNN models.
 
-#### 1.1.3. Micro-architecture/ISA simulators
+#### 1.4.4. Micro-architecture/ISA simulators
 
 - [ChampSim](https://github.com/ChampSim/ChampSim) - ChampSim is a trace-based simulator for a microarchitecture study.
 - [Mastik](https://cs.adelaide.edu.au/~yval/Mastik/)  - A Micro-Architectural Side-Channel Toolkit
@@ -88,7 +95,7 @@
 - [The uops.info Code Analyzer](https://uica.uops.info/)
 - [SIMD Giraffe](https://pmntang.github.io/SIMDGiraffe/#/) - Break down x86 SIMD instructions
 
-#### 1.1.4. Memory Simulators
+#### 1.4.5. Memory Simulators
 
 - [PyCacheSim](https://github.com/RRZE-HPC/pycachesim) - Accurately simulate the caching (allocation/hit/miss/replace/evict) behavior of all cache levels found in modern processors
 - [VANS](https://github.com/TheNetAdmin/VANS) - A validated NVRAM simulator
@@ -102,14 +109,14 @@
 - [RAMulator](https://github.com/CMU-SAFARI/ramulator) - Ramulator is a fast and cycle-accurate DRAM simulator [1] that supports a wide array of commercial, as well as academic, DRAM standards
 - [Intel TSX MESI Cache simulator](https://www.scss.tcd.ie/Jeremy.Jones/VivioJS/caches/TSX.htm) - Animations to illustrate cache behavior
 
-#### 1.1.5. Interconnect Simulators
+#### 1.4.6. Interconnect Simulators
 
 - [BookSim](https://github.com/thats-all-forks/booksim2) - A cycle-accurate interconnection network simulator
 - [NetTrace](http://www.cs.utexas.edu/~netrace/) -  Dependency-Tracking Trace-Based Network-on-Chip Simulation. [Source code](https://github.com/thats-all-forks/netrace)
 - [Noxim](https://github.com/davidepatti/noxim) - Network-on-Chip Simulator
 - [NIRGAM](http://nirgam.ecs.soton.ac.uk/) - A Simulator for NoC Interconnect Routing and Application Modeling
 
-### 1.2. Open Source Tools for Digital Design
+### 1.5. Open Source Tools for Digital Design
 
 - [Verilator](https://www.veripool.org/projects/verilator/) - Verilator is the fastest free Verilog HDL simulator, and outperforms most commercial simulators
 - [Icarus Verilog](https://github.com/steveicarus/iverilog) - Icarus Verilog is not aimed at being a simulator in the traditional sense, but a compiler that generates code employed by back-end tools.
@@ -152,7 +159,7 @@
 - [DREAMPlace](https://github.com/limbo018/DREAMPlace) - Deep learning toolkit-enabled VLSI placement
 - [SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler) - A modular build system for hardware ("make for silicon"). The project philosophy is to "make the complex possible while keeping the simple simple".
 
-#### 1.2.1. Digital/Analog Simulators
+#### 1.5.1. Digital/Analog Simulators
 
 - [DigitalJS](https://github.com/tilk/digitaljs) - Visualize and simulate digital logic using HDL
 - [Digital](https://github.com/hneemann/Digital) - Digital is a easy-to-use digital logic designer and circuit simulator designed for educational purposes.
@@ -172,7 +179,7 @@
 - [Antares](https://www.antarescircuit.io/) - Digital Circuit Learning Platform. A free, powerful platform for designing, simulating and explaining digital circuits
 - [MakerChip](https://www.makerchip.com/) - In-browser Verilog design environment
 
-### 1.3. Emulators
+### 1.6. Emulators
 
 - [TinyEMU](https://bellard.org/tinyemu/) - TinyEMU is a system emulator for the RISC-V and x86 architectures.
 - [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.

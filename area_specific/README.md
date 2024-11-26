@@ -2,6 +2,8 @@
 
 Digging deeper into specific areas of Computer Engineering
 
+- [Tools, Utilities, Simulators, Emulators and more](./tools_and_utils.md)
+
 Increasing order of abstraction in Computer Systems:
 
 - [Electronics](./electronics.md)
@@ -21,11 +23,8 @@ Increasing order of abstraction in Computer Systems:
 - [Computer Systems](./systems.md)
 - [Systems for ML](./mlsys.md) A new area is emerging at the intersection of artificial intelligence, machine learning, and systems design
 
-- [Tools, Utilities, Simulators, Emulators and more](./tools_and_utils.md)
-
 Miscellaneous:
 
 - [Interesting Companies](./interesting_companies.md)
 - [Computer Networks](./networks.md)
 - [Computer Security](./security.md)
-- [Software Defined Radio](./sdr.md)
