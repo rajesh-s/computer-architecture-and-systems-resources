@@ -175,6 +175,7 @@ Computer Architecture is diverse and there's interplay between domains that are 
 
 ## Interesting Resources
 
+- [The evolution of chiplets illustrated by Financial times](https://ig.ft.com/microchips/)
 - [The Great ISAs - Adrian Sampson](https://www.cs.cornell.edu/courses/cs7491/2020sp/)
 - [A great resource on upcoming Systems conferences and venues](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
 - [Computer Architecture Zotero Research library](https://www.zotero.org/groups/2426044/coffeebeforearch/items/)
